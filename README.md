@@ -12,5 +12,5 @@ python EnglishGame.py
 ```
 
 Notes:
-- The program uses `gTTS` (requires internet) to pronounce words. If `gTTS` is unavailable, it will attempt an offline fallback using `pyttsx3`.
+- The program uses `gTTS` (requires internet) to pronounce words.
 - A 20-second timer applies for typing each word.
