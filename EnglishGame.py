@@ -20,10 +20,8 @@ WORD_FOLDER = os.path.join(BASE_DIR, 'word_folder')
 
 def load_words(level):
     """Load the word list for the specified difficulty level.
-
     Args:
         level (int): The KS level number to load (1-4).
-
     Returns:
         list[str]: A list of non-empty words read from the KS file.
     """
@@ -38,7 +36,6 @@ def load_words(level):
 class TTSPlayer:
     def __init__(self):
         """Initialize the text-to-speech helper.
-
         Attempts to initialize the pygame audio mixer and configures the
         TTS engine availability state.
         """
@@ -54,7 +51,6 @@ class TTSPlayer:
 
     def speak(self, text):
         """Speak the given text aloud or print a fallback message.
-
         If gTTS is available, this method starts a background thread to play
         the generated audio so the UI remains responsive.
         """
@@ -166,15 +162,23 @@ class EnglishGame:
             self.score += 1
             self.message = 'Correct!'
         else:
-            self.message = f'Wrong — correct: {self.current_word}'
+            self.message = f'Wrong. Correct word: {self.current_word}'
         self.active = False
 
     def run(self):
         """Run the main game loop, handle player input, and render the UI."""
-        # prepare buttons
+
+        # Define layout of screen (vertical positions of buttons and texts)
+        first_text_height = 20
         first_row_button_height = 60
         second_row_button_height = 130
+        second_text_height = 210
+        input_box_height = 260
+        message_height = 320
+        third_text_height = 350
+        third_row_button_height = 400
 
+        # Prepare buttons positions and sizes
         buttons = []
         for i in range(4):
             rect = pygame.Rect(50 + i * 200, first_row_button_height, 160, 50)
@@ -183,9 +187,9 @@ class EnglishGame:
         next_button = pygame.Rect(50, second_row_button_height, 220, 50)
         rehear_button = pygame.Rect(320, second_row_button_height, 220, 50)
         exit_button = pygame.Rect(590, second_row_button_height, 220, 50)
-        reset_button = pygame.Rect(50, 400, 220, 50)
+        reset_button = pygame.Rect(50, third_row_button_height, 220, 50)
 
-        k_width, k_height = 60, 60
+        k_width, k_height = 60, 60  # standard size for key icons
         k_arrow_up = pygame.image.load("key_button_image/arrow-up.png").convert_alpha()
         k_arrow_down = pygame.image.load("key_button_image/arrow-down.png").convert_alpha()
         k_arrow_left = pygame.image.load("key_button_image/arrow-left.png").convert_alpha()
@@ -214,64 +218,66 @@ class EnglishGame:
                 if event.type == pygame.QUIT:
                     running = False
                 elif event.type == pygame.MOUSEBUTTONDOWN:
-                    for idx, (rect, label) in enumerate(buttons):
+                    for idx, (rect, label) in enumerate(buttons):  # if click on level buttons
                         if rect.collidepoint(event.pos):
                             self.level = idx + 1
                             self.words = load_words(self.level)
-                    if next_button.collidepoint(event.pos):
+                    if next_button.collidepoint(event.pos):        # click on Next
                         if self.level and not self.active:
                             self.start_round()
-                    if rehear_button.collidepoint(event.pos):
+                    if rehear_button.collidepoint(event.pos):      # click on Rehear
                         if self.current_word:
                             self.tts.speak(self.current_word)
-                    if exit_button.collidepoint(event.pos):
+                    if exit_button.collidepoint(event.pos):        # click on Exit
                         running = False
-                    if reset_button.collidepoint(event.pos):
+                    if reset_button.collidepoint(event.pos):       # click on Reset
                         # reset score
                         if self.level and not self.active:
                             self.score = 0
                             self.rounds = 0
                             self.message = 'Score reset.'
                 elif event.type == pygame.KEYDOWN:
-                    if event.key == pygame.K_BACKSPACE:
+                    if event.key == pygame.K_BACKSPACE:            # handle backspace
                         self.typed = self.typed[:-1]
-                    elif event.key == pygame.K_RETURN:
+                    elif event.key == pygame.K_RETURN:             # handle Enter key to submit answer
                         if self.active:
                             self.submit_answer()
-                    elif event.key == pygame.K_LEFT:
+                    elif event.key == pygame.K_LEFT:               # handle left arrow to decrease level
                         if self.level and not self.active:
                             self.level = max(1, self.level - 1)
                             self.words = load_words(self.level)
-                    elif event.key == pygame.K_RIGHT:
+                    elif event.key == pygame.K_RIGHT:              # handle right arrow to increase level
                         if self.level and not self.active:
                             self.level = min(4, self.level + 1)
                             self.words = load_words(self.level)
-                    elif event.key == pygame.K_SPACE:
-                        # only start next when not typing
+                    elif event.key == pygame.K_SPACE:              # handle space to start next round
                         if self.level and not self.active:
                             self.start_round()
-                    elif event.key == pygame.K_UP:
+                    elif event.key == pygame.K_UP:                 # handle up arrow to rehear word
                         if self.current_word:
                             self.tts.speak(self.current_word)
-                    elif event.key == pygame.K_DOWN:
-                        # Down resets score
-                        self.score = 0
-                        self.rounds = 0
-                        self.message = 'Score reset.'
-                    elif event.key == pygame.K_ESCAPE:
+                    elif event.key == pygame.K_DOWN:               # handle down arrow to reset score
+                        if self.level and not self.active:
+                            self.score = 0
+                            self.rounds = 0
+                            self.message = 'Score reset.'
+                    elif event.key == pygame.K_ESCAPE:             # handle Esc key to exit
                         running = False
                     else:
-                        if self.active:
-                            # limit input length to prevent overflow
+                        if self.active:                            # handle regular character input for typing the answer
                             if len(self.typed) < 60:
                                 self.typed += event.unicode
 
             # Draw UI
+            # 1st row text
             if self.level is None:
-                self.draw_text('Select level:', (50, 20), self.font)
+                self.draw_text('Select level:', (50, first_text_height), self.font)
+            elif self.active:
+                self.draw_text(f'Listen and type the word:', (50, first_text_height), self.font)
             else:
-                self.draw_text(f'Select level (or use                         keys): KS{self.level} ({len(self.words)} words)', (50, 20), self.font)
+                self.draw_text(f'Select level (or use                         keys): KS{self.level} ({len(self.words)} words)', (50, first_text_height), self.font)
 
+            # Draw 1st row (level) buttons with hover effect
             for rect, label in buttons:
                 color = (180, 180, 255) if self.level and label == f'KS{self.level}' else (200, 200, 200)
                 if rect.collidepoint((mx, my)):
@@ -279,38 +285,40 @@ class EnglishGame:
                 else:
                     pygame.draw.rect(self.screen, color, rect)
                 self.draw_text(label, (rect.x + 20, rect.y + 12), self.font)
-
-            # Buttons with hover effect
+            
+            # Draw 2nd row buttons appear or not based on game state, with hover effects
             hover_next = next_button.collidepoint((mx, my))
             hover_rehear = rehear_button.collidepoint((mx, my))
             hover_exit = exit_button.collidepoint((mx, my))
             hover_reset = reset_button.collidepoint((mx, my))
 
-            pygame.draw.rect(self.screen, (160, 255, 160) if not hover_next else (120, 230, 120), next_button)
-            self.draw_text('Next', (next_button.x + 28, next_button.y + 12), self.font)
-            pygame.draw.rect(self.screen, (255, 200, 100) if not hover_rehear else (220, 170, 60), rehear_button)
-            self.draw_text('Rehear', (rehear_button.x + 20, rehear_button.y + 12), self.font)
+            if self.level is not None:  # only draw after a level is selected
+                if not self.active:
+                    pygame.draw.rect(self.screen, (160, 255, 160) if not hover_next else (120, 230, 120), next_button)
+                    self.draw_text('Next', (next_button.x + 28, next_button.y + 12), self.font)
+                    pygame.draw.rect(self.screen, (220, 220, 255) if not hover_reset else (190, 190, 255), reset_button)
+                    self.draw_text('Reset score', (reset_button.x + 12, reset_button.y + 10), self.font)
+                pygame.draw.rect(self.screen, (255, 200, 100) if not hover_rehear else (220, 170, 60), rehear_button)
+                self.draw_text('Rehear', (rehear_button.x + 20, rehear_button.y + 12), self.font)
             pygame.draw.rect(self.screen, (255, 160, 160) if not hover_exit else (220, 120, 120), exit_button)
             self.draw_text('Exit', (exit_button.x + 32, exit_button.y + 12), self.font)
-            pygame.draw.rect(self.screen, (220, 220, 255) if not hover_reset else (190, 190, 255), reset_button)
-            self.draw_text('Reset score', (reset_button.x + 12, reset_button.y + 10), self.font)
+            
 
-            # Draw small key icons near buttons
-            # Left/Right icons above level buttons
-            if self.level:
-                self.screen.blit(k_arrow_left, (260, 0))
-                self.screen.blit(k_arrow_right, (330, 0))
-            # Space icon near Next
-            self.screen.blit(k_space, (200, second_row_button_height - 5))
-            # Up arrow near Rehear
-            self.screen.blit(k_arrow_up, (470, second_row_button_height - 5))
-            # Esc near Exit
-            self.screen.blit(k_esc, (740, second_row_button_height - 5))
-            # Down arrow near Reset
-            self.screen.blit(k_arrow_down, (200, 395))
+            # Draw small key icons near buttons based on the current game state
+            if self.level is not None:  # only draw after a level is selected
+                self.screen.blit(k_arrow_up, (470, second_row_button_height - 5))   # Up arrow near Rehear
+                if not self.active:
+                    self.screen.blit(k_arrow_left, (260, first_text_height - 20))   # Left arrow near KS level
+                    self.screen.blit(k_arrow_right, (330, first_text_height - 20))  # Right arrow near KS level
+                    self.screen.blit(k_space, (200, second_row_button_height - 5))  # Space near Next
+                    self.screen.blit(k_arrow_down, (200, 395))                      # Down arrow near Reset score
+                else:
+                    self.screen.blit(k_backspace, (660, input_box_height - 10))     # Backspace near input box
+                    self.screen.blit(k_enter, (720, input_box_height - 10))         # Enter near input box
+            self.screen.blit(k_esc, (740, second_row_button_height - 5))            # Esc near Exit
 
             # Game info
-            self.draw_text(f'Score: {self.score}/{self.rounds}', (50, 340), self.font)
+            self.draw_text(f'Score: {self.score}/{self.rounds}', (50, third_text_height), self.font)
 
             if self.active and self.start_time:
                 remaining = int(self.time_limit - (time.time() - self.start_time))
@@ -321,18 +329,17 @@ class EnglishGame:
                     self.message = f'Time up — correct: {self.current_word}'
                     self.active = False
             elif self.level is None:
-                self.draw_text('Select a level to start the game.', (50, 200), self.font)
+                self.draw_text('Select a level to start the game.', (50, second_text_height), self.font)
             else:
-                self.draw_text('Press Space or click Next to hear a word.', (50, 200), self.font)
-                self.draw_text('Keyboard: ←/→ change level, ↑ rehear, Esc exit, Down reset', (50, 230), self.small_font, color=(80, 80, 80))
+                self.draw_text('Press Space or click Next to hear a word.', (50, second_text_height), self.font)
 
             # Input box
-            pygame.draw.rect(self.screen, (255, 255, 255), pygame.Rect(50, 260, 600, 40))
-            pygame.draw.rect(self.screen, (0, 0, 0), pygame.Rect(50, 260, 600, 40), 2)
-            self.draw_text(self.typed, (60, 268), self.font)
+            pygame.draw.rect(self.screen, (255, 255, 255), pygame.Rect(50, input_box_height, 600, 40))
+            pygame.draw.rect(self.screen, (0, 0, 0), pygame.Rect(50, input_box_height, 600, 40), 2)
+            self.draw_text(self.typed, (60, input_box_height + 8), self.font)
 
             # Message
-            self.draw_text(self.message, (50, 300), self.font, color=(80, 80, 80))
+            self.draw_text(self.message, (50, message_height), self.font, color=(80, 80, 80) if self.message != 'Correct!' else (0, 150, 0))
 
             pygame.display.flip()
             self.clock.tick(30)
