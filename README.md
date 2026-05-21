@@ -43,7 +43,9 @@ python EnglishGame.py
 - Press `Esc` or click `Exit` to quit the game
 
 ## Video Showcase
-<video src="github_assets/EnglishGame_showcase.mp4" width="100%" controls></video>
+
+https://github.com/user-attachments/assets/9d657128-cff1-401c-b54b-e66ad1620968
+
 
 ## Directory Structure
 
