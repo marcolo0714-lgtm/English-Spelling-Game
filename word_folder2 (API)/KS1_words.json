@@ -1,0 +1,5376 @@
+[
+    {
+        "word": "a",
+        "pos": "noun",
+        "def": "The name of the Latin script letter A/a."
+    },
+    {
+        "word": "about",
+        "pos": "adjective",
+        "def": "Moving around; astir."
+    },
+    {
+        "word": "absent",
+        "pos": "noun",
+        "def": "(with definite article) Something absent, especially absent people collectively; those who were or are not there."
+    },
+    {
+        "word": "across",
+        "pos": "noun",
+        "def": "(crosswords, often in combination) A word that runs horizontally in the completed puzzle grid or its associated clue."
+    },
+    {
+        "word": "act",
+        "pos": "noun",
+        "def": "Something done, a deed."
+    },
+    {
+        "word": "activity",
+        "pos": "noun",
+        "def": "The state or quality of being active; activeness."
+    },
+    {
+        "word": "add",
+        "pos": "noun",
+        "def": "An act or instance of adding."
+    },
+    {
+        "word": "address",
+        "pos": "noun",
+        "def": "Direction."
+    },
+    {
+        "word": "aeroplane",
+        "pos": "noun",
+        "def": "A powered heavier-than-air aircraft with fixed wings."
+    },
+    {
+        "word": "afraid",
+        "pos": "adjective",
+        "def": "(usually used predicatively, not attributively, be afraid) Impressed with fear or apprehension; in fear."
+    },
+    {
+        "word": "after",
+        "pos": "adjective",
+        "def": "Later; second (of two); next, following, subsequent"
+    },
+    {
+        "word": "afternoon",
+        "pos": "noun",
+        "def": "The part of the day from noon or lunchtime until sunset, evening, or suppertime or 6pm."
+    },
+    {
+        "word": "again",
+        "pos": "adverb",
+        "def": "Another time; once more."
+    },
+    {
+        "word": "age",
+        "pos": "noun",
+        "def": "The whole duration of a being, whether animal, plant, or other kind, being alive."
+    },
+    {
+        "word": "ago",
+        "pos": "adjective",
+        "def": "Gone; gone by; gone away; passed; passed away."
+    },
+    {
+        "word": "agree",
+        "pos": "verb",
+        "def": "To harmonize in opinion, statement, or action; to be in unison or concord; to be or become united or consistent; to concur."
+    },
+    {
+        "word": "air",
+        "pos": "noun",
+        "def": "The substance constituting earth's atmosphere, particularly:"
+    },
+    {
+        "word": "all",
+        "pos": "noun",
+        "def": "(with a possessive pronoun) Everything that one is capable of."
+    },
+    {
+        "word": "along",
+        "pos": "adverb",
+        "def": "In company; together."
+    },
+    {
+        "word": "aloud",
+        "pos": "adjective",
+        "def": "Spoken out loud."
+    },
+    {
+        "word": "alphabet",
+        "pos": "noun",
+        "def": "The set of letters used when writing in a language."
+    },
+    {
+        "word": "also",
+        "pos": "adverb",
+        "def": "(focus) In addition; besides; as well; further; too."
+    },
+    {
+        "word": "and",
+        "pos": "noun",
+        "def": "In rhythm, the second half of a divided beat."
+    },
+    {
+        "word": "angry",
+        "pos": "adjective",
+        "def": "Displaying or feeling anger."
+    },
+    {
+        "word": "animal",
+        "pos": "noun",
+        "def": "In scientific usage, a multicellular organism that is usually mobile, whose cells are not encased in a rigid cell wall (distinguishing it from plants and fungi) and which derives energy solely from the consumption of other organisms (distinguishing it from plants)."
+    },
+    {
+        "word": "another",
+        "pos": "pronoun",
+        "def": "An additional one of the same kind."
+    },
+    {
+        "word": "answer",
+        "pos": "noun",
+        "def": "A response or reply; something said or done in reaction to a statement or question."
+    },
+    {
+        "word": "ant",
+        "pos": "noun",
+        "def": "Any of various insects in the family Formicidae in the order Hymenoptera, typically living in large colonies composed almost entirely of flightless females."
+    },
+    {
+        "word": "any",
+        "pos": "adverb",
+        "def": "To even the slightest extent, at all."
+    },
+    {
+        "word": "apple",
+        "pos": "noun",
+        "def": "A common, round fruit produced by the tree Malus domestica, cultivated in temperate climates."
+    },
+    {
+        "word": "april"
+    },
+    {
+        "word": "arm",
+        "pos": "noun",
+        "def": "The portion of the upper human appendage, from the shoulder to the wrist and sometimes including the hand."
+    },
+    {
+        "word": "around",
+        "pos": "adjective",
+        "def": "(with the verb \"to be\") Present in the vicinity."
+    },
+    {
+        "word": "arrive",
+        "pos": "verb",
+        "def": "To reach; to get to a certain place."
+    },
+    {
+        "word": "art",
+        "pos": "noun",
+        "def": "The conscious production or arrangement of sounds, colours, forms, movements, or other elements in a manner that affects the senses and emotions, usually specifically the production of the beautiful in a graphic or plastic medium."
+    },
+    {
+        "word": "as",
+        "pos": "adverb",
+        "def": "To such an extent or degree; to the same extent or degree."
+    },
+    {
+        "word": "ask",
+        "pos": "noun",
+        "def": "An act or instance of asking."
+    },
+    {
+        "word": "at",
+        "pos": "verb",
+        "def": "To reply to or talk to someone, either online or face-to-face. (from the practice of targeting a message or reply to someone online by writing @name)"
+    },
+    {
+        "word": "attention",
+        "pos": "noun",
+        "def": "Mental focus."
+    },
+    {
+        "word": "august",
+        "pos": "adjective",
+        "def": "Awe-inspiring, majestic, noble, venerable."
+    },
+    {
+        "word": "aunt",
+        "pos": "noun",
+        "def": "The sister or sister-in-law of one\u2019s parent."
+    },
+    {
+        "word": "author",
+        "pos": "noun",
+        "def": "The originator or creator of a work, especially of a literary composition."
+    },
+    {
+        "word": "autumn",
+        "pos": "noun",
+        "def": "Traditionally the third of the four seasons, when deciduous trees lose their leaves; typically regarded as being from September 24 to December 22 in parts of the Northern Hemisphere, and the months of March, April and May in the Southern Hemisphere."
+    },
+    {
+        "word": "away",
+        "pos": "verb",
+        "def": "To depart; to go to another place."
+    },
+    {
+        "word": "axe",
+        "pos": "noun",
+        "def": "A tool for felling trees or chopping wood etc. consisting of a heavy head flattened to a blade on one side, and a handle attached to it."
+    },
+    {
+        "word": "baby",
+        "pos": "noun",
+        "def": "A very young human, particularly from birth to a couple of years old or until walking is fully mastered."
+    },
+    {
+        "word": "back",
+        "pos": "noun",
+        "def": "The rear of the body, especially the part between the neck and the end of the spine and opposite the chest and belly."
+    },
+    {
+        "word": "bad",
+        "pos": "noun",
+        "def": "Error, mistake."
+    },
+    {
+        "word": "badminton",
+        "pos": "noun",
+        "def": "A racquet sport played indoors on a court by two opposing players (singles) or two opposing pairs of players (doubles), in which a shuttlecock is volleyed over a net and the competitions are presided by an umpire in British English and a referee in American English."
+    },
+    {
+        "word": "bag",
+        "pos": "noun",
+        "def": "A flexible container made of cloth, paper, plastic, etc."
+    },
+    {
+        "word": "ball",
+        "pos": "noun",
+        "def": "A solid or hollow sphere, or roughly spherical mass."
+    },
+    {
+        "word": "balloon",
+        "pos": "noun",
+        "def": "An inflatable buoyant object, often (but not necessarily) round and flexible."
+    },
+    {
+        "word": "banana",
+        "pos": "noun",
+        "def": "An elongated curved tropical fruit that grows in bunches and has a creamy flesh and a smooth skin."
+    },
+    {
+        "word": "bank",
+        "pos": "noun",
+        "def": "An institution where one can place and borrow money and take care of financial affairs."
+    },
+    {
+        "word": "bark",
+        "pos": "noun",
+        "def": "The short, loud, explosive sound uttered by a dog, a fox, and some other animals."
+    },
+    {
+        "word": "basket",
+        "pos": "noun",
+        "def": "A lightweight container, generally round, open at the top, and tapering toward the bottom."
+    },
+    {
+        "word": "basketball",
+        "pos": "noun",
+        "def": "A sport in which two opposing teams of five players strive to put a ball through a hoop."
+    },
+    {
+        "word": "bath",
+        "pos": "noun",
+        "def": "A tub or pool which is used for bathing: bathtub."
+    },
+    {
+        "word": "bathroom",
+        "pos": "noun",
+        "def": "A room containing a shower and/or bathtub, and (typically but not necessarily) a toilet."
+    },
+    {
+        "word": "be"
+    },
+    {
+        "word": "beach",
+        "pos": "noun",
+        "def": "The shore of a body of water, especially when sandy or pebbly."
+    },
+    {
+        "word": "bear",
+        "pos": "noun",
+        "def": "A large omnivorous mammal, related to the dog and raccoon, having shaggy hair, a very small tail, and flat feet; a member of family Ursidae."
+    },
+    {
+        "word": "beautiful",
+        "pos": "noun",
+        "def": "Someone who is beautiful. Can be used as a term of address."
+    },
+    {
+        "word": "because",
+        "pos": "adverb",
+        "def": "For the reason (that)."
+    },
+    {
+        "word": "become",
+        "pos": "verb",
+        "def": "To arrive, come (to a place)."
+    },
+    {
+        "word": "bed",
+        "pos": "noun",
+        "def": "A piece of furniture, usually flat and soft, on which to rest or sleep."
+    },
+    {
+        "word": "bedroom",
+        "pos": "noun",
+        "def": "A room in a house where a bed is kept for sleeping."
+    },
+    {
+        "word": "bee",
+        "pos": "noun",
+        "def": "A flying insect, of the clade Anthophila within the hymenopteran superfamily Apoidea, known for its organised societies (though only a minority have them), for collecting pollen and (in some species) producing wax and honey."
+    },
+    {
+        "word": "beef",
+        "pos": "noun",
+        "def": "The meat from a cow, bull or other bovine."
+    },
+    {
+        "word": "before",
+        "pos": "adverb",
+        "def": "At an earlier time."
+    },
+    {
+        "word": "begin",
+        "pos": "noun",
+        "def": "Beginning; start."
+    },
+    {
+        "word": "behind",
+        "pos": "noun",
+        "def": "The rear, back-end"
+    },
+    {
+        "word": "bell",
+        "pos": "noun",
+        "def": "A percussive instrument made of metal or other hard material, typically but not always in the shape of an inverted cup with a flared rim, which resonates when struck."
+    },
+    {
+        "word": "belong",
+        "pos": "verb",
+        "def": "To have its proper place."
+    },
+    {
+        "word": "belt",
+        "pos": "noun",
+        "def": "A band worn around the waist to hold clothing to one's body (usually pants), hold weapons (such as a gun or sword), or serve as a decorative piece of clothing."
+    },
+    {
+        "word": "beside",
+        "pos": "adverb",
+        "def": "Otherwise; else."
+    },
+    {
+        "word": "between",
+        "pos": "noun",
+        "def": "A kind of needle, shorter than a sharp, with a small rounded eye, used for making fine stitches on heavy fabrics."
+    },
+    {
+        "word": "bicycle",
+        "pos": "noun",
+        "def": "A vehicle that has two wheels, one behind the other, a steering handle, and a saddle seat or seats and is usually propelled by the action of a rider\u2019s feet upon pedals."
+    },
+    {
+        "word": "big",
+        "pos": "noun",
+        "def": "Someone or something that is large in stature"
+    },
+    {
+        "word": "bin",
+        "pos": "noun",
+        "def": "A box, frame, crib, or enclosed place, used as a storage container."
+    },
+    {
+        "word": "bird",
+        "pos": "noun",
+        "def": "A member of the class of animals Aves in the phylum Chordata, characterized by being warm-blooded, having feathers and wings usually capable of flight, and laying eggs."
+    },
+    {
+        "word": "birth",
+        "pos": "noun",
+        "def": "The process of childbearing; the beginning of life."
+    },
+    {
+        "word": "birthday",
+        "pos": "noun",
+        "def": "The anniversary of the day on which someone is born."
+    },
+    {
+        "word": "biscuit",
+        "pos": "noun",
+        "def": "(rare in the US) A small, flat, baked good which is either hard and crisp or else soft but firm: a cookie."
+    },
+    {
+        "word": "black",
+        "pos": "noun",
+        "def": "The colour/color perceived in the absence of light, but also when no light is reflected, but rather absorbed."
+    },
+    {
+        "word": "blackboard",
+        "pos": "noun",
+        "def": "A large flat surface, finished with black slate or a similar material, that can be written upon with chalk and subsequently erased; a chalkboard."
+    },
+    {
+        "word": "blank",
+        "pos": "noun",
+        "def": "A small French coin, originally of silver, afterwards of copper, worth 5 deniers; also a silver coin of Henry V current in the parts of France then held by the English, worth about 8 pence ."
+    },
+    {
+        "word": "block",
+        "pos": "noun",
+        "def": "A substantial, often approximately cuboid, piece of any substance."
+    },
+    {
+        "word": "blouse",
+        "pos": "noun",
+        "def": "A shirt, typically loose and reaching from the neck to the waist."
+    },
+    {
+        "word": "blow",
+        "pos": "noun",
+        "def": "A strong wind."
+    },
+    {
+        "word": "blue",
+        "pos": "noun",
+        "def": "The colour of the clear sky or the deep sea, between green and violet in the visible spectrum, and one of the primary additive colours for transmitted light; the colour obtained by subtracting red and green from white light using magenta and cyan filters; or any colour resembling this."
+    },
+    {
+        "word": "board",
+        "pos": "noun",
+        "def": "A relatively long, wide and thin piece of any material, usually wood or similar, often for use in construction or furniture-making."
+    },
+    {
+        "word": "boat",
+        "pos": "noun",
+        "def": "A craft used for transportation of goods, fishing, racing, recreational cruising, or military use on or in the water, propelled by oars or outboard motor or inboard motor or by wind."
+    },
+    {
+        "word": "body",
+        "pos": "noun",
+        "def": "Physical frame."
+    },
+    {
+        "word": "book",
+        "pos": "noun",
+        "def": "A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc."
+    },
+    {
+        "word": "boot",
+        "pos": "noun",
+        "def": "A heavy shoe that covers part of the leg."
+    },
+    {
+        "word": "boring",
+        "pos": "verb",
+        "def": "To inspire boredom in somebody."
+    },
+    {
+        "word": "borrow",
+        "pos": "noun",
+        "def": "Deviation of the path of a rolling ball from a straight line; slope; slant."
+    },
+    {
+        "word": "both",
+        "pos": "pronoun",
+        "def": "Each of the two, or of the two kinds."
+    },
+    {
+        "word": "bottle",
+        "pos": "noun",
+        "def": "A container, typically made of glass or plastic and having a tapered neck, used primarily for holding liquids."
+    },
+    {
+        "word": "bottom",
+        "pos": "noun",
+        "def": "The lowest part of anything."
+    },
+    {
+        "word": "bowl",
+        "pos": "noun",
+        "def": "A roughly hemispherical container used to hold, mix or present food, such as salad, fruit or soup, or other items."
+    },
+    {
+        "word": "box",
+        "pos": "noun",
+        "def": "Senses relating to a three-dimensional object or space."
+    },
+    {
+        "word": "boy",
+        "pos": "noun",
+        "def": "A young male."
+    },
+    {
+        "word": "bracket",
+        "pos": "noun",
+        "def": "A fixture attached to a wall to hold up a shelf."
+    },
+    {
+        "word": "brave",
+        "pos": "noun",
+        "def": "A Native American warrior."
+    },
+    {
+        "word": "bread",
+        "pos": "noun",
+        "def": "A foodstuff made by baking dough made from cereals."
+    },
+    {
+        "word": "break",
+        "pos": "noun",
+        "def": "An instance of breaking something into two or more pieces."
+    },
+    {
+        "word": "breakfast",
+        "pos": "noun",
+        "def": "The first meal of the day, usually eaten in the morning."
+    },
+    {
+        "word": "bridge",
+        "pos": "noun",
+        "def": "A construction or natural feature that spans a divide."
+    },
+    {
+        "word": "bright",
+        "pos": "noun",
+        "def": "An artist's brush used in oil and acrylic painting with a long ferrule and a flat, somewhat tapering bristle head."
+    },
+    {
+        "word": "bring",
+        "pos": "verb",
+        "def": "(ditransitive) To transport toward somebody/somewhere."
+    },
+    {
+        "word": "brother",
+        "pos": "noun",
+        "def": "Son of the same parents as another person."
+    },
+    {
+        "word": "brown",
+        "pos": "noun",
+        "def": "A colour like that of chocolate or coffee."
+    },
+    {
+        "word": "brush",
+        "pos": "noun",
+        "def": "An implement consisting of multiple more or less flexible bristles or other filaments attached to a handle, used for any of various purposes including cleaning, painting, and arranging hair."
+    },
+    {
+        "word": "build",
+        "pos": "noun",
+        "def": "The physique of a human body; constitution or structure of a human body."
+    },
+    {
+        "word": "burn",
+        "pos": "noun",
+        "def": "A physical injury caused by heat, cold, electricity, radiation or caustic chemicals."
+    },
+    {
+        "word": "bus",
+        "pos": "noun",
+        "def": "A motor vehicle for transporting large numbers of people along roads."
+    },
+    {
+        "word": "busy",
+        "pos": "noun",
+        "def": "A police officer."
+    },
+    {
+        "word": "but",
+        "pos": "noun",
+        "def": "An instance or example of using the word \"but\"."
+    },
+    {
+        "word": "butter",
+        "pos": "noun",
+        "def": "A soft, fatty foodstuff made by churning the cream of milk (generally cow's milk)."
+    },
+    {
+        "word": "butterfly",
+        "pos": "noun",
+        "def": "A flying insect of the order Lepidoptera, distinguished from moths by their diurnal activity and generally brighter colouring."
+    },
+    {
+        "word": "button",
+        "pos": "noun",
+        "def": "One who adjusts, especially for the insurance industry's employment title \"loss adjuster\" (or \"claims adjuster\" in the United States)."
+    },
+    {
+        "word": "buy",
+        "pos": "noun",
+        "def": "Something which is bought; a purchase."
+    },
+    {
+        "word": "by",
+        "pos": "noun",
+        "def": "A flying insect, of the clade Anthophila within the hymenopteran superfamily Apoidea, known for its organised societies (though only a minority have them), for collecting pollen and (in some species) producing wax and honey."
+    },
+    {
+        "word": "cage",
+        "pos": "noun",
+        "def": "An enclosure made of bars, normally to hold animals."
+    },
+    {
+        "word": "cake",
+        "pos": "noun",
+        "def": "A rich, sweet dessert food, typically made of flour, sugar and eggs and baked in an oven, and often covered in icing."
+    },
+    {
+        "word": "calendar",
+        "pos": "noun",
+        "def": "Any system by which time is divided into days, weeks, months, and years."
+    },
+    {
+        "word": "call",
+        "pos": "noun",
+        "def": "A telephone conversation."
+    },
+    {
+        "word": "camera",
+        "pos": "noun",
+        "def": "A device for taking still or moving pictures or photographs."
+    },
+    {
+        "word": "can",
+        "pos": "verb",
+        "def": "(auxiliary verb, defective) To know how to; to be able to."
+    },
+    {
+        "word": "candle",
+        "pos": "noun",
+        "def": "A light source consisting of a wick embedded in a solid, flammable substance such as wax, tallow, or paraffin."
+    },
+    {
+        "word": "candy",
+        "pos": "noun",
+        "def": "Edible, sweet-tasting confectionery containing sugar, or sometimes artificial sweeteners, and often flavored with fruit, chocolate, nuts, herbs and spices, or artificial flavors."
+    },
+    {
+        "word": "cap",
+        "pos": "noun",
+        "def": "A close-fitting hat, either brimless or peaked."
+    },
+    {
+        "word": "capital",
+        "pos": "noun",
+        "def": "Already-produced durable goods available for use as a factor of production, such as steam shovels (equipment) and office buildings (structures)."
+    },
+    {
+        "word": "car",
+        "pos": "noun",
+        "def": "A wheeled vehicle that moves independently, with at least three wheels, powered mechanically, steered by a driver and mostly for personal transportation."
+    },
+    {
+        "word": "card",
+        "pos": "noun",
+        "def": "A playing card."
+    },
+    {
+        "word": "careful",
+        "pos": "adjective",
+        "def": "Taking care; attentive to potential danger, error or harm; cautious."
+    },
+    {
+        "word": "carrot",
+        "pos": "noun",
+        "def": "A vegetable with a nutritious, juicy, sweet root that is often orange in colour, Daucus carota, especially the subspecies sativus in the family Apiaceae."
+    },
+    {
+        "word": "carry",
+        "pos": "noun",
+        "def": "A manner of transporting or lifting something; the grip or position in which something is carried."
+    },
+    {
+        "word": "cartoon",
+        "pos": "noun",
+        "def": "A humorous drawing, often with a caption, or a strip of such drawings."
+    },
+    {
+        "word": "case",
+        "pos": "noun",
+        "def": "An actual event, situation, or fact."
+    },
+    {
+        "word": "cat",
+        "pos": "noun",
+        "def": "An animal of the family Felidae:"
+    },
+    {
+        "word": "catch",
+        "pos": "noun",
+        "def": "The act of seizing or capturing."
+    },
+    {
+        "word": "centre",
+        "pos": "noun",
+        "def": "The point in the interior of a circle that is equidistant from all points on the circumference."
+    },
+    {
+        "word": "chair",
+        "pos": "noun",
+        "def": "An item of furniture used to sit on or in, comprising a seat, legs, back, and sometimes arm rests, for use by one person. Compare stool, couch, sofa, settee, loveseat and bench."
+    },
+    {
+        "word": "chalk",
+        "pos": "noun",
+        "def": "A soft, white, powdery limestone."
+    },
+    {
+        "word": "change",
+        "pos": "noun",
+        "def": "The process of becoming different."
+    },
+    {
+        "word": "chapter",
+        "pos": "noun",
+        "def": "(authorship) One of the main sections into which the text of a book is divided."
+    },
+    {
+        "word": "character",
+        "pos": "noun",
+        "def": "A being involved in the action of a story."
+    },
+    {
+        "word": "cheap",
+        "pos": "noun",
+        "def": "Trade; traffic; chaffer; chaffering."
+    },
+    {
+        "word": "check",
+        "pos": "noun",
+        "def": "A situation in which the king is directly threatened by an opposing piece."
+    },
+    {
+        "word": "cheerful",
+        "pos": "adjective",
+        "def": "Noticeably happy and optimistic."
+    },
+    {
+        "word": "cheese",
+        "pos": "noun",
+        "def": "A dairy product made from curdled or cultured milk."
+    },
+    {
+        "word": "chess",
+        "pos": "noun",
+        "def": "A board game for two players with each beginning with sixteen chess pieces moving according to fixed rules across a chessboard with the objective to checkmate the opposing king."
+    },
+    {
+        "word": "chicken",
+        "pos": "noun",
+        "def": "A domestic fowl, Gallus gallus, especially when young."
+    },
+    {
+        "word": "child",
+        "pos": "noun",
+        "def": "A person who has not yet reached adulthood, whether natural (puberty), cultural (initiation), or legal (majority)"
+    },
+    {
+        "word": "chinese"
+    },
+    {
+        "word": "chocolate",
+        "pos": "noun",
+        "def": "A food made from ground roasted cocoa beans."
+    },
+    {
+        "word": "choose",
+        "pos": "verb",
+        "def": "To pick; to make the choice of; to select."
+    },
+    {
+        "word": "christmas"
+    },
+    {
+        "word": "church",
+        "pos": "noun",
+        "def": "A Christian house of worship; a building where Christian religious services take place."
+    },
+    {
+        "word": "cinema",
+        "pos": "noun",
+        "def": "A movie theatre, a movie house"
+    },
+    {
+        "word": "circle",
+        "pos": "noun",
+        "def": "A two-dimensional geometric figure, a line, consisting of the set of all those points in a plane that are equally distant from a given point (center)."
+    },
+    {
+        "word": "clap",
+        "pos": "noun",
+        "def": "The act of striking the palms of the hands, or any two surfaces, together."
+    },
+    {
+        "word": "class",
+        "pos": "noun",
+        "def": "A group, collection, category or set sharing characteristics or attributes."
+    },
+    {
+        "word": "classmate",
+        "pos": "noun",
+        "def": "A student who is in the same class at school."
+    },
+    {
+        "word": "classroom",
+        "pos": "noun",
+        "def": "A room, often in a school, where classes take place"
+    },
+    {
+        "word": "clean",
+        "pos": "noun",
+        "def": "Removal of dirt."
+    },
+    {
+        "word": "clear",
+        "pos": "noun",
+        "def": "Full extent; distance between extreme limits; especially; the distance between the nearest surfaces of two bodies, or the space between walls."
+    },
+    {
+        "word": "clever",
+        "pos": "adjective",
+        "def": "Nimble with hands or body; skillful; adept."
+    },
+    {
+        "word": "climb",
+        "pos": "noun",
+        "def": "An act of climbing."
+    },
+    {
+        "word": "clock",
+        "pos": "noun",
+        "def": "An instrument used to measure or keep track of time; a non-portable timepiece."
+    },
+    {
+        "word": "close",
+        "pos": "noun",
+        "def": "An end or conclusion."
+    },
+    {
+        "word": "clothes",
+        "pos": "noun",
+        "def": "A woven fabric such as used in dressing, decorating, cleaning or other practical use."
+    },
+    {
+        "word": "cloud",
+        "pos": "noun",
+        "def": "A rock; boulder; a hill."
+    },
+    {
+        "word": "coat",
+        "pos": "noun",
+        "def": "An outer garment covering the upper torso and arms.Wp"
+    },
+    {
+        "word": "coffee",
+        "pos": "noun",
+        "def": "A beverage made by infusing the beans of the coffee plant in hot water."
+    },
+    {
+        "word": "cold",
+        "pos": "adjective",
+        "def": "(of a thing) Having a low temperature."
+    },
+    {
+        "word": "collect",
+        "pos": "verb",
+        "def": "To gather together; amass."
+    },
+    {
+        "word": "colour",
+        "pos": "noun",
+        "def": "The spectral composition of visible light"
+    },
+    {
+        "word": "comb",
+        "pos": "noun",
+        "def": "A toothed implement for grooming the hair or (formerly) for keeping it in place."
+    },
+    {
+        "word": "come",
+        "pos": "noun",
+        "def": "Coming, arrival; approach."
+    },
+    {
+        "word": "comma",
+        "pos": "noun",
+        "def": "The punctuation mark \u27e8,\u27e9 used to indicate a set off parts of a sentence or between elements of a list."
+    },
+    {
+        "word": "complete",
+        "pos": "noun",
+        "def": "A completed survey."
+    },
+    {
+        "word": "computer",
+        "pos": "noun",
+        "def": "A person employed to perform computations; one who computes."
+    },
+    {
+        "word": "content",
+        "pos": "noun",
+        "def": "(except in phrases) Satisfaction, contentment; pleasure."
+    },
+    {
+        "word": "continuous",
+        "pos": "adjective",
+        "def": "Without stopping; without a break, cessation, or interruption"
+    },
+    {
+        "word": "cook",
+        "pos": "noun",
+        "def": "A person who prepares food."
+    },
+    {
+        "word": "cookie",
+        "pos": "noun",
+        "def": "A small, flat, baked good which is either crisp or soft but firm."
+    },
+    {
+        "word": "cool",
+        "pos": "noun",
+        "def": "A moderate or refreshing state of cold; moderate temperature of the air between hot and cold; coolness."
+    },
+    {
+        "word": "copy",
+        "pos": "noun",
+        "def": "The result of copying; an identical duplicate of an original."
+    },
+    {
+        "word": "corn",
+        "pos": "noun",
+        "def": "The main cereal plant grown for its grain in a given region, such as oats in parts of Scotland and Ireland, and wheat or barley in England and Wales."
+    },
+    {
+        "word": "corner",
+        "pos": "noun",
+        "def": "The point where two converging lines meet; an angle, either external or internal."
+    },
+    {
+        "word": "correct",
+        "pos": "adjective",
+        "def": "Free from error; true; accurate."
+    },
+    {
+        "word": "count",
+        "pos": "noun",
+        "def": "The act of counting or tallying a quantity."
+    },
+    {
+        "word": "cover",
+        "pos": "noun",
+        "def": "A lid."
+    },
+    {
+        "word": "cow",
+        "pos": "noun",
+        "def": "(properly) An adult female of the species Bos taurus, especially one that has calved."
+    },
+    {
+        "word": "crayon",
+        "pos": "noun",
+        "def": "A stick of colored chalk or wax used for drawing."
+    },
+    {
+        "word": "cream",
+        "pos": "noun",
+        "def": "The butterfat/milkfat part of milk which rises to the top; this part when separated from the remainder."
+    },
+    {
+        "word": "cross",
+        "pos": "noun",
+        "def": "A geometrical figure consisting of two straight lines or bars intersecting each other such that at least one of them is bisected by the other."
+    },
+    {
+        "word": "cry",
+        "pos": "noun",
+        "def": "A shedding of tears; the act of crying."
+    },
+    {
+        "word": "cup",
+        "pos": "noun",
+        "def": "A concave vessel for drinking from, usually made of opaque material (as opposed to a glass) and with a handle."
+    },
+    {
+        "word": "cupboard",
+        "pos": "noun",
+        "def": "A board or table used to openly hold and display silver plate and other dishware; a sideboard; a buffet."
+    },
+    {
+        "word": "curly",
+        "pos": "noun",
+        "def": "A person or animal with curly hair."
+    },
+    {
+        "word": "customer",
+        "pos": "noun",
+        "def": "A patron, a client; one who purchases or receives a product or service from a business or merchant, or intends to do so."
+    },
+    {
+        "word": "cut",
+        "pos": "noun",
+        "def": "The act of cutting."
+    },
+    {
+        "word": "cute",
+        "pos": "adjective",
+        "def": "Possessing physical features, behaviors, personality traits or other properties that are mainly attributed to infants and small or cuddly animals; e.g. fair, dainty, round, and soft physical features, disproportionately large eyes and head, playfulness, fragility, helplessness, curiosity or shyness, innocence, affectionate behavior."
+    },
+    {
+        "word": "dance",
+        "pos": "noun",
+        "def": "A sequence of rhythmic steps or movements usually performed to music, for pleasure or as a form of social interaction."
+    },
+    {
+        "word": "dangerous",
+        "pos": "adjective",
+        "def": "Full of danger."
+    },
+    {
+        "word": "dark",
+        "pos": "adjective",
+        "def": "Having an absolute or (more often) relative lack of light."
+    },
+    {
+        "word": "date",
+        "pos": "noun",
+        "def": "The fruit of the date palm, Phoenix dactylifera, somewhat in the shape of an olive, containing a soft, sweet pulp and enclosing a hard kernel."
+    },
+    {
+        "word": "daughter",
+        "pos": "noun",
+        "def": "One\u2019s female offspring."
+    },
+    {
+        "word": "day",
+        "pos": "noun",
+        "def": "Any period of 24 hours."
+    },
+    {
+        "word": "dead",
+        "pos": "noun",
+        "def": "(with \"the\", a demonstrative, or a possessive) Those who have died."
+    },
+    {
+        "word": "dear",
+        "pos": "noun",
+        "def": "A very kind, loving person."
+    },
+    {
+        "word": "december"
+    },
+    {
+        "word": "deep",
+        "pos": "noun",
+        "def": "(with \"the\") The deep part of a lake, sea, etc."
+    },
+    {
+        "word": "desk",
+        "pos": "noun",
+        "def": "A table, frame, or case, in past centuries usually with a sloping top but now usually with a flat top, for the use of writers and readers. It often has a drawer or repository underneath."
+    },
+    {
+        "word": "diamond",
+        "pos": "noun",
+        "def": "A glimmering glass-like mineral that is an allotrope of carbon in which each atom is surrounded by four others in the form of a tetrahedron."
+    },
+    {
+        "word": "diary",
+        "pos": "noun",
+        "def": "A daily log of experiences, especially those of the writer."
+    },
+    {
+        "word": "dice",
+        "pos": "noun",
+        "def": "Gaming with one or more dice."
+    },
+    {
+        "word": "dictation",
+        "pos": "noun",
+        "def": "Dictating, the process of speaking for someone else to write down the words"
+    },
+    {
+        "word": "dictionary",
+        "pos": "noun",
+        "def": "A reference work with a list of words from one or more languages, normally ordered alphabetically, explaining each word's meaning, and sometimes containing information on its etymology, pronunciation, usage, translations, and other data."
+    },
+    {
+        "word": "die",
+        "pos": "verb",
+        "def": "To stop living; to become dead; to undergo death."
+    },
+    {
+        "word": "difference",
+        "pos": "noun",
+        "def": "The quality of being different."
+    },
+    {
+        "word": "difficult",
+        "pos": "verb",
+        "def": "To make difficult; to impede; to perplex."
+    },
+    {
+        "word": "dinner",
+        "pos": "noun",
+        "def": "A midday meal (in a context in which the evening meal is called supper or tea)."
+    },
+    {
+        "word": "dinosaur",
+        "pos": "noun",
+        "def": "In scientific usage, any of the animals belonging to the clade Dinosauria, especially those that existed during the Triassic, Jurassic and Cretaceous periods and are now extinct."
+    },
+    {
+        "word": "dirty",
+        "pos": "verb",
+        "def": "To make (something) dirty."
+    },
+    {
+        "word": "discuss",
+        "pos": "verb",
+        "def": "To converse or debate concerning a particular topic."
+    },
+    {
+        "word": "dish",
+        "pos": "noun",
+        "def": "A vessel such as a plate for holding or serving food, often flat with a depressed region in the middle."
+    },
+    {
+        "word": "do",
+        "pos": "noun",
+        "def": "A party, celebration, social function."
+    },
+    {
+        "word": "doctor",
+        "pos": "noun",
+        "def": "A physician; a member of the medical profession; one who is trained and licensed to heal the sick or injured. The final examination and qualification may award a doctor degree in which case the post-nominal letters are D.O., DPM, M.D., DMD, DDS, in the US or MBBS in the UK."
+    },
+    {
+        "word": "dog",
+        "pos": "noun",
+        "def": "A mammal, Canis familiaris or Canis lupus familiaris, that has been domesticated for thousands of years, of highly variable appearance due to human breeding."
+    },
+    {
+        "word": "doll",
+        "pos": "noun",
+        "def": "A toy in the form of a human."
+    },
+    {
+        "word": "dollar",
+        "pos": "noun",
+        "def": "Official designation for currency in some parts of the world, including Canada, the United States, Australia, New Zealand, Hong Kong, and elsewhere. Its symbol is $."
+    },
+    {
+        "word": "door",
+        "pos": "noun",
+        "def": "A portal of entry into a building, room, or vehicle, consisting of a rigid plane movable on a hinge. Doors are frequently made of wood or metal. May have a handle to help open and close, a latch to hold the door closed and a lock that ensures the door cannot be opened without the key."
+    },
+    {
+        "word": "dot",
+        "pos": "noun",
+        "def": "A small, round spot."
+    },
+    {
+        "word": "down",
+        "pos": "noun",
+        "def": "A negative aspect; a downer."
+    },
+    {
+        "word": "draw",
+        "pos": "noun",
+        "def": "The result of a contest that neither side has won; a tie."
+    },
+    {
+        "word": "drawer",
+        "pos": "noun",
+        "def": "An open-topped box that can be slid in and out of the cabinet that contains it, used for storing clothing or other articles."
+    },
+    {
+        "word": "dream",
+        "pos": "noun",
+        "def": "Imaginary events seen in the mind while sleeping."
+    },
+    {
+        "word": "dress",
+        "pos": "noun",
+        "def": "An item of clothing (usually worn by a woman or young girl) which both covers the upper part of the body and includes skirts below the waist."
+    },
+    {
+        "word": "drink",
+        "pos": "verb",
+        "def": "To consume (a liquid) through the mouth."
+    },
+    {
+        "word": "drive",
+        "pos": "noun",
+        "def": "Motivation to do or achieve something; ability coupled with ambition."
+    },
+    {
+        "word": "drop",
+        "pos": "noun",
+        "def": "A small quantity of liquid, just large enough to hold its own round shape via surface tension, especially one that falls from a source of liquid."
+    },
+    {
+        "word": "drum",
+        "pos": "noun",
+        "def": "A percussive musical instrument spanned with a thin covering on at least one end for striking, forming an acoustic chamber, affecting what materials are used to make it; a membranophone."
+    },
+    {
+        "word": "dry",
+        "pos": "noun",
+        "def": "The process by which something is dried."
+    },
+    {
+        "word": "duck",
+        "pos": "verb",
+        "def": "To quickly lower the head or body in order to prevent it from being struck by something."
+    },
+    {
+        "word": "duty",
+        "pos": "noun",
+        "def": "That which one is morally or legally obligated to do."
+    },
+    {
+        "word": "each",
+        "pos": "noun",
+        "def": "(operations) An individual item: the least quantitative unit in a grouping."
+    },
+    {
+        "word": "ear",
+        "pos": "noun",
+        "def": "The organ of hearing, consisting of the pinna, auditory canal, eardrum, malleus, incus, stapes and cochlea."
+    },
+    {
+        "word": "early",
+        "pos": "noun",
+        "def": "A shift (scheduled work period) that takes place early in the day."
+    },
+    {
+        "word": "easter",
+        "pos": "adjective",
+        "def": "Eastern."
+    },
+    {
+        "word": "easy",
+        "pos": "noun",
+        "def": "Something that is easy"
+    },
+    {
+        "word": "eat",
+        "pos": "noun",
+        "def": "Something to be eaten; a meal; a food item."
+    },
+    {
+        "word": "egg",
+        "pos": "noun",
+        "def": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development."
+    },
+    {
+        "word": "eight",
+        "pos": "noun",
+        "def": "The digit/figure 8."
+    },
+    {
+        "word": "elephant",
+        "pos": "noun",
+        "def": "A mammal of the order Proboscidea, having a trunk, and two large ivory tusks jutting from the upper jaw."
+    },
+    {
+        "word": "eleven",
+        "pos": "noun",
+        "def": "A cricket team of eleven players. Hence first eleven - the team of best cricket players (at a school), second eleven - the \"B\" team, etc."
+    },
+    {
+        "word": "empty",
+        "pos": "noun",
+        "def": "(usually plural) A container, especially a bottle, whose contents have been used up, leaving it empty."
+    },
+    {
+        "word": "end",
+        "pos": "noun",
+        "def": "The terminal point of something in space or time."
+    },
+    {
+        "word": "english",
+        "pos": "noun",
+        "def": "Spinning or rotary motion given to a ball around the vertical axis, as in billiards or bowling."
+    },
+    {
+        "word": "enjoy",
+        "pos": "verb",
+        "def": "To receive pleasure or satisfaction from something"
+    },
+    {
+        "word": "evening",
+        "pos": "noun",
+        "def": "The time of the day between dusk and night, when it gets dark."
+    },
+    {
+        "word": "every"
+    },
+    {
+        "word": "examination",
+        "pos": "noun",
+        "def": "The act of examining."
+    },
+    {
+        "word": "example",
+        "pos": "noun",
+        "def": "Something that is representative of all such things in a group."
+    },
+    {
+        "word": "excellent",
+        "pos": "adjective",
+        "def": "Having excelled, having surpassed."
+    },
+    {
+        "word": "exciting",
+        "pos": "verb",
+        "def": "To stir the emotions of."
+    },
+    {
+        "word": "excuse",
+        "pos": "noun",
+        "def": "Explanation designed to avoid or alleviate guilt or negative judgment; a plea offered in extenuation of a fault."
+    },
+    {
+        "word": "exercise",
+        "pos": "noun",
+        "def": "Any activity designed to develop or hone a skill or ability."
+    },
+    {
+        "word": "eye",
+        "pos": "noun",
+        "def": "An organ through which animals see (perceive surroundings via light)."
+    },
+    {
+        "word": "face",
+        "pos": "noun",
+        "def": "The front part of the head of a human or other animal, featuring the eyes, nose and mouth, and the surrounding area."
+    },
+    {
+        "word": "fail",
+        "pos": "noun",
+        "def": "Poor quality; substandard workmanship."
+    },
+    {
+        "word": "fair",
+        "pos": "noun",
+        "def": "Something which is fair (in various senses of the adjective)."
+    },
+    {
+        "word": "fall",
+        "pos": "noun",
+        "def": "The act of moving to a lower position under the effect of gravity."
+    },
+    {
+        "word": "false",
+        "pos": "noun",
+        "def": "One of two options on a true-or-false test."
+    },
+    {
+        "word": "family",
+        "pos": "noun",
+        "def": "A group of people who are closely related to one another (by blood, marriage or adoption); kin; for example, a set of parents and their children; an immediate family."
+    },
+    {
+        "word": "famous",
+        "pos": "verb",
+        "def": "To make famous; to bring renown to."
+    },
+    {
+        "word": "fan",
+        "pos": "noun",
+        "def": "A hand-held device consisting of concertinaed material, or slats of material, gathered together at one end, that may be opened out into the shape of a sector of a circle and waved back and forth in order to move air towards oneself and cool oneself."
+    },
+    {
+        "word": "far",
+        "pos": "adjective",
+        "def": "Distant; remote in space."
+    },
+    {
+        "word": "farm",
+        "pos": "noun",
+        "def": "A place where agricultural and similar activities take place, especially the growing of crops or the raising of livestock."
+    },
+    {
+        "word": "fast",
+        "pos": "noun",
+        "def": "A train that calls at only some stations it passes between its origin and destination, typically just the principal stations"
+    },
+    {
+        "word": "fat",
+        "pos": "noun",
+        "def": "A specialized animal tissue with a high oil content, used for long-term storage of energy."
+    },
+    {
+        "word": "father",
+        "pos": "noun",
+        "def": "A (generally human) male who begets a child."
+    },
+    {
+        "word": "favourite",
+        "pos": "noun",
+        "def": "A person or thing who enjoys special regard or favour."
+    },
+    {
+        "word": "february"
+    },
+    {
+        "word": "feed",
+        "pos": "noun",
+        "def": "Food given to (especially herbivorous) animals."
+    },
+    {
+        "word": "feel",
+        "pos": "noun",
+        "def": "A quality of an object experienced by touch."
+    },
+    {
+        "word": "ferry",
+        "pos": "noun",
+        "def": "A ship used to transport people, smaller vehicles and goods from one port to another, usually on a regular schedule."
+    },
+    {
+        "word": "festival",
+        "pos": "noun",
+        "def": "An event or community gathering, usually staged by a local community, which centers on some theme, sometimes on some unique aspect of the community."
+    },
+    {
+        "word": "fever",
+        "pos": "noun",
+        "def": "A higher than normal body temperature of a person (or, generally, a mammal), usually caused by disease."
+    },
+    {
+        "word": "field",
+        "pos": "noun",
+        "def": "A land area free of woodland, cities, and towns; open country."
+    },
+    {
+        "word": "fifteen",
+        "pos": "numeral",
+        "def": "The cardinal number occurring after fourteen (14) and before sixteen (16)."
+    },
+    {
+        "word": "fifth",
+        "pos": "noun",
+        "def": "The person or thing in the fifth position."
+    },
+    {
+        "word": "fifty",
+        "pos": "noun",
+        "def": "A banknote or coin with a denomination of 50."
+    },
+    {
+        "word": "fight",
+        "pos": "verb",
+        "def": "To contend in physical conflict, either singly or in war, battle etc."
+    },
+    {
+        "word": "file",
+        "pos": "noun",
+        "def": "A collection of papers collated and archived together."
+    },
+    {
+        "word": "fill",
+        "pos": "verb",
+        "def": "To occupy fully, to take up all of."
+    },
+    {
+        "word": "film",
+        "pos": "noun",
+        "def": "A thin layer of some substance; a pellicle; a membranous covering, causing opacity."
+    },
+    {
+        "word": "final",
+        "pos": "noun",
+        "def": "A final examination; a test or examination given at the end of a term or class; the test that concludes a class."
+    },
+    {
+        "word": "find",
+        "pos": "noun",
+        "def": "Anything that is found (usually valuable), as objects on an archeological site or a person with talent."
+    },
+    {
+        "word": "fine",
+        "pos": "noun",
+        "def": "Fine champagne; French brandy."
+    },
+    {
+        "word": "finger",
+        "pos": "noun",
+        "def": "A slender jointed extremity of the human hand, exclusive of the thumb."
+    },
+    {
+        "word": "finish",
+        "pos": "noun",
+        "def": "An end; the end of anything."
+    },
+    {
+        "word": "fire",
+        "pos": "noun",
+        "def": "A (usually self-sustaining) chemical reaction involving the bonding of oxygen with carbon or other fuel, with the production of heat and the presence of flame or smouldering."
+    },
+    {
+        "word": "firefighter",
+        "pos": "noun",
+        "def": "A person who puts out fires."
+    },
+    {
+        "word": "first",
+        "pos": "noun",
+        "def": "The person or thing in the first position."
+    },
+    {
+        "word": "fish",
+        "pos": "noun",
+        "def": "A cold-blooded vertebrate animal that lives in water, moving with the help of fins and breathing with gills."
+    },
+    {
+        "word": "fit",
+        "pos": "noun",
+        "def": "The degree to which something fits."
+    },
+    {
+        "word": "five",
+        "pos": "noun",
+        "def": "The digit/figure 5."
+    },
+    {
+        "word": "flat",
+        "pos": "noun",
+        "def": "An area of level ground."
+    },
+    {
+        "word": "floor",
+        "pos": "noun",
+        "def": "The interior bottom or surface of a house or building; the supporting surface of a room."
+    },
+    {
+        "word": "flower",
+        "pos": "noun",
+        "def": "A colorful, conspicuous structure associated with angiosperms, frequently scented and attracting various insects, and which may or may not be used for sexual reproduction."
+    },
+    {
+        "word": "fly",
+        "pos": "noun",
+        "def": "Any insect of the order Diptera; characterized by having two wings (except for some wingless species), also called true flies."
+    },
+    {
+        "word": "fold",
+        "pos": "noun",
+        "def": "An act of folding."
+    },
+    {
+        "word": "follow",
+        "pos": "noun",
+        "def": "(sometimes attributive) In billiards and similar games, a stroke causing a ball to follow another ball after hitting it."
+    },
+    {
+        "word": "food",
+        "pos": "noun",
+        "def": "Any solid substance that can be consumed by living organisms, especially by eating, in order to sustain life."
+    },
+    {
+        "word": "foot",
+        "pos": "noun",
+        "def": "A biological structure found in many animals that is used for locomotion and that is frequently a separate organ at the terminal part of the leg."
+    },
+    {
+        "word": "football",
+        "pos": "noun",
+        "def": "(general) A sport played on foot in which teams attempt to get a ball into a goal or zone defended by the other team."
+    },
+    {
+        "word": "for"
+    },
+    {
+        "word": "forest",
+        "pos": "noun",
+        "def": "A dense uncultivated tract of trees and undergrowth, larger than woods."
+    },
+    {
+        "word": "forget",
+        "pos": "verb",
+        "def": "To lose remembrance of."
+    },
+    {
+        "word": "fork",
+        "pos": "noun",
+        "def": "A pronged tool having a long straight handle, used for digging, lifting, throwing etc."
+    },
+    {
+        "word": "form",
+        "pos": "noun",
+        "def": "(heading, physical) To do with shape."
+    },
+    {
+        "word": "forty",
+        "pos": "noun",
+        "def": "A bottle of beer containing forty fluid ounces."
+    },
+    {
+        "word": "four",
+        "pos": "noun",
+        "def": "The digit or figure 4; an occurrence thereof."
+    },
+    {
+        "word": "fourteen",
+        "pos": "numeral",
+        "def": "The cardinal number occurring after thirteen and before fifteen, represented in Roman numerals as XIV and in Arabic numerals as 14."
+    },
+    {
+        "word": "fourth",
+        "pos": "noun",
+        "def": "(not used in the plural) The person or thing in the fourth position."
+    },
+    {
+        "word": "free",
+        "pos": "noun",
+        "def": "Free transfer"
+    },
+    {
+        "word": "fresh",
+        "pos": "noun",
+        "def": "A rush of water, along a river or onto the land; a flood."
+    },
+    {
+        "word": "friday"
+    },
+    {
+        "word": "friend",
+        "pos": "noun",
+        "def": "A person other than a family member, spouse or lover whose company one enjoys and towards whom one feels affection."
+    },
+    {
+        "word": "frog",
+        "pos": "noun",
+        "def": "A small tailless amphibian of the order Anura that typically hops."
+    },
+    {
+        "word": "from",
+        "pos": "preposition",
+        "def": "Used to indicate source or provenance."
+    },
+    {
+        "word": "front",
+        "pos": "noun",
+        "def": "The foremost side of something or the end that faces the direction it normally moves."
+    },
+    {
+        "word": "fruit",
+        "pos": "noun",
+        "def": "(often in the plural) In general, a product of plant growth useful to man or animals."
+    },
+    {
+        "word": "full",
+        "pos": "adjective",
+        "def": "Containing the maximum possible amount that can fit in the space available."
+    },
+    {
+        "word": "fun",
+        "pos": "noun",
+        "def": "Amusement, enjoyment or pleasure"
+    },
+    {
+        "word": "game",
+        "pos": "noun",
+        "def": "A playful or competitive activity."
+    },
+    {
+        "word": "garden",
+        "pos": "noun",
+        "def": "An outdoor area containing one or more types of plants, usually plants grown for food or ornamental purposes."
+    },
+    {
+        "word": "gentle",
+        "pos": "noun",
+        "def": "A person of high birth."
+    },
+    {
+        "word": "get",
+        "pos": "noun",
+        "def": "Offspring."
+    },
+    {
+        "word": "gift",
+        "pos": "noun",
+        "def": "Something given to another voluntarily, without charge."
+    },
+    {
+        "word": "girl",
+        "pos": "noun",
+        "def": "A female child, adolescent, or a young woman."
+    },
+    {
+        "word": "give",
+        "pos": "noun",
+        "def": "The amount of bending that something undergoes when a force is applied to it; a tendency to yield under pressure; resilence."
+    },
+    {
+        "word": "glad",
+        "pos": "verb",
+        "def": "To make glad"
+    },
+    {
+        "word": "glass",
+        "pos": "verb",
+        "def": "To apply fibreglass to."
+    },
+    {
+        "word": "glasses",
+        "pos": "verb",
+        "def": "To apply fibreglass to."
+    },
+    {
+        "word": "glue",
+        "pos": "noun",
+        "def": "A hard gelatin made by boiling bones and hides, used in solution as an adhesive; or any sticky adhesive substance."
+    },
+    {
+        "word": "go",
+        "pos": "noun",
+        "def": "The act of going."
+    },
+    {
+        "word": "gold",
+        "pos": "noun",
+        "def": "A heavy yellow elemental metal of great value, with atomic number 79 and symbol Au."
+    },
+    {
+        "word": "goldfish",
+        "pos": "noun",
+        "def": "A type of small fish, Carassius auratus, typically orange-colored."
+    },
+    {
+        "word": "good",
+        "pos": "adjective",
+        "def": "(of people)"
+    },
+    {
+        "word": "goodbye",
+        "pos": "noun",
+        "def": "An utterance of goodbye, the wishing of farewell to someone."
+    },
+    {
+        "word": "goose",
+        "pos": "noun",
+        "def": "Any of various grazing waterfowl of the family Anatidae, which have feathers and webbed feet and are capable of flying, swimming, and walking on land, and which are bigger than ducks."
+    },
+    {
+        "word": "granddaughter",
+        "pos": "noun",
+        "def": "The daughter of someone's child."
+    },
+    {
+        "word": "grandfather",
+        "pos": "noun",
+        "def": "A father of someone's parent."
+    },
+    {
+        "word": "grandmother",
+        "pos": "noun",
+        "def": "A mother of someone's parent."
+    },
+    {
+        "word": "grandson",
+        "pos": "noun",
+        "def": "A son of one's child."
+    },
+    {
+        "word": "grass",
+        "pos": "noun",
+        "def": "Any plant of the family Poaceae, characterized by leaves that arise from nodes in the stem and leaf bases that wrap around the stem, especially those grown as ground cover rather than for grain."
+    },
+    {
+        "word": "great",
+        "pos": "noun",
+        "def": "A person of major significance, accomplishment or acclaim."
+    },
+    {
+        "word": "greedy",
+        "pos": "adjective",
+        "def": "Having greed; consumed by selfish desires."
+    },
+    {
+        "word": "green",
+        "pos": "adjective",
+        "def": "Having green as its color."
+    },
+    {
+        "word": "grey",
+        "pos": "adjective",
+        "def": "Having a color."
+    },
+    {
+        "word": "ground",
+        "pos": "noun",
+        "def": "The surface of the Earth, as opposed to the sky or water or underground."
+    },
+    {
+        "word": "group",
+        "pos": "noun",
+        "def": "A number of things or persons being in some relation to one another."
+    },
+    {
+        "word": "grow",
+        "pos": "verb",
+        "def": "To become larger, to increase in magnitude."
+    },
+    {
+        "word": "guess",
+        "pos": "verb",
+        "def": "To reach a partly (or totally) unqualified conclusion."
+    },
+    {
+        "word": "gun",
+        "pos": "noun",
+        "def": "A device for projecting a hard object very forcefully; a firearm or cannon."
+    },
+    {
+        "word": "hair",
+        "pos": "noun",
+        "def": "A pigmented filament of keratin which grows from a follicle on the skin of humans and other mammals."
+    },
+    {
+        "word": "hairdryer",
+        "pos": "noun",
+        "def": "A small electrical appliance for drying hair, by generating a stream of hot air."
+    },
+    {
+        "word": "half",
+        "pos": "noun",
+        "def": "One of two usually roughly equal parts into which anything may be divided, or considered as divided."
+    },
+    {
+        "word": "hall",
+        "pos": "noun",
+        "def": "A corridor; a hallway."
+    },
+    {
+        "word": "halloween"
+    },
+    {
+        "word": "ham",
+        "pos": "noun",
+        "def": "The region back of the knee joint; the popliteal space; the hock."
+    },
+    {
+        "word": "hamburger",
+        "pos": "noun",
+        "def": "A hot sandwich consisting of a patty of cooked ground beef or a meat substitute, in a sliced bun, sometimes also containing salad vegetables, condiments, or both."
+    },
+    {
+        "word": "hamster",
+        "pos": "noun",
+        "def": "Any of various Old-World rodent species belonging to the subfamily Cricetinae."
+    },
+    {
+        "word": "hand",
+        "pos": "noun",
+        "def": "The part of the forelimb below the forearm or wrist in a human, and the corresponding part in many other animals."
+    },
+    {
+        "word": "handbag",
+        "pos": "noun",
+        "def": "(mainly Commonwealth) A small bag used by women (or sometimes by men) for carrying various small personal items."
+    },
+    {
+        "word": "handbook",
+        "pos": "noun",
+        "def": "A topically organized book of reference on a certain field of knowledge, regardless of size."
+    },
+    {
+        "word": "handkerchief",
+        "pos": "noun",
+        "def": "A piece of cloth, usually square and often fine and elegant, carried for wiping the face, eyes, nose or hands."
+    },
+    {
+        "word": "happen",
+        "pos": "verb",
+        "def": "To occur or take place."
+    },
+    {
+        "word": "happy",
+        "pos": "noun",
+        "def": "A happy event, thing, person, etc."
+    },
+    {
+        "word": "harbour",
+        "pos": "noun",
+        "def": "Any place of shelter."
+    },
+    {
+        "word": "hard",
+        "pos": "noun",
+        "def": "A firm or paved beach or slope convenient for hauling vessels out of the water."
+    },
+    {
+        "word": "hardworking",
+        "pos": "adjective",
+        "def": "Of a person, taking their work seriously and doing it well and rapidly."
+    },
+    {
+        "word": "hat",
+        "pos": "noun",
+        "def": "A covering for the head, often in the approximate form of a cone or a cylinder closed at its top end, and sometimes having a brim and other decoration."
+    },
+    {
+        "word": "hate",
+        "pos": "noun",
+        "def": "An object of hatred."
+    },
+    {
+        "word": "have",
+        "pos": "noun",
+        "def": "A wealthy or privileged person."
+    },
+    {
+        "word": "he",
+        "pos": "noun",
+        "def": "The game of tag, or it, in which the player attempting to catch the others is called \"he\"."
+    },
+    {
+        "word": "head",
+        "pos": "noun",
+        "def": "The part of the body of an animal or human which contains the brain, mouth and main sense organs."
+    },
+    {
+        "word": "headmaster",
+        "pos": "noun",
+        "def": "A male school principal."
+    },
+    {
+        "word": "headmistress",
+        "pos": "noun",
+        "def": "A female school principal."
+    },
+    {
+        "word": "headphones",
+        "pos": "noun",
+        "def": "A pair of speakers worn over or in the ears so only the wearer can hear the sound."
+    },
+    {
+        "word": "hear",
+        "pos": "verb",
+        "def": "(stative) To perceive sounds through the ear."
+    },
+    {
+        "word": "heart",
+        "pos": "noun",
+        "def": "A muscular organ that pumps blood through the body, traditionally thought to be the seat of emotion."
+    },
+    {
+        "word": "heavy",
+        "pos": "noun",
+        "def": "A villain or bad guy; the one responsible for evil or aggressive acts."
+    },
+    {
+        "word": "hello",
+        "pos": "noun",
+        "def": "\"Hello!\" or an equivalent greeting."
+    },
+    {
+        "word": "help",
+        "pos": "noun",
+        "def": "Action given to provide assistance; aid."
+    },
+    {
+        "word": "hen",
+        "pos": "noun",
+        "def": "A female chicken (Gallus gallus), particularly a sexually mature one kept for its eggs."
+    },
+    {
+        "word": "here",
+        "pos": "noun",
+        "def": "(abstract) This place; this location."
+    },
+    {
+        "word": "hide",
+        "pos": "verb",
+        "def": "To put (something) in a place where it will be harder to discover or out of sight."
+    },
+    {
+        "word": "high",
+        "pos": "noun",
+        "def": "A high point or position, literally or figuratively; an elevated place; a superior region; a height; the sky; heaven."
+    },
+    {
+        "word": "hill",
+        "pos": "noun",
+        "def": "An elevated location smaller than a mountain."
+    },
+    {
+        "word": "hit",
+        "pos": "noun",
+        "def": "A blow; a punch; a striking against; the collision of one body against another; the stroke that touches anything."
+    },
+    {
+        "word": "hobby",
+        "pos": "noun",
+        "def": "An activity that one enjoys doing in one's spare time."
+    },
+    {
+        "word": "hold",
+        "pos": "noun",
+        "def": "A grasp or grip."
+    },
+    {
+        "word": "holiday",
+        "pos": "noun",
+        "def": "A day on which a festival, religious event, or national celebration is traditionally observed."
+    },
+    {
+        "word": "home",
+        "pos": "noun",
+        "def": "A dwelling."
+    },
+    {
+        "word": "homework",
+        "pos": "noun",
+        "def": "Work that is done at home, especially school exercises assigned by a teacher."
+    },
+    {
+        "word": "honest",
+        "pos": "verb",
+        "def": "To adorn or grace; to honour; to make becoming, appropriate, or honourable."
+    },
+    {
+        "word": "hop",
+        "pos": "noun",
+        "def": "A short jump."
+    },
+    {
+        "word": "hope",
+        "pos": "verb",
+        "def": "To want something to happen, with a sense of expectation that it might."
+    },
+    {
+        "word": "horse",
+        "pos": "noun",
+        "def": "Any of several animals related to Equus ferus caballus."
+    },
+    {
+        "word": "hospital",
+        "pos": "noun",
+        "def": "A large medical facility, usually in a building with multiple floors, where seriously ill or injured patients are given extensive medical and/or surgical treatment."
+    },
+    {
+        "word": "hot",
+        "pos": "verb",
+        "def": "(with up) To heat; to make or become hot."
+    },
+    {
+        "word": "hotdog",
+        "pos": "noun",
+        "def": "A sandwich consisting of a frankfurter, or wiener, in a bread roll, usually served with ketchup, mustard, relish, etc."
+    },
+    {
+        "word": "hour",
+        "pos": "noun",
+        "def": "A time period of sixty minutes; one twenty-fourth of a day."
+    },
+    {
+        "word": "house",
+        "pos": "noun",
+        "def": "A structure built or serving as an abode of human beings."
+    },
+    {
+        "word": "housewife",
+        "pos": "noun",
+        "def": "(plural \"housewives\") A woman whose main employment is homemaking, maintaining the upkeep of her home and tending to household affairs; often, such a woman whose sole [unpaid] employment is homemaking."
+    },
+    {
+        "word": "how",
+        "pos": "noun",
+        "def": "The means by which something is accomplished."
+    },
+    {
+        "word": "hundred",
+        "pos": "noun",
+        "def": "A hundred-dollar bill, or any other note denominated 100 (e.g. a hundred euros)."
+    },
+    {
+        "word": "hungry",
+        "pos": "adjective",
+        "def": "Affected by hunger; desiring of food; having a physical need for food."
+    },
+    {
+        "word": "hurry",
+        "pos": "noun",
+        "def": "Rushed action."
+    },
+    {
+        "word": "i",
+        "pos": "noun",
+        "def": "The name of the Latin-script letter I."
+    },
+    {
+        "word": "ice",
+        "pos": "noun",
+        "def": "Water in frozen (solid) form."
+    },
+    {
+        "word": "idea",
+        "pos": "noun",
+        "def": "An abstract archetype of a given thing, compared to which real-life examples are seen as imperfect approximations; pure essence, as opposed to actual examples."
+    },
+    {
+        "word": "if",
+        "pos": "noun",
+        "def": "An uncertainty, possibility, condition, doubt etc."
+    },
+    {
+        "word": "ill",
+        "pos": "noun",
+        "def": "(often pluralized) Trouble; distress; misfortune; adversity."
+    },
+    {
+        "word": "in",
+        "pos": "noun",
+        "def": "A position of power or influence, or a way to get it."
+    },
+    {
+        "word": "interesting",
+        "pos": "verb",
+        "def": "To engage the attention of; to awaken interest in; to excite emotion or passion in, in behalf of a person or thing."
+    },
+    {
+        "word": "iron",
+        "pos": "noun",
+        "def": "A common, inexpensive metal, silvery grey when untarnished, that rusts, is attracted by magnets, and is used in making steel."
+    },
+    {
+        "word": "it",
+        "pos": "noun",
+        "def": "One who is neither a he nor a she; a creature; a dehumanized being."
+    },
+    {
+        "word": "jacket",
+        "pos": "noun",
+        "def": "A piece of clothing worn on the upper body outside a shirt or blouse, often waist length to thigh length."
+    },
+    {
+        "word": "jam",
+        "pos": "noun",
+        "def": "A sweet mixture of fruit boiled with sugar and allowed to congeal. Often spread on bread or toast or used in jam tarts."
+    },
+    {
+        "word": "january"
+    },
+    {
+        "word": "jeans",
+        "pos": "noun",
+        "def": "Denim."
+    },
+    {
+        "word": "jelly",
+        "pos": "noun",
+        "def": "An explosive mixture of nitroglycerine and nitrate absorbed onto a base of wood pulp."
+    },
+    {
+        "word": "job",
+        "pos": "noun",
+        "def": "A task."
+    },
+    {
+        "word": "join",
+        "pos": "noun",
+        "def": "An intersection of piping or wiring; an interconnect."
+    },
+    {
+        "word": "juice",
+        "pos": "noun",
+        "def": "A liquid from a plant, especially fruit."
+    },
+    {
+        "word": "july"
+    },
+    {
+        "word": "jump",
+        "pos": "noun",
+        "def": "The act of jumping; a leap; a spring; a bound."
+    },
+    {
+        "word": "june"
+    },
+    {
+        "word": "keep",
+        "pos": "noun",
+        "def": "The main tower of a castle or fortress, located within the castle walls."
+    },
+    {
+        "word": "key",
+        "pos": "noun",
+        "def": "An object designed to open and close a lock."
+    },
+    {
+        "word": "kick",
+        "pos": "noun",
+        "def": "A hit or strike with the leg, foot or knee."
+    },
+    {
+        "word": "kill",
+        "pos": "noun",
+        "def": "The act of killing."
+    },
+    {
+        "word": "kind",
+        "pos": "noun",
+        "def": "A type, race or category; a group of entities that have common characteristics such that they may be grouped together."
+    },
+    {
+        "word": "king",
+        "pos": "noun",
+        "def": "A male monarch; a man who heads a monarchy. If it's an absolute monarchy, then he is the supreme ruler of his nation."
+    },
+    {
+        "word": "kiss",
+        "pos": "verb",
+        "def": "To touch with the lips or press the lips against, usually to show love or affection or passion, or as part of a greeting."
+    },
+    {
+        "word": "kitchen",
+        "pos": "noun",
+        "def": "A room or area for preparing food."
+    },
+    {
+        "word": "kite"
+    },
+    {
+        "word": "kitten",
+        "pos": "noun",
+        "def": "A young cat, especially before sexual maturity (reached at about seven months)."
+    },
+    {
+        "word": "knee",
+        "pos": "noun",
+        "def": "In humans, the joint or the region of the joint in the middle part of the leg between the thigh and the shank."
+    },
+    {
+        "word": "knife",
+        "pos": "noun",
+        "def": "A utensil or a tool designed for cutting, consisting of a flat piece of hard material, usually steel or other metal (the blade), usually sharpened on one edge, attached to a handle. The blade may be pointed for piercing."
+    },
+    {
+        "word": "knock",
+        "pos": "noun",
+        "def": "Sudden fatigue as a result of glycogen depletion from not having taken in enough nutrition."
+    },
+    {
+        "word": "know",
+        "pos": "noun",
+        "def": "Knowledge; the state of knowing."
+    },
+    {
+        "word": "label",
+        "pos": "noun",
+        "def": "A small ticket or sign giving information about something to which it is attached or intended to be attached."
+    },
+    {
+        "word": "lamb",
+        "pos": "noun",
+        "def": "A young sheep."
+    },
+    {
+        "word": "lamp",
+        "pos": "noun",
+        "def": "A device that generates heat, light or other radiation. Especially an electric light bulb."
+    },
+    {
+        "word": "large",
+        "pos": "noun",
+        "def": "An old musical note, equal to two longas, four breves, or eight semibreves."
+    },
+    {
+        "word": "last",
+        "pos": "adjective",
+        "def": "Final, ultimate, coming after all others of its kind."
+    },
+    {
+        "word": "late",
+        "pos": "noun",
+        "def": "A shift (scheduled work period) that takes place late in the day or at night."
+    },
+    {
+        "word": "laugh",
+        "pos": "noun",
+        "def": "An expression of mirth particular to the human species; the sound heard in laughing; laughter."
+    },
+    {
+        "word": "lazy",
+        "pos": "noun",
+        "def": "A lazy person."
+    },
+    {
+        "word": "leader",
+        "pos": "noun",
+        "def": "Any person that leads or directs"
+    },
+    {
+        "word": "leaf",
+        "pos": "noun",
+        "def": "The usually green and flat organ that represents the most prominent feature of most vegetative plants."
+    },
+    {
+        "word": "learn",
+        "pos": "noun",
+        "def": "The act of learning something"
+    },
+    {
+        "word": "leave",
+        "pos": "verb",
+        "def": "To have a consequence or remnant."
+    },
+    {
+        "word": "left",
+        "pos": "noun",
+        "def": "The left side or direction."
+    },
+    {
+        "word": "leg",
+        "pos": "noun",
+        "def": "A limb or appendage that an animal uses for support or locomotion."
+    },
+    {
+        "word": "lemon",
+        "pos": "noun",
+        "def": "A yellowish citrus fruit."
+    },
+    {
+        "word": "lesson",
+        "pos": "noun",
+        "def": "A section of learning or teaching into which a wider learning content is divided."
+    },
+    {
+        "word": "let",
+        "pos": "noun",
+        "def": "The allowing of possession of a property etc. in exchange for rent."
+    },
+    {
+        "word": "letter",
+        "pos": "noun",
+        "def": "A symbol in an alphabet."
+    },
+    {
+        "word": "library",
+        "pos": "noun",
+        "def": "An institution which holds books and/or other forms of media for use by the public or qualified people often lending them out, as well as providing various other services for its users."
+    },
+    {
+        "word": "lie",
+        "pos": "noun",
+        "def": "The terrain and conditions surrounding the ball before it is struck."
+    },
+    {
+        "word": "light",
+        "pos": "noun",
+        "def": "Visible electromagnetic radiation. The human eye can typically detect radiation (light) in the wavelength range of about 400 to 750 nanometers. Nearby shorter and longer wavelength ranges, although not visible, are commonly called ultraviolet and infrared light."
+    },
+    {
+        "word": "like",
+        "pos": "noun",
+        "def": "(usually in the plural) Something that a person likes (prefers)."
+    },
+    {
+        "word": "line",
+        "pos": "noun",
+        "def": "A path through two or more points (compare \u2018segment\u2019); a continuous mark, including as made by a pen; any path, curved or straight."
+    },
+    {
+        "word": "lion",
+        "pos": "noun",
+        "def": "A big cat, Panthera leo, native to Africa, India and formerly much of Europe."
+    },
+    {
+        "word": "lip",
+        "pos": "noun",
+        "def": "Either of the two fleshy protrusions around the opening of the mouth."
+    },
+    {
+        "word": "list",
+        "pos": "noun",
+        "def": "A strip of fabric, especially from the edge of a piece of cloth."
+    },
+    {
+        "word": "listen",
+        "pos": "noun",
+        "def": "An instance of listening."
+    },
+    {
+        "word": "litter",
+        "pos": "noun",
+        "def": "A platform mounted on two shafts, or a more elaborate construction, designed to be carried by two (or more) people to transport one (in luxury models sometimes more) third person(s) or (occasionally in the elaborate version) a cargo, such as a religious idol."
+    },
+    {
+        "word": "little",
+        "pos": "noun",
+        "def": "A small amount."
+    },
+    {
+        "word": "live",
+        "pos": "verb",
+        "def": "To be alive; to have life."
+    },
+    {
+        "word": "long",
+        "pos": "noun",
+        "def": "A long vowel."
+    },
+    {
+        "word": "look"
+    },
+    {
+        "word": "lose",
+        "pos": "verb",
+        "def": "To cause (something) to cease to be in one's possession or capability due to unfortunate or unknown circumstances, events or reasons."
+    },
+    {
+        "word": "loud",
+        "pos": "noun",
+        "def": "A loud sound or part of a sound."
+    },
+    {
+        "word": "love",
+        "pos": "noun",
+        "def": "Strong affection."
+    },
+    {
+        "word": "low",
+        "pos": "noun",
+        "def": "Something that is low; a low point."
+    },
+    {
+        "word": "luck",
+        "pos": "noun",
+        "def": "Something that happens to someone by chance, a chance occurrence, especially a favourable one."
+    },
+    {
+        "word": "lunch",
+        "pos": "noun",
+        "def": "A light meal usually eaten around midday, notably when not as main meal of the day."
+    },
+    {
+        "word": "magic",
+        "pos": "noun",
+        "def": "The application of rituals or actions, especially those based on occult knowledge, to subdue or manipulate natural or supernatural beings and forces in order to have some benefit from them"
+    },
+    {
+        "word": "make",
+        "pos": "noun",
+        "def": "Brand or kind; model."
+    },
+    {
+        "word": "man",
+        "pos": "noun",
+        "def": "An adult male human."
+    },
+    {
+        "word": "mango",
+        "pos": "noun",
+        "def": "A tropical Asian fruit tree, Mangifera indica."
+    },
+    {
+        "word": "many",
+        "pos": "noun",
+        "def": "A multitude; a great aggregate; a mass of people; the generality; the common herd."
+    },
+    {
+        "word": "map",
+        "pos": "noun",
+        "def": "A visual representation of an area, whether real or imaginary."
+    },
+    {
+        "word": "march",
+        "pos": "noun",
+        "def": "A formal, rhythmic way of walking, used especially by soldiers, bands and in ceremonies."
+    },
+    {
+        "word": "mark",
+        "pos": "noun",
+        "def": "(heading) Boundary, land within a boundary."
+    },
+    {
+        "word": "market",
+        "pos": "noun",
+        "def": "A gathering of people for the purchase and sale of merchandise at a set time, often periodic."
+    },
+    {
+        "word": "mat",
+        "pos": "noun",
+        "def": "A flat piece of coarse material used for wiping one\u2019s feet, or as a decorative or protective floor covering."
+    },
+    {
+        "word": "match",
+        "pos": "noun",
+        "def": "A competitive sporting event such as a boxing meet, a baseball game, or a cricket match."
+    },
+    {
+        "word": "may",
+        "pos": "verb",
+        "def": "To be strong; to have power (over)."
+    },
+    {
+        "word": "meal",
+        "pos": "noun",
+        "def": "Food that is prepared and eaten, usually at a specific time, and usually in a comparatively large quantity (as opposed to a snack)."
+    },
+    {
+        "word": "mean",
+        "pos": "verb",
+        "def": "To lament."
+    },
+    {
+        "word": "meat",
+        "pos": "noun",
+        "def": "The flesh (muscle tissue) of an animal used as food."
+    },
+    {
+        "word": "meet",
+        "pos": "noun",
+        "def": "A sports competition, especially for track and field (a track meet) or swimming (a swim meet)."
+    },
+    {
+        "word": "member",
+        "pos": "noun",
+        "def": "One who officially belongs to a group."
+    },
+    {
+        "word": "middle",
+        "pos": "noun",
+        "def": "A centre, midpoint."
+    },
+    {
+        "word": "milk",
+        "pos": "noun",
+        "def": "A white liquid produced by the mammary glands of female mammals to nourish their young. From certain animals, especially cows, it is also called dairy milk and is a common food for humans as a beverage or used to produce various dairy products such as butter, cheese, and yogurt."
+    },
+    {
+        "word": "minibus",
+        "pos": "noun",
+        "def": "A small bus, especially one used as transport for small groups."
+    },
+    {
+        "word": "minute",
+        "pos": "noun",
+        "def": "A unit of time equal to sixty seconds (one-sixtieth of an hour)."
+    },
+    {
+        "word": "mirror",
+        "pos": "noun",
+        "def": "A smooth surface, usually made of glass with reflective material painted on the underside, that reflects light so as to give an image of what is in front of it."
+    },
+    {
+        "word": "miss",
+        "pos": "noun",
+        "def": "A failure to hit."
+    },
+    {
+        "word": "mistake",
+        "pos": "noun",
+        "def": "An error; a blunder."
+    },
+    {
+        "word": "model",
+        "pos": "noun",
+        "def": "A person who serves as a subject for artwork or fashion, usually in the medium of photography but also for painting or drawing."
+    },
+    {
+        "word": "monday"
+    },
+    {
+        "word": "money",
+        "pos": "noun",
+        "def": "A legally or socially binding conceptual contract of entitlement to wealth, void of intrinsic value, payable for all debts and taxes, and regulated in supply."
+    },
+    {
+        "word": "monitor",
+        "pos": "noun",
+        "def": "Someone who watches over something; a person in charge of something or someone."
+    },
+    {
+        "word": "monitress"
+    },
+    {
+        "word": "monkey",
+        "pos": "noun",
+        "def": "Any member of the clade Simiiformes not also of the clade Hominoidea containing humans and apes, from which they are usually, but not universally, distinguished by smaller size, a tail, and cheek pouches."
+    },
+    {
+        "word": "month",
+        "pos": "noun",
+        "def": "A period into which a year is divided, historically based on the phases of the moon."
+    },
+    {
+        "word": "moon",
+        "pos": "proper noun",
+        "def": "The Earth's moon Luna; the sole natural satellite of the Earth, represented in astronomy and astrology by \u263e."
+    },
+    {
+        "word": "mooncake",
+        "pos": "noun",
+        "def": "A rich, dense Chinese pastry with a variety of fillings, usually to eat in Zhongqiu Festival."
+    },
+    {
+        "word": "more",
+        "pos": "adverb",
+        "def": "To a greater degree or extent."
+    },
+    {
+        "word": "morning",
+        "pos": "noun",
+        "def": "The part of the day from dawn to noon."
+    },
+    {
+        "word": "most",
+        "pos": "noun",
+        "def": "The greatest amount."
+    },
+    {
+        "word": "mother",
+        "pos": "noun",
+        "def": "A (human) female who has given birth to a baby"
+    },
+    {
+        "word": "mouse",
+        "pos": "noun",
+        "def": "Any small rodent of the genus Mus."
+    },
+    {
+        "word": "mouth",
+        "pos": "noun",
+        "def": "The opening of a creature through which food is ingested."
+    },
+    {
+        "word": "move",
+        "pos": "noun",
+        "def": "The act of moving; a movement."
+    },
+    {
+        "word": "movie",
+        "pos": "noun",
+        "def": "A recorded sequence of images displayed on a screen at a rate sufficiently fast to create the appearance of motion."
+    },
+    {
+        "word": "mr"
+    },
+    {
+        "word": "mrs"
+    },
+    {
+        "word": "much",
+        "pos": "adjective",
+        "def": "Large, great."
+    },
+    {
+        "word": "music",
+        "pos": "noun",
+        "def": "A series of sounds organized in time, employing melody, harmony, tempo etc. usually to convey a mood."
+    },
+    {
+        "word": "nail",
+        "pos": "noun",
+        "def": "The thin, horny plate at the ends of fingers and toes on humans and some other animals."
+    },
+    {
+        "word": "name",
+        "pos": "noun",
+        "def": "Any nounal word or phrase which indicates a particular person, place, class, or thing."
+    },
+    {
+        "word": "naughty",
+        "pos": "adjective",
+        "def": "Mischievous; tending to misbehave or act badly (especially of a child)."
+    },
+    {
+        "word": "near",
+        "pos": "noun",
+        "def": "The left side of a horse or of a team of horses pulling a carriage etc."
+    },
+    {
+        "word": "neat",
+        "pos": "noun",
+        "def": "An artificial intelligence researcher who believes that solutions should be elegant, clear and provably correct. Compare scruffy."
+    },
+    {
+        "word": "neck",
+        "pos": "noun",
+        "def": "The part of the body connecting the head and the trunk found in humans and some animals."
+    },
+    {
+        "word": "need",
+        "pos": "noun",
+        "def": "A requirement for something; something needed."
+    },
+    {
+        "word": "neighbour",
+        "pos": "noun",
+        "def": "A person living on adjacent or nearby land; a person situated adjacently or nearby; anything (of the same type of thing as the subject) in an adjacent or nearby position."
+    },
+    {
+        "word": "nest",
+        "pos": "noun",
+        "def": "A structure built by a bird as a place to incubate eggs and rear young."
+    },
+    {
+        "word": "new",
+        "pos": "noun",
+        "def": "Things that are new."
+    },
+    {
+        "word": "newspaper",
+        "pos": "noun",
+        "def": "A publication, usually published daily or weekly and usually printed on cheap, low-quality paper, containing news and other articles."
+    },
+    {
+        "word": "next",
+        "pos": "noun",
+        "def": "The one that follows after this one."
+    },
+    {
+        "word": "nice",
+        "pos": "noun",
+        "def": "Niceness."
+    },
+    {
+        "word": "night",
+        "pos": "noun",
+        "def": "The period between sunset and sunrise, when a location faces far away from the sun, thus when the sky is dark."
+    },
+    {
+        "word": "nine",
+        "pos": "noun",
+        "def": "The digit or figure 9."
+    },
+    {
+        "word": "ninth",
+        "pos": "noun",
+        "def": "The person or thing in the ninth position."
+    },
+    {
+        "word": "no",
+        "pos": "noun",
+        "def": "A negating expression; an answer that shows disagreement or disapproval"
+    },
+    {
+        "word": "noise",
+        "pos": "noun",
+        "def": "Various sounds, usually unwanted or unpleasant."
+    },
+    {
+        "word": "noodle",
+        "pos": "noun",
+        "def": "(usually in the plural) a string or strip of pasta"
+    },
+    {
+        "word": "noon",
+        "pos": "noun",
+        "def": "The ninth hour of the day counted from sunrise; around three o'clock in the afternoon."
+    },
+    {
+        "word": "nose",
+        "pos": "noun",
+        "def": "A protuberance on the face housing the nostrils, which are used to breathe or smell."
+    },
+    {
+        "word": "not",
+        "pos": "noun",
+        "def": "A unary operation on logical values that changes true to false, and false to true."
+    },
+    {
+        "word": "note",
+        "pos": "noun",
+        "def": "(heading) A symbol or annotation."
+    },
+    {
+        "word": "notice",
+        "pos": "noun",
+        "def": "The act of observing; perception."
+    },
+    {
+        "word": "november"
+    },
+    {
+        "word": "now",
+        "pos": "noun",
+        "def": "The present time."
+    },
+    {
+        "word": "number",
+        "pos": "noun",
+        "def": "An abstract entity used to describe quantity."
+    },
+    {
+        "word": "nurse",
+        "pos": "noun",
+        "def": "A wet nurse."
+    },
+    {
+        "word": "october"
+    },
+    {
+        "word": "of",
+        "pos": "preposition",
+        "def": "Expressing distance or motion."
+    },
+    {
+        "word": "off",
+        "pos": "noun",
+        "def": "(usually in phrases such as 'from the off', 'at the off', etc.) Beginning; starting point."
+    },
+    {
+        "word": "office",
+        "pos": "noun",
+        "def": "A ceremonial duty or service, particularly:"
+    },
+    {
+        "word": "old",
+        "pos": "noun",
+        "def": "(with the, invariable plural only) People who are old; old beings; the older generation, taken as a group."
+    },
+    {
+        "word": "on",
+        "pos": "verb",
+        "def": "To switch on"
+    },
+    {
+        "word": "once",
+        "pos": "adverb",
+        "def": "(frequency) One and only one time."
+    },
+    {
+        "word": "one",
+        "pos": "noun",
+        "def": "The digit or figure 1."
+    },
+    {
+        "word": "only",
+        "pos": "noun",
+        "def": "An only child."
+    },
+    {
+        "word": "open",
+        "pos": "adjective",
+        "def": "Not closed"
+    },
+    {
+        "word": "or",
+        "pos": "conjunction",
+        "def": "Connects at least two alternative words, phrases, clauses, sentences, etc. each of which could make a passage true. In English, this is the \"inclusive or.\" The \"exclusive or\" is formed by \"either [...] or\"."
+    },
+    {
+        "word": "oral",
+        "pos": "noun",
+        "def": "A spoken test or examination, particularly in a language class."
+    },
+    {
+        "word": "orange",
+        "pos": "noun",
+        "def": "An evergreen tree of the genus Citrus such as Citrus sinensis."
+    },
+    {
+        "word": "order",
+        "pos": "noun",
+        "def": "Arrangement, disposition, or sequence."
+    },
+    {
+        "word": "other",
+        "pos": "noun",
+        "def": "An other, another (person, etc), more often rendered as another."
+    },
+    {
+        "word": "out",
+        "pos": "noun",
+        "def": "A means of exit, escape, reprieve, etc."
+    },
+    {
+        "word": "oval",
+        "pos": "noun",
+        "def": "An elongated round shape resembling an egg or ellipse."
+    },
+    {
+        "word": "over",
+        "pos": "noun",
+        "def": "A set of six legal balls bowled."
+    },
+    {
+        "word": "own",
+        "pos": "adjective",
+        "def": "Belonging to; possessed; proper to. Often marks a possessive determiner as reflexive, referring back to the subject of the clause or sentence."
+    },
+    {
+        "word": "pack",
+        "pos": "noun",
+        "def": "A bundle made up and prepared to be carried; especially, a bundle to be carried on the back, but also a load for an animal, a bale."
+    },
+    {
+        "word": "page",
+        "pos": "noun",
+        "def": "One of the many pieces of paper bound together within a book or similar document."
+    },
+    {
+        "word": "paint",
+        "pos": "noun",
+        "def": "A substance that is applied as a liquid or paste, and dries into a solid coating that protects or adds color/colour to an object or surface to which it has been applied."
+    },
+    {
+        "word": "pair",
+        "pos": "noun",
+        "def": "Two similar or identical things taken together; often followed by of."
+    },
+    {
+        "word": "panda",
+        "pos": "noun",
+        "def": "The red panda (Ailurus fulgens), a small raccoon-like animal of northeast Asia with reddish fur and a long, ringed tail."
+    },
+    {
+        "word": "paper",
+        "pos": "noun",
+        "def": "A sheet material used for writing on or printing on (or as a non-waterproof container), usually made by draining cellulose fibres from a suspension in water."
+    },
+    {
+        "word": "paragraph",
+        "pos": "noun",
+        "def": "A passage in text that is about a different subject from the preceding text, marked by commencing on a new line, the first line sometimes being indented."
+    },
+    {
+        "word": "pardon",
+        "pos": "noun",
+        "def": "Forgiveness for an offence."
+    },
+    {
+        "word": "parent",
+        "pos": "noun",
+        "def": "One of the two persons from whom one is immediately biologically descended; a mother or father."
+    },
+    {
+        "word": "park",
+        "pos": "noun",
+        "def": "An area of land set aside for environment preservation or recreation."
+    },
+    {
+        "word": "parrot",
+        "pos": "noun",
+        "def": "A kind of bird, many species of which are colourful and able to mimic human speech, of the order Psittaciformes or (narrowly) of the family Psittacidae."
+    },
+    {
+        "word": "part",
+        "pos": "noun",
+        "def": "A portion; a component."
+    },
+    {
+        "word": "partner",
+        "pos": "noun",
+        "def": "Someone who is associated with another in a common activity or interest."
+    },
+    {
+        "word": "party",
+        "pos": "noun",
+        "def": "A person or group of people constituting a particular side in a contract or legal action."
+    },
+    {
+        "word": "pass",
+        "pos": "verb",
+        "def": "To change place."
+    },
+    {
+        "word": "past",
+        "pos": "verb",
+        "def": "To change place."
+    },
+    {
+        "word": "pay",
+        "pos": "noun",
+        "def": "Money given in return for work; salary or wages."
+    },
+    {
+        "word": "pear",
+        "pos": "noun",
+        "def": "An edible fruit produced by the pear tree, similar to an apple but elongated towards the stem."
+    },
+    {
+        "word": "pen",
+        "pos": "noun",
+        "def": "An enclosure (enclosed area) used to contain domesticated animals, especially sheep or cattle."
+    },
+    {
+        "word": "pencil",
+        "pos": "noun",
+        "def": "A paintbrush."
+    },
+    {
+        "word": "people",
+        "pos": "noun",
+        "def": "Used as plural of person; a body of human beings considered generally or collectively; a group of two or more persons."
+    },
+    {
+        "word": "pet",
+        "pos": "noun",
+        "def": "An animal kept as a companion."
+    },
+    {
+        "word": "photograph",
+        "pos": "noun",
+        "def": "A picture created by projecting an image onto a photosensitive surface such as a chemically treated plate or film, CCD receptor, etc."
+    },
+    {
+        "word": "piano",
+        "pos": "noun",
+        "def": "A percussive keyboard musical instrument, usually ranging over seven octaves, with white and black colored keys, played by pressing these keys, causing hammers to strike strings"
+    },
+    {
+        "word": "pick",
+        "pos": "noun",
+        "def": "A tool used for digging; a pickaxe."
+    },
+    {
+        "word": "picnic",
+        "pos": "noun",
+        "def": "An informal social gathering, usually in a natural outdoor setting, to which the participants bring their own food and drink."
+    },
+    {
+        "word": "picture",
+        "pos": "noun",
+        "def": "A representation of anything (as a person, a landscape, a building) upon canvas, paper, or other surface, by drawing, painting, printing, photography, etc."
+    },
+    {
+        "word": "pie",
+        "pos": "noun",
+        "def": "A type of pastry that consists of an outer crust and a filling."
+    },
+    {
+        "word": "piece",
+        "pos": "noun",
+        "def": "A part of a larger whole, usually in such a form that it is able to be separated from other parts."
+    },
+    {
+        "word": "pig",
+        "pos": "noun",
+        "def": "Any of several intelligent mammalian species of the genus Sus, having cloven hooves, bristles and a nose adapted for digging; especially the domesticated animal Sus scrofa."
+    },
+    {
+        "word": "pink",
+        "pos": "noun",
+        "def": "The common minnow, Phoxinus phoxinus."
+    },
+    {
+        "word": "pizza",
+        "pos": "noun",
+        "def": "A baked Italian dish of a thinly rolled bread dough crust typically topped before baking with tomato sauce, cheese and other ingredients such as meat, vegetables or fruit"
+    },
+    {
+        "word": "place",
+        "pos": "noun",
+        "def": "(physical) An area; somewhere within an area."
+    },
+    {
+        "word": "plan",
+        "pos": "noun",
+        "def": "A drawing showing technical details of a building, machine, etc., with unwanted details omitted, and often using symbols rather than detailed drawing to represent doors, valves, etc."
+    },
+    {
+        "word": "plant",
+        "pos": "noun",
+        "def": "An organism that is not an animal, especially an organism capable of photosynthesis. Typically a small or herbaceous organism of this kind, rather than a tree."
+    },
+    {
+        "word": "plate",
+        "pos": "noun",
+        "def": "A slightly curved but almost flat dish from which food is served or eaten."
+    },
+    {
+        "word": "play",
+        "pos": "noun",
+        "def": "Activity for amusement only, especially among the young."
+    },
+    {
+        "word": "playground",
+        "pos": "noun",
+        "def": "(outdoors) A large open space for children to play on, usually having dedicated play equipment (such as swings and slides)."
+    },
+    {
+        "word": "please",
+        "pos": "verb",
+        "def": "To make happy or satisfy; to give pleasure to."
+    },
+    {
+        "word": "pocket",
+        "pos": "noun",
+        "def": "A bag stitched to an item of clothing, used for carrying small items."
+    },
+    {
+        "word": "poem",
+        "pos": "noun",
+        "def": "A literary piece written in verse."
+    },
+    {
+        "word": "point",
+        "pos": "noun",
+        "def": "A discrete division of something."
+    },
+    {
+        "word": "police",
+        "pos": "noun",
+        "def": "A civil force granted the legal authority for law enforcement and maintaining public order."
+    },
+    {
+        "word": "policeman",
+        "pos": "noun",
+        "def": "One who enforces."
+    },
+    {
+        "word": "policewoman",
+        "pos": "noun",
+        "def": "A female police officer."
+    },
+    {
+        "word": "polite",
+        "pos": "verb",
+        "def": "To polish; to refine; to render polite."
+    },
+    {
+        "word": "pond",
+        "pos": "noun",
+        "def": "An inland body of standing water, either natural or man-made, that is smaller than a lake."
+    },
+    {
+        "word": "pool",
+        "pos": "noun",
+        "def": "A small and rather deep collection of (usually) fresh water, as one supplied by a spring, or occurring in the course of a stream; a reservoir for water."
+    },
+    {
+        "word": "poor",
+        "pos": "noun",
+        "def": "(with \"the\") Those who have little or no possessions or money, taken as a group."
+    },
+    {
+        "word": "pork",
+        "pos": "noun",
+        "def": "The meat of a pig; swineflesh."
+    },
+    {
+        "word": "post",
+        "pos": "noun",
+        "def": "A long dowel or plank protruding from the ground; a fencepost; a lightpost."
+    },
+    {
+        "word": "poster",
+        "pos": "noun",
+        "def": "A picture of a celebrity, an event etc., intended to be attached to a wall."
+    },
+    {
+        "word": "pot",
+        "pos": "noun",
+        "def": "A flat-bottomed vessel (usually metal) used for cooking food."
+    },
+    {
+        "word": "potato",
+        "pos": "noun",
+        "def": "The tuber of a plant, Solanum tuberosum, eaten as a starchy vegetable, particularly in the Americas and Europe; this plant."
+    },
+    {
+        "word": "practise",
+        "pos": "verb",
+        "def": "To repeat (an activity) as a way of improving one's skill in that activity."
+    },
+    {
+        "word": "prepare",
+        "pos": "noun",
+        "def": "Preparation"
+    },
+    {
+        "word": "present",
+        "pos": "noun",
+        "def": "The current moment or period of time."
+    },
+    {
+        "word": "pretty",
+        "pos": "noun",
+        "def": "A pretty person; a term of address to a pretty person."
+    },
+    {
+        "word": "price",
+        "pos": "noun",
+        "def": "The cost required to gain possession of something."
+    },
+    {
+        "word": "primary",
+        "pos": "noun",
+        "def": "A primary election; a preliminary election to select a political candidate of a political party."
+    },
+    {
+        "word": "prince",
+        "pos": "noun",
+        "def": "A (male) ruler, a sovereign; a king, monarch."
+    },
+    {
+        "word": "princess",
+        "pos": "noun",
+        "def": "A female member of a royal family other than a queen, especially a daughter or granddaughter."
+    },
+    {
+        "word": "prize",
+        "pos": "noun",
+        "def": "That which is taken from another; something captured; a thing seized by force, stratagem, or superior power."
+    },
+    {
+        "word": "problem",
+        "pos": "noun",
+        "def": "A difficulty that has to be resolved or dealt with."
+    },
+    {
+        "word": "project",
+        "pos": "noun",
+        "def": "A planned endeavor, usually with a specific goal and accomplished in several steps or stages."
+    },
+    {
+        "word": "proud",
+        "pos": "adjective",
+        "def": "Feeling honoured (by something); feeling happy or satisfied about an event or fact; gratified."
+    },
+    {
+        "word": "public",
+        "pos": "noun",
+        "def": "The people in general, regardless of membership of any particular group."
+    },
+    {
+        "word": "pull",
+        "pos": "noun",
+        "def": "An act of pulling (applying force)"
+    },
+    {
+        "word": "punctuation",
+        "pos": "noun",
+        "def": "A set of symbols and marks which are used to clarify meaning in text by separating strings of words into clauses, phrases and sentences."
+    },
+    {
+        "word": "punish",
+        "pos": "verb",
+        "def": "To cause to suffer for crime or misconduct, to administer disciplinary action."
+    },
+    {
+        "word": "pupil",
+        "pos": "noun",
+        "def": "A learner under the supervision of a teacher or professor."
+    },
+    {
+        "word": "puppy",
+        "pos": "noun",
+        "def": "A young dog, especially before sexual maturity (12-18 months)"
+    },
+    {
+        "word": "purple",
+        "pos": "noun",
+        "def": "A colour/color that is a dark blend of red and blue; dark magenta."
+    },
+    {
+        "word": "push",
+        "pos": "noun",
+        "def": "A short, directed application of force; an act of pushing."
+    },
+    {
+        "word": "put",
+        "pos": "noun",
+        "def": "A right to sell something at a predetermined price."
+    },
+    {
+        "word": "puzzle",
+        "pos": "noun",
+        "def": "Anything that is difficult to understand or make sense of."
+    },
+    {
+        "word": "quarter",
+        "pos": "noun",
+        "def": "A fourth part of something."
+    },
+    {
+        "word": "queen",
+        "pos": "noun",
+        "def": "A female monarch. Example: Queen Victoria."
+    },
+    {
+        "word": "question",
+        "pos": "noun",
+        "def": "A sentence, phrase or word which asks for information, reply or response; an interrogative."
+    },
+    {
+        "word": "quick",
+        "pos": "noun",
+        "def": "Raw or sensitive flesh, especially that underneath finger and toe nails."
+    },
+    {
+        "word": "quiet",
+        "pos": "noun",
+        "def": "The absence of sound; quietness."
+    },
+    {
+        "word": "quite",
+        "pos": "adverb",
+        "def": "(heading) To the greatest extent or degree; completely, entirely."
+    },
+    {
+        "word": "rabbit",
+        "pos": "noun",
+        "def": "A mammal of the family Leporidae, with long ears, long hind legs and a short, fluffy tail."
+    },
+    {
+        "word": "radio",
+        "pos": "noun",
+        "def": "The technology that allows for the transmission of sound or other signals by modulation of electromagnetic waves."
+    },
+    {
+        "word": "rain",
+        "pos": "noun",
+        "def": "Condensed water falling from a cloud."
+    },
+    {
+        "word": "rainbow",
+        "pos": "noun",
+        "def": "A multicoloured arch in the sky, produced by prismatic refraction of light within droplets of rain in the air."
+    },
+    {
+        "word": "raincoat",
+        "pos": "noun",
+        "def": "A waterproof coat to be worn in the rain."
+    },
+    {
+        "word": "rat",
+        "pos": "noun",
+        "def": "A medium-sized rodent belonging to the genus Rattus."
+    },
+    {
+        "word": "read",
+        "pos": "noun",
+        "def": "A reading or an act of reading, especially an actor's part of a play."
+    },
+    {
+        "word": "ready",
+        "pos": "noun",
+        "def": "Ready money; cash"
+    },
+    {
+        "word": "recess",
+        "pos": "noun",
+        "def": "A break, pause or vacation."
+    },
+    {
+        "word": "rectangle",
+        "pos": "noun",
+        "def": "A quadrilateral having opposing sides parallel and four right angles."
+    },
+    {
+        "word": "red",
+        "pos": "noun",
+        "def": "Any of a range of colours having the longest wavelengths, 670 nm, of the visible spectrum; a primary additive colour for transmitted light: the colour obtained by subtracting green and blue from white light using magenta and yellow filters; the colour of blood, ripe strawberries, etc."
+    },
+    {
+        "word": "remember",
+        "pos": "verb",
+        "def": "To recall from one's memory; to have an image in one's memory."
+    },
+    {
+        "word": "repeat",
+        "pos": "noun",
+        "def": "An iteration; a repetition."
+    },
+    {
+        "word": "report",
+        "pos": "noun",
+        "def": "A piece of information describing, or an account of certain events given or presented to someone, with the most common adpositions being by (referring to creator of the report) and on (referring to the subject)."
+    },
+    {
+        "word": "rest",
+        "pos": "noun",
+        "def": "(of a person or animal) Relief from work or activity by sleeping; sleep."
+    },
+    {
+        "word": "restaurant",
+        "pos": "noun",
+        "def": "An eating establishment in which diners are served food, usually by waiters at their tables but sometimes (as in a fast food restaurant) at a counter."
+    },
+    {
+        "word": "result",
+        "pos": "noun",
+        "def": "That which results; the conclusion or end to which any course or condition of things leads, or which is obtained by any process or operation; consequence or effect."
+    },
+    {
+        "word": "return",
+        "pos": "noun",
+        "def": "The act of returning."
+    },
+    {
+        "word": "rhyme",
+        "pos": "noun",
+        "def": "Rhyming verse (poetic form)"
+    },
+    {
+        "word": "ribbon",
+        "pos": "noun",
+        "def": "A long, narrow strip of timber bent and bolted longitudinally to the ribs of a vessel, to hold them in position and give rigidity to the framework."
+    },
+    {
+        "word": "rice",
+        "pos": "noun",
+        "def": "Cereal plants, Oryza sativa of the grass family whose seeds are used as food."
+    },
+    {
+        "word": "rich",
+        "pos": "verb",
+        "def": "To enrich."
+    },
+    {
+        "word": "riddle",
+        "pos": "noun",
+        "def": "A verbal puzzle, mystery, or other problem of an intellectual nature."
+    },
+    {
+        "word": "ride",
+        "pos": "noun",
+        "def": "An instance of riding."
+    },
+    {
+        "word": "right",
+        "pos": "adjective",
+        "def": "Straight, not bent."
+    },
+    {
+        "word": "ring",
+        "pos": "noun",
+        "def": "(physical) A solid object in the shape of a circle."
+    },
+    {
+        "word": "river",
+        "pos": "noun",
+        "def": "A large and often winding stream which drains a land mass, carrying water down from higher areas to a lower point, oftentimes ending in another body of water, such as an ocean or in an inland sea."
+    },
+    {
+        "word": "road",
+        "pos": "noun",
+        "def": "A way used for travelling between places, originally one wide enough to allow foot passengers and horses to travel, now (US) usually one surfaced with asphalt or concrete and designed to accommodate many vehicles travelling in both directions. In the UK both senses are heard: a country road is the same as a country lane."
+    },
+    {
+        "word": "robot",
+        "pos": "noun",
+        "def": "A machine built to carry out some complex task or group of tasks by physically moving, especially one which can be programmed."
+    },
+    {
+        "word": "rock",
+        "pos": "noun",
+        "def": "A formation of minerals, specifically:"
+    },
+    {
+        "word": "room",
+        "pos": "noun",
+        "def": "Opportunity or scope (to do something)."
+    },
+    {
+        "word": "round",
+        "pos": "adverb",
+        "def": "So as to form a circle or trace a circular path, or approximation thereof."
+    },
+    {
+        "word": "row",
+        "pos": "noun",
+        "def": "A line of objects, often regularly spaced, such as seats in a theatre, vegetable plants in a garden etc."
+    },
+    {
+        "word": "rubber",
+        "pos": "noun",
+        "def": "Pliable material derived from the sap of the rubber tree; a hydrocarbon polymer of isoprene."
+    },
+    {
+        "word": "rubbish",
+        "pos": "noun",
+        "def": "Refuse, waste, garbage, junk, trash."
+    },
+    {
+        "word": "rule",
+        "pos": "noun",
+        "def": "A regulation, law, guideline."
+    },
+    {
+        "word": "ruler",
+        "pos": "noun",
+        "def": "A (usually rigid), flat, rectangular measuring or drawing device with graduations in units of measurement; a straightedge with markings."
+    },
+    {
+        "word": "run",
+        "pos": "verb",
+        "def": "To run."
+    },
+    {
+        "word": "sad",
+        "pos": "verb",
+        "def": "To make melancholy; to sadden or grieve (someone)."
+    },
+    {
+        "word": "safe",
+        "pos": "noun",
+        "def": "A box, usually made of metal, in which valuables can be locked for safekeeping."
+    },
+    {
+        "word": "salad",
+        "pos": "noun",
+        "def": "A food made primarily of a mixture of raw or cold ingredients, typically vegetables, usually served with a dressing such as vinegar or mayonnaise."
+    },
+    {
+        "word": "salt",
+        "pos": "noun",
+        "def": "A common substance, chemically consisting mainly of sodium chloride (NaCl), used extensively as a condiment and preservative."
+    },
+    {
+        "word": "same",
+        "pos": "adjective",
+        "def": "Not different or other; not another or others; not different as regards self; selfsame; identical."
+    },
+    {
+        "word": "sand",
+        "pos": "noun",
+        "def": "Rock that is ground more finely than gravel, but is not as fine as silt (more formally, see grain sizes chart), forming beaches and deserts and also used in construction."
+    },
+    {
+        "word": "sandcastle",
+        "pos": "noun",
+        "def": "A sculpture made of sand and resembling a miniature castle; typically, but not always, made for fun by a child on a beach."
+    },
+    {
+        "word": "sandwich",
+        "pos": "noun",
+        "def": "A dish or foodstuff where two or more slices of bread serve as the wrapper or container of some other food."
+    },
+    {
+        "word": "saturday"
+    },
+    {
+        "word": "sausage",
+        "pos": "noun",
+        "def": "A food made of ground meat (or meat substitute) and seasoning, packed in a section of the animal's intestine, or in a similarly cylindrical shaped synthetic casing; a length of this food."
+    },
+    {
+        "word": "say",
+        "pos": "noun",
+        "def": "A chance to speak; the right or power to influence or make a decision."
+    },
+    {
+        "word": "scarf",
+        "pos": "noun",
+        "def": "A long, often knitted, garment worn around the neck."
+    },
+    {
+        "word": "school",
+        "pos": "noun",
+        "def": "(collective) A group of fish or a group of marine mammals such as porpoises, dolphins, or whales."
+    },
+    {
+        "word": "scissors",
+        "pos": "noun",
+        "def": "One blade on a pair of scissors."
+    },
+    {
+        "word": "sea",
+        "pos": "noun",
+        "def": "A large body of salt water."
+    },
+    {
+        "word": "season",
+        "pos": "noun",
+        "def": "Each of the four divisions of a year: spring, summer, autumn (fall) and winter"
+    },
+    {
+        "word": "seat",
+        "pos": "noun",
+        "def": "Something to be sat upon."
+    },
+    {
+        "word": "second",
+        "pos": "noun",
+        "def": "Something that is number two in a series."
+    },
+    {
+        "word": "see",
+        "pos": "verb",
+        "def": "(stative) To perceive or detect with the eyes, or as if by sight."
+    },
+    {
+        "word": "sell",
+        "pos": "noun",
+        "def": "An act of selling."
+    },
+    {
+        "word": "send",
+        "pos": "noun",
+        "def": "The rising motion of water as a wave passes; a surge; the upward angular displacement of a vessel, opposed to pitch, the correlative downward movement."
+    },
+    {
+        "word": "sentence",
+        "pos": "noun",
+        "def": "The decision or judgement of a jury or court; a verdict."
+    },
+    {
+        "word": "september"
+    },
+    {
+        "word": "seven",
+        "pos": "noun",
+        "def": "The digit/figure 7 or an occurrence thereof."
+    },
+    {
+        "word": "sex",
+        "pos": "noun",
+        "def": "A category into which sexually-reproducing organisms are divided on the basis of their reproductive roles in their species."
+    },
+    {
+        "word": "shake",
+        "pos": "noun",
+        "def": "The act of shaking or being shaken; tremulous or back-and-forth motion."
+    },
+    {
+        "word": "shall",
+        "pos": "verb",
+        "def": "(modal, auxiliary verb, defective) Used before a verb to indicate the simple future tense in the first person singular or plural."
+    },
+    {
+        "word": "shape",
+        "pos": "noun",
+        "def": "The status or condition of something"
+    },
+    {
+        "word": "share",
+        "pos": "noun",
+        "def": "A portion of something, especially a portion given or allotted to someone."
+    },
+    {
+        "word": "she",
+        "pos": "noun",
+        "def": "A female."
+    },
+    {
+        "word": "sheep",
+        "pos": "noun",
+        "def": "A woolly ruminant of the genus Ovis."
+    },
+    {
+        "word": "shelf",
+        "pos": "noun",
+        "def": "A flat, rigid structure, fixed at right angles to a wall or forming a part of a cabinet, desk etc., and used to support, store or display objects."
+    },
+    {
+        "word": "shell",
+        "pos": "noun",
+        "def": "A hard external covering of an animal."
+    },
+    {
+        "word": "shine",
+        "pos": "noun",
+        "def": "Brightness from a source of light."
+    },
+    {
+        "word": "ship",
+        "pos": "noun",
+        "def": "A water-borne vessel generally larger than a boat."
+    },
+    {
+        "word": "shirt",
+        "pos": "noun",
+        "def": "An article of clothing that is worn on the upper part of the body, and often has sleeves, either long or short, that cover the arms."
+    },
+    {
+        "word": "shoe",
+        "pos": "noun",
+        "def": "A protective covering for the foot, with a bottom part composed of thick leather or plastic sole and often a thicker heel, and a softer upper part made of leather or synthetic material. Shoes generally do not extend above the ankle, as opposed to boots, which do."
+    },
+    {
+        "word": "shop",
+        "pos": "noun",
+        "def": "An establishment that sells goods or services to the public; originally only a physical location, but now a virtual establishment as well."
+    },
+    {
+        "word": "shopkeeper",
+        "pos": "noun",
+        "def": "A trader who sells goods in a shop, or by retail, in distinction from one who sells by wholesale, or sells door to door."
+    },
+    {
+        "word": "short",
+        "pos": "noun",
+        "def": "A short circuit."
+    },
+    {
+        "word": "shorts",
+        "pos": "noun",
+        "def": "A short circuit."
+    },
+    {
+        "word": "shoulder",
+        "pos": "noun",
+        "def": "The part of an animal's body between the base of the neck and forearm socket."
+    },
+    {
+        "word": "shout",
+        "pos": "noun",
+        "def": "A loud burst of voice or voices; a violent and sudden outcry, especially that of a multitude expressing joy, triumph, exultation, anger, or animated courage."
+    },
+    {
+        "word": "show",
+        "pos": "noun",
+        "def": "A play, dance, or other entertainment."
+    },
+    {
+        "word": "shower",
+        "pos": "noun",
+        "def": "A brief fall of precipitation (spell of rain, or a similar fall of snow, sleet, or cascade)."
+    },
+    {
+        "word": "shut",
+        "pos": "adjective",
+        "def": "Closed, shut."
+    },
+    {
+        "word": "sick",
+        "pos": "noun",
+        "def": "Sick people in general as a group."
+    },
+    {
+        "word": "side",
+        "pos": "noun",
+        "def": "A bounding straight edge of a two-dimensional shape."
+    },
+    {
+        "word": "sign",
+        "pos": "noun",
+        "def": "(sometimes also used uncountably) A visible indication."
+    },
+    {
+        "word": "silly",
+        "pos": "noun",
+        "def": "A silly person."
+    },
+    {
+        "word": "silver",
+        "pos": "noun",
+        "def": "A lustrous, white, metallic element, atomic number 47, atomic weight 107.87, symbol Ag."
+    },
+    {
+        "word": "simple",
+        "pos": "noun",
+        "def": "A herbal preparation made from one plant, as opposed to something made from more than one plant."
+    },
+    {
+        "word": "sing",
+        "pos": "noun",
+        "def": "A gathering at which people sing songs."
+    },
+    {
+        "word": "sister",
+        "pos": "noun",
+        "def": "A daughter of the same parents as another person; a female sibling."
+    },
+    {
+        "word": "sit",
+        "pos": "noun",
+        "def": "Subsidence of the roof of a coal mine."
+    },
+    {
+        "word": "six",
+        "pos": "noun",
+        "def": "The digit or figure 6."
+    },
+    {
+        "word": "size",
+        "pos": "noun",
+        "def": "(obsolete outside dialectal) An assize."
+    },
+    {
+        "word": "skip",
+        "pos": "noun",
+        "def": "A leaping, jumping or skipping movement."
+    },
+    {
+        "word": "skirt",
+        "pos": "noun",
+        "def": "An article of clothing, usually worn by women and girls, that hangs from the waist and covers the lower part of the body."
+    },
+    {
+        "word": "sky",
+        "pos": "noun",
+        "def": "The atmosphere above a given point, especially as visible from the ground during the day."
+    },
+    {
+        "word": "sleep",
+        "pos": "verb",
+        "def": "To rest in a state of reduced consciousness."
+    },
+    {
+        "word": "slide",
+        "pos": "noun",
+        "def": "An item of play equipment that children can climb up and then slide down again."
+    },
+    {
+        "word": "slow",
+        "pos": "noun",
+        "def": "Someone who is slow; a sluggard."
+    },
+    {
+        "word": "small",
+        "pos": "noun",
+        "def": "Any part of something that is smaller or slimmer than the rest, now usually with anatomical reference to the back."
+    },
+    {
+        "word": "smell",
+        "pos": "noun",
+        "def": "A sensation, pleasant or unpleasant, detected by inhaling air (or, the case of water-breathing animals, water) carrying airborne molecules of a substance."
+    },
+    {
+        "word": "smile",
+        "pos": "noun",
+        "def": "A facial expression comprised by flexing the muscles of both ends of one's mouth, often showing the front teeth, without vocalisation, and in humans is a common involuntary or voluntary expression of happiness, pleasure, amusement or anxiety."
+    },
+    {
+        "word": "snack",
+        "pos": "noun",
+        "def": "A light meal."
+    },
+    {
+        "word": "snake",
+        "pos": "noun",
+        "def": "A legless reptile of the sub-order Serpentes with a long, thin body and a fork-shaped tongue."
+    },
+    {
+        "word": "snow",
+        "pos": "noun",
+        "def": "The frozen, crystalline state of water that falls as precipitation."
+    },
+    {
+        "word": "snowman",
+        "pos": "noun",
+        "def": "A humanoid figure made with large snowballs stacked on each other. Human traits like a face and arms may be fashioned with sticks (arms), a carrot (nose), and stones or coal (eyes, mouth)."
+    },
+    {
+        "word": "so",
+        "pos": "adjective",
+        "def": "True, accurate."
+    },
+    {
+        "word": "soap",
+        "pos": "noun",
+        "def": "A substance able to mix with both oil and water, used for cleaning, often in the form of a solid bar or in liquid form, derived from fats or made synthetically."
+    },
+    {
+        "word": "sock",
+        "pos": "noun",
+        "def": "A knitted or woven covering for the foot."
+    },
+    {
+        "word": "sofa",
+        "pos": "noun",
+        "def": "A raised area of a building's floor, usually covered with carpeting, used for sitting."
+    },
+    {
+        "word": "soft",
+        "pos": "noun",
+        "def": "A soft or foolish person; an idiot."
+    },
+    {
+        "word": "soil",
+        "pos": "noun",
+        "def": "A mixture of mineral particles and organic material, used to support plant growth."
+    },
+    {
+        "word": "some",
+        "pos": "adverb",
+        "def": "Of a measurement: approximately, roughly."
+    },
+    {
+        "word": "son",
+        "pos": "noun",
+        "def": "One's male offspring."
+    },
+    {
+        "word": "song",
+        "pos": "noun",
+        "def": "A musical composition with lyrics for voice or voices, performed by singing."
+    },
+    {
+        "word": "soon",
+        "pos": "adjective",
+        "def": "Short in length of time from the present."
+    },
+    {
+        "word": "sorry",
+        "pos": "noun",
+        "def": "The act of saying sorry; an apology."
+    },
+    {
+        "word": "sound",
+        "pos": "adjective",
+        "def": "Healthy."
+    },
+    {
+        "word": "soup",
+        "pos": "noun",
+        "def": "Any of various dishes commonly made by combining liquids, such as water or stock with other ingredients, such as meat and vegetables, that contribute flavor and texture."
+    },
+    {
+        "word": "space",
+        "pos": "noun",
+        "def": "(heading) Of time."
+    },
+    {
+        "word": "speak",
+        "pos": "noun",
+        "def": "A low class bar, a speakeasy."
+    },
+    {
+        "word": "spell",
+        "pos": "noun",
+        "def": "Words or a formula supposed to have magical powers."
+    },
+    {
+        "word": "spend",
+        "pos": "noun",
+        "def": "Amount of money spent (during a period); expenditure."
+    },
+    {
+        "word": "spoon",
+        "pos": "noun",
+        "def": "An implement for eating or serving; a scooped utensil whose long handle is straight, in contrast to a ladle."
+    },
+    {
+        "word": "sport",
+        "pos": "noun",
+        "def": "Any activity that uses physical exertion or skills competitively under a set of rules that is not based on aesthetics."
+    },
+    {
+        "word": "spring",
+        "pos": "verb",
+        "def": "To weaken, as a joint, ligament, or muscle, by sudden and excessive exertion, as by wrenching; to overstrain, or stretch injuriously, but without luxation"
+    },
+    {
+        "word": "square",
+        "pos": "noun",
+        "def": "A polygon with four sides of equal length and four right angles; an equilateral rectangle; a regular quadrilateral."
+    },
+    {
+        "word": "stamp",
+        "pos": "noun",
+        "def": "An act of stamping the foot, paw or hoof."
+    },
+    {
+        "word": "stand",
+        "pos": "noun",
+        "def": "The act of standing."
+    },
+    {
+        "word": "star",
+        "pos": "noun",
+        "def": "Any small luminous dot appearing in the cloudless portion of the night sky, especially with a fixed location relative to other such dots."
+    },
+    {
+        "word": "starfruit",
+        "pos": "noun",
+        "def": "The fruit of the carambola tree, Averrhoa carambola."
+    },
+    {
+        "word": "start",
+        "pos": "noun",
+        "def": "The beginning of an activity."
+    },
+    {
+        "word": "station",
+        "pos": "noun",
+        "def": "A stopping place."
+    },
+    {
+        "word": "stay",
+        "pos": "noun",
+        "def": "Continuance or a period of time spent in a place; abode for an indefinite time; sojourn."
+    },
+    {
+        "word": "step",
+        "pos": "noun",
+        "def": "An advance or movement made from one foot to the other; a pace."
+    },
+    {
+        "word": "stick",
+        "pos": "noun",
+        "def": "An elongated piece of wood or similar material, typically put to some use, for example as a wand or baton."
+    },
+    {
+        "word": "still",
+        "pos": "noun",
+        "def": "A period of calm or silence."
+    },
+    {
+        "word": "stone",
+        "pos": "noun",
+        "def": "A hard earthen substance that can form large rocks."
+    },
+    {
+        "word": "stop",
+        "pos": "noun",
+        "def": "A (usually marked) place where buses, trams or trains halt to let passengers get on and off, usually smaller than a station."
+    },
+    {
+        "word": "store",
+        "pos": "noun",
+        "def": "A place where items may be accumulated or routinely kept."
+    },
+    {
+        "word": "story",
+        "pos": "noun",
+        "def": "A sequence of real or fictional events; or, an account of such a sequence."
+    },
+    {
+        "word": "straight",
+        "pos": "noun",
+        "def": "Something that is not crooked or bent such as a part of a road or track."
+    },
+    {
+        "word": "street",
+        "pos": "noun",
+        "def": "A paved part of road, usually in a village or a town."
+    },
+    {
+        "word": "strong",
+        "pos": "adjective",
+        "def": "Capable of producing great physical force."
+    },
+    {
+        "word": "student",
+        "pos": "noun",
+        "def": "A person who studies or learns about a particular subject."
+    },
+    {
+        "word": "study",
+        "pos": "verb",
+        "def": "(usually academic) To review materials already learned in order to make sure one does not forget them, usually in preparation for an examination."
+    },
+    {
+        "word": "subject",
+        "pos": "adjective",
+        "def": "Likely to be affected by or to experience something."
+    },
+    {
+        "word": "sugar",
+        "pos": "noun",
+        "def": "Sucrose in the form of small crystals, obtained from sugar cane or sugar beet and used to sweeten food and drink."
+    },
+    {
+        "word": "summer",
+        "pos": "noun",
+        "def": "One of four seasons, traditionally the second, marked by the longest and typically hottest days of the year due to the inclination of the Earth and thermal lag. Typically regarded as being from June 21 to September 22 or 23 in parts of the USA, the months of June, July and August in the United Kingdom and the months of December, January and February in the Southern Hemisphere."
+    },
+    {
+        "word": "sun",
+        "pos": "noun",
+        "def": "A star, especially when seen as the centre of any single solar system."
+    },
+    {
+        "word": "sunday"
+    },
+    {
+        "word": "sunglasses",
+        "pos": "noun",
+        "def": "Tinted glasses worn to protect the eyes from the sun."
+    },
+    {
+        "word": "sunlight",
+        "pos": "noun",
+        "def": "All the electromagnetic radiation given off by the Sun, especially that in the visible spectrum that bathes the Earth."
+    },
+    {
+        "word": "supermarket",
+        "pos": "noun",
+        "def": "A large self-service store that sells groceries and, usually, medications, household goods and/or clothing."
+    },
+    {
+        "word": "supper",
+        "pos": "noun",
+        "def": "Food consumed before going to bed."
+    },
+    {
+        "word": "sure",
+        "pos": "adjective",
+        "def": "Physically secure and certain, non-failing, reliable."
+    },
+    {
+        "word": "sweep",
+        "pos": "noun",
+        "def": "A single action of sweeping."
+    },
+    {
+        "word": "sweet",
+        "pos": "noun",
+        "def": "The basic taste sensation induced by sugar."
+    },
+    {
+        "word": "swim",
+        "pos": "noun",
+        "def": "An act or instance of swimming."
+    },
+    {
+        "word": "swing",
+        "pos": "noun",
+        "def": "The manner in which something is swung."
+    },
+    {
+        "word": "table",
+        "pos": "noun",
+        "def": "Furniture with a top surface to accommodate a variety of uses."
+    },
+    {
+        "word": "tail",
+        "pos": "noun",
+        "def": "The caudal appendage of an animal that is attached to its posterior and near the anus."
+    },
+    {
+        "word": "take",
+        "pos": "noun",
+        "def": "The or an act of taking."
+    },
+    {
+        "word": "talk",
+        "pos": "verb",
+        "def": "To communicate, usually by means of speech."
+    },
+    {
+        "word": "tall",
+        "pos": "noun",
+        "def": "(possibly nonstandard) Someone or something that is tall."
+    },
+    {
+        "word": "tank",
+        "pos": "noun",
+        "def": "A closed container for liquids or gases."
+    },
+    {
+        "word": "tart",
+        "pos": "adjective",
+        "def": "Sharp to the taste; acid; sour."
+    },
+    {
+        "word": "task",
+        "pos": "noun",
+        "def": "A piece of work done as part of one\u2019s duties."
+    },
+    {
+        "word": "taste",
+        "pos": "noun",
+        "def": "One of the sensations produced by the tongue in response to certain chemicals; the quality of giving this sensation."
+    },
+    {
+        "word": "taxi",
+        "pos": "noun",
+        "def": "A vehicle that may be hired for single journeys by members of the public, driven by a taxi driver."
+    },
+    {
+        "word": "tea",
+        "pos": "noun",
+        "def": "A drug smoked or ingested for euphoric effect, cannabis."
+    },
+    {
+        "word": "teach",
+        "pos": "verb",
+        "def": "To show (someone) the way; to guide, conduct; to point, indicate."
+    },
+    {
+        "word": "teapot",
+        "pos": "noun",
+        "def": "A vessel for brewing and serving tea."
+    },
+    {
+        "word": "telephone",
+        "pos": "noun",
+        "def": "A telecommunication device (originally mechanical, and now electronic) used for two-way talking with another person (now often shortened to phone)."
+    },
+    {
+        "word": "television",
+        "pos": "noun",
+        "def": "An electronic communication medium that allows the transmission of real-time visual images, and often sound."
+    },
+    {
+        "word": "tell",
+        "pos": "noun",
+        "def": "A reflexive, often habitual behavior, especially one occurring in a context that often features attempts at deception by persons under psychological stress (such as a poker game or police interrogation), that reveals information that the person exhibiting the behavior is attempting to withhold."
+    },
+    {
+        "word": "ten",
+        "pos": "noun",
+        "def": "A set or group with ten elements."
+    },
+    {
+        "word": "tennis",
+        "pos": "noun",
+        "def": "A sport played by two players (or four in doubles), who alternately strike the ball over a net using racquets."
+    },
+    {
+        "word": "tense",
+        "pos": "noun",
+        "def": "(grammar) Any of the forms of a verb which distinguish when an action or state of being occurs or exists."
+    },
+    {
+        "word": "term",
+        "pos": "noun",
+        "def": "That which limits the extent of anything; limit, extremity, bound, boundary."
+    },
+    {
+        "word": "test",
+        "pos": "noun",
+        "def": "A challenge, trial."
+    },
+    {
+        "word": "textbook",
+        "pos": "noun",
+        "def": "A coursebook, a formal manual of instruction in a specific subject, especially one for use in schools or colleges."
+    },
+    {
+        "word": "than",
+        "pos": "adverb",
+        "def": "At that time; then."
+    },
+    {
+        "word": "thank",
+        "pos": "noun",
+        "def": "An expression of appreciation; a thought."
+    },
+    {
+        "word": "that",
+        "pos": "noun",
+        "def": "Something being indicated that is there; one of those."
+    },
+    {
+        "word": "the",
+        "pos": "adverb",
+        "def": "With a comparative or with more and a verb phrase, establishes a correlation with one or more other such comparatives."
+    },
+    {
+        "word": "then",
+        "pos": "conjunction",
+        "def": "Used in comparisons, to introduce the basis of comparison."
+    },
+    {
+        "word": "there",
+        "pos": "noun",
+        "def": "That place."
+    },
+    {
+        "word": "they",
+        "pos": "pronoun",
+        "def": "(the third-person plural) A group of people, animals, plants or objects previously mentioned."
+    },
+    {
+        "word": "thick",
+        "pos": "noun",
+        "def": "The thickest, or most active or intense, part of something."
+    },
+    {
+        "word": "thin",
+        "pos": "noun",
+        "def": "A loss or tearing of paper from the back of a stamp, although not sufficient to create a complete hole."
+    },
+    {
+        "word": "thing",
+        "pos": "noun",
+        "def": "That which is considered to exist as a separate entity, object, quality or concept."
+    },
+    {
+        "word": "think",
+        "pos": "noun",
+        "def": "An act of thinking; consideration (of something)."
+    },
+    {
+        "word": "third",
+        "pos": "noun",
+        "def": "The person or thing in the third position."
+    },
+    {
+        "word": "thirsty",
+        "pos": "adjective",
+        "def": "Needing to drink."
+    },
+    {
+        "word": "thirteen",
+        "pos": "numeral",
+        "def": "The cardinal number occurring after twelve and before fourteen, represented in Roman numerals as XIII and in Arabic numerals as 13."
+    },
+    {
+        "word": "thirty",
+        "pos": "noun",
+        "def": "A rack of thirty beers."
+    },
+    {
+        "word": "this",
+        "pos": "noun",
+        "def": "Something being indicated that is here; one of these."
+    },
+    {
+        "word": "thousand",
+        "pos": "numeral",
+        "def": "A numerical value equal to 1,000 = 10 \u00d7 100 = 103"
+    },
+    {
+        "word": "three",
+        "pos": "noun",
+        "def": "The digit/figure 3."
+    },
+    {
+        "word": "through",
+        "pos": "noun",
+        "def": "A large slab of stone laid in a dry-stone wall from one side to the other; a perpend."
+    },
+    {
+        "word": "throw",
+        "pos": "verb",
+        "def": "To change place."
+    },
+    {
+        "word": "thumb",
+        "pos": "noun",
+        "def": "The short thick digit of the hand that for humans has the most mobility and can be made to oppose (moved to touch) all of the other fingers."
+    },
+    {
+        "word": "thursday"
+    },
+    {
+        "word": "tick",
+        "pos": "noun",
+        "def": "A tiny woodland arachnid of the suborder Ixodida."
+    },
+    {
+        "word": "tidy",
+        "pos": "noun",
+        "def": "A tabletop container for pens and stationery."
+    },
+    {
+        "word": "tie",
+        "pos": "noun",
+        "def": "A knot; a fastening."
+    },
+    {
+        "word": "tiger",
+        "pos": "noun",
+        "def": "Panthera tigris, a large predatory mammal of the cat family, indigenous to Asia."
+    },
+    {
+        "word": "time",
+        "pos": "noun",
+        "def": "The inevitable progression into the future with the passing of present and past events."
+    },
+    {
+        "word": "timetable",
+        "pos": "noun",
+        "def": "A tabular schedule of events with the times at which they occur, especially times of arrivals and departures"
+    },
+    {
+        "word": "tired",
+        "pos": "verb",
+        "def": "To become sleepy or weary."
+    },
+    {
+        "word": "tissue",
+        "pos": "noun",
+        "def": "Thin, woven, gauze-like fabric."
+    },
+    {
+        "word": "title",
+        "pos": "noun",
+        "def": "A prefix (honorific) or suffix (post-nominal) added to a person's name to signify either veneration, official position or a professional or academic qualification. See also"
+    },
+    {
+        "word": "to",
+        "pos": "adverb",
+        "def": "Toward a closed, touching or engaging position."
+    },
+    {
+        "word": "today",
+        "pos": "noun",
+        "def": "A current day or date."
+    },
+    {
+        "word": "toe",
+        "pos": "noun",
+        "def": "Each of the five digits on the end of the foot."
+    },
+    {
+        "word": "together",
+        "pos": "adjective",
+        "def": "Coherent; well organized."
+    },
+    {
+        "word": "toilet",
+        "pos": "noun",
+        "def": "A covering of linen, silk, or tapestry, spread over a dressing table in a chamber or dressing room."
+    },
+    {
+        "word": "tomato",
+        "pos": "noun",
+        "def": "A widely cultivated plant, Solanum lycopersicum, having edible fruit."
+    },
+    {
+        "word": "tomorrow",
+        "pos": "noun",
+        "def": "The day after the present day."
+    },
+    {
+        "word": "tongue",
+        "pos": "noun",
+        "def": "The flexible muscular organ in the mouth that is used to move food around, for tasting and that is moved into various positions to modify the flow of air from the lungs in order to produce different sounds in speech."
+    },
+    {
+        "word": "tonight",
+        "pos": "noun",
+        "def": "The nighttime of the current day or date; this night."
+    },
+    {
+        "word": "too",
+        "pos": "adverb",
+        "def": "(focus) Likewise."
+    },
+    {
+        "word": "tooth",
+        "pos": "noun",
+        "def": "A hard, calcareous structure present in the mouth of many vertebrate animals, generally used for eating."
+    },
+    {
+        "word": "toothbrush",
+        "pos": "noun",
+        "def": "A brush, used with toothpaste, for cleaning the teeth."
+    },
+    {
+        "word": "top",
+        "pos": "noun",
+        "def": "The highest or uppermost part of something."
+    },
+    {
+        "word": "tortoise",
+        "pos": "noun",
+        "def": "Any of various land-dwelling reptiles, of the family Testudinidae or the order Testudines , whose body is enclosed in a shell (carapace plus plastron). The animal can withdraw its head and four legs partially into the shell, providing some protection from predators."
+    },
+    {
+        "word": "touch"
+    },
+    {
+        "word": "towel",
+        "pos": "noun",
+        "def": "A cloth used for wiping, especially one used for drying anything wet, as a person after a bath."
+    },
+    {
+        "word": "toy",
+        "pos": "noun",
+        "def": "Something to play with, especially as intended for use by a child."
+    },
+    {
+        "word": "train",
+        "pos": "noun",
+        "def": "Elongated portion."
+    },
+    {
+        "word": "tram",
+        "pos": "noun",
+        "def": "A passenger vehicle for public use that runs on tracks in the road (called a streetcar or trolley in North America)."
+    },
+    {
+        "word": "tree",
+        "pos": "noun",
+        "def": "Fast growing function based on Kruskal's tree theorem."
+    },
+    {
+        "word": "triangle",
+        "pos": "noun",
+        "def": "A polygon with three sides and three angles."
+    },
+    {
+        "word": "trousers",
+        "pos": "noun",
+        "def": "An article of clothing that covers the part of the body between the waist and the ankles or knees, and is divided into a separate part for each leg."
+    },
+    {
+        "word": "true",
+        "pos": "noun",
+        "def": "The state of being in alignment."
+    },
+    {
+        "word": "try",
+        "pos": "noun",
+        "def": "An attempt."
+    },
+    {
+        "word": "tuesday"
+    },
+    {
+        "word": "turn",
+        "pos": "verb",
+        "def": "(heading) to make a non-linear physical movement."
+    },
+    {
+        "word": "twelve",
+        "pos": "noun",
+        "def": "A group of twelve items."
+    },
+    {
+        "word": "twentieth",
+        "pos": "noun",
+        "def": "A person or thing in the twentieth position."
+    },
+    {
+        "word": "twenty",
+        "pos": "noun",
+        "def": "A banknote with a denomination of 20."
+    },
+    {
+        "word": "two",
+        "pos": "noun",
+        "def": "The digit/figure 2."
+    },
+    {
+        "word": "ugly",
+        "pos": "noun",
+        "def": "Ugliness."
+    },
+    {
+        "word": "umbrella",
+        "pos": "noun",
+        "def": "Cloth-covered frame used for protection against rain or sun."
+    },
+    {
+        "word": "uncle",
+        "pos": "noun",
+        "def": "The brother or brother-in-law of one\u2019s parent."
+    },
+    {
+        "word": "under",
+        "pos": "adjective",
+        "def": "Being lower; being beneath something."
+    },
+    {
+        "word": "underline",
+        "pos": "noun",
+        "def": "A line placed underneath a piece of text in order to provide emphasis or to indicate that it should be viewed in italics or (in electronic documents) that it acts as a hyperlink."
+    },
+    {
+        "word": "understand",
+        "pos": "verb",
+        "def": "To grasp a concept fully and thoroughly, especially (of words, statements, art, etc.) to be aware of the meaning of and (of people) to be aware of the intent of."
+    },
+    {
+        "word": "uniform",
+        "pos": "noun",
+        "def": "A distinctive outfit that serves to identify members of a group."
+    },
+    {
+        "word": "up",
+        "pos": "noun",
+        "def": "The direction opposed to the pull of gravity."
+    },
+    {
+        "word": "use",
+        "pos": "noun",
+        "def": "The act of using."
+    },
+    {
+        "word": "vegetable",
+        "pos": "noun",
+        "def": "Any plant."
+    },
+    {
+        "word": "very",
+        "pos": "adjective",
+        "def": "True, real, actual."
+    },
+    {
+        "word": "village",
+        "pos": "noun",
+        "def": "A rural habitation of size between a hamlet and a town."
+    },
+    {
+        "word": "visit",
+        "pos": "noun",
+        "def": "A single act of visiting."
+    },
+    {
+        "word": "voice",
+        "pos": "noun",
+        "def": "Sound uttered by the mouth, especially by human beings in speech or song; sound thus uttered considered as possessing some special quality or character"
+    },
+    {
+        "word": "wait",
+        "pos": "noun",
+        "def": "A delay."
+    },
+    {
+        "word": "wake",
+        "pos": "noun",
+        "def": "The act of waking, or state of being awake."
+    },
+    {
+        "word": "walk",
+        "pos": "verb",
+        "def": "To move on the feet by alternately setting each foot (or pair or group of feet, in the case of animals with four or more feet) forward, with at least one foot on the ground at all times. Compare run."
+    },
+    {
+        "word": "wall",
+        "pos": "noun",
+        "def": "A rampart of earth, stones etc. built up for defensive purposes."
+    },
+    {
+        "word": "want",
+        "pos": "noun",
+        "def": "A desire, wish, longing."
+    },
+    {
+        "word": "warm",
+        "pos": "adjective",
+        "def": "Having a temperature slightly higher than usual, but still pleasant; mildly hot."
+    },
+    {
+        "word": "wash",
+        "pos": "noun",
+        "def": "The process or an instance of washing or being washed by water or other liquid."
+    },
+    {
+        "word": "watch",
+        "pos": "noun",
+        "def": "A portable or wearable timepiece."
+    },
+    {
+        "word": "water",
+        "pos": "noun",
+        "def": "A substance (of molecular formula H\u2082O) found at room temperature and pressure as a clear liquid; it is present naturally as rain, and found in rivers, lakes and seas; its solid form is ice and its gaseous form is steam."
+    },
+    {
+        "word": "watermelon",
+        "pos": "noun",
+        "def": "A plant of the species Citrullus lanatus, bearing a melon-like fruit."
+    },
+    {
+        "word": "we",
+        "pos": "pronoun",
+        "def": "(personal) The speakers/writers, or the speaker/writer and at least one other person (not the person being addressed). (This is the exclusive we.)"
+    },
+    {
+        "word": "weak",
+        "pos": "adjective",
+        "def": "Lacking in force (usually strength) or ability."
+    },
+    {
+        "word": "wear",
+        "pos": "noun",
+        "def": "(in combination) clothing"
+    },
+    {
+        "word": "weather",
+        "pos": "noun",
+        "def": "The short term state of the atmosphere at a specific time and place, including the temperature, relative humidity, cloud cover, precipitation, wind, etc."
+    },
+    {
+        "word": "wednesday"
+    },
+    {
+        "word": "week",
+        "pos": "noun",
+        "def": "Any period of seven consecutive days."
+    },
+    {
+        "word": "weekday",
+        "pos": "noun",
+        "def": "A day of the week except those which form the weekend; that is:"
+    },
+    {
+        "word": "weekend",
+        "pos": "noun",
+        "def": "The break in the working week, usually two days including the traditional holy or sabbath day. Thus in western countries, Saturday and Sunday."
+    },
+    {
+        "word": "welcome",
+        "pos": "noun",
+        "def": "The act of greeting someone\u2019s arrival, especially by saying \"Welcome!\"; reception."
+    },
+    {
+        "word": "well",
+        "pos": "adjective",
+        "def": "In good health."
+    },
+    {
+        "word": "wet",
+        "pos": "noun",
+        "def": "Liquid or moisture."
+    },
+    {
+        "word": "what",
+        "pos": "adverb",
+        "def": "(Singlish) Used to contradict an underlying assumption held by the interlocutor."
+    },
+    {
+        "word": "when",
+        "pos": "noun",
+        "def": "The time at which something happens."
+    },
+    {
+        "word": "where",
+        "pos": "noun",
+        "def": "The place in which something happens."
+    },
+    {
+        "word": "which",
+        "pos": "pronoun",
+        "def": "(interrogative) What one or ones (of those mentioned or implied)."
+    },
+    {
+        "word": "white",
+        "pos": "noun",
+        "def": "The color/colour of snow or milk; the colour of light containing equal amounts of all visible wavelengths."
+    },
+    {
+        "word": "who",
+        "pos": "noun",
+        "def": "A person under discussion; a question of which person."
+    },
+    {
+        "word": "why",
+        "pos": "noun",
+        "def": "Reason"
+    },
+    {
+        "word": "wide",
+        "pos": "noun",
+        "def": "A ball that passes so far from the batsman that the umpire deems it unplayable; the arm signal used by an umpire to signal a wide; the extra run added to the batting side's score"
+    },
+    {
+        "word": "wild",
+        "pos": "noun",
+        "def": "The undomesticated state of a wild animal"
+    },
+    {
+        "word": "will",
+        "pos": "verb",
+        "def": "(now uncommon or literary) To wish, desire (something)."
+    },
+    {
+        "word": "win",
+        "pos": "verb",
+        "def": "To conquer, defeat."
+    },
+    {
+        "word": "wind",
+        "pos": "noun",
+        "def": "Real or perceived movement of atmospheric air usually caused by convection or differences in air pressure."
+    },
+    {
+        "word": "window",
+        "pos": "noun",
+        "def": "The inedible parts of a grain-producing plant."
+    },
+    {
+        "word": "wing",
+        "pos": "noun",
+        "def": "An appendage of an animal's (bird, bat, insect) body that enables it to fly; a similar fin at the side of a ray or similar fish"
+    },
+    {
+        "word": "winter",
+        "pos": "noun",
+        "def": "Traditionally the fourth of the four seasons, typically regarded as being from December 23 to March 20 in continental regions of the Northern Hemisphere or the months of June, July and August in the Southern Hemisphere. It is the time when the sun is lowest in the sky, resulting in short days, and the time of year with the lowest atmospheric temperatures for the region."
+    },
+    {
+        "word": "wise",
+        "pos": "verb",
+        "def": "To become wise."
+    },
+    {
+        "word": "wish",
+        "pos": "noun",
+        "def": "A desire, hope, or longing for something or for something to happen."
+    },
+    {
+        "word": "with",
+        "pos": "adverb",
+        "def": "Along, together with others, in a group, etc."
+    },
+    {
+        "word": "wolf",
+        "pos": "noun",
+        "def": "The gray wolf, specifically all subspecies of the gray wolf (Canis lupus) that are not dingoes or dogs."
+    },
+    {
+        "word": "woman",
+        "pos": "noun",
+        "def": "An adult female human."
+    },
+    {
+        "word": "wood",
+        "pos": "noun",
+        "def": "The substance making up the central part of the trunk and branches of a tree. Used as a material for construction, to manufacture various items, etc. or as fuel."
+    },
+    {
+        "word": "word",
+        "pos": "noun",
+        "def": "The smallest unit of language that has a particular meaning and can be expressed by itself; the smallest discrete, meaningful unit of language. (contrast morpheme.)"
+    },
+    {
+        "word": "work",
+        "pos": "noun",
+        "def": "(heading) Employment."
+    },
+    {
+        "word": "workbook",
+        "pos": "noun",
+        "def": "A book, used by a student, in which answers and workings may be entered besides questions and exercises."
+    },
+    {
+        "word": "worksheet",
+        "pos": "noun",
+        "def": "A sheet of paper or computerized document on which problems are worked out or solved and answers recorded."
+    },
+    {
+        "word": "worm",
+        "pos": "noun",
+        "def": "A generally tubular invertebrate of the annelid phylum; an earthworm."
+    },
+    {
+        "word": "write",
+        "pos": "noun",
+        "def": "The act or style of writing."
+    },
+    {
+        "word": "wrong",
+        "pos": "noun",
+        "def": "Something that is immoral or not good."
+    },
+    {
+        "word": "year",
+        "pos": "noun",
+        "def": "A solar year, the time it takes the Earth to complete one revolution of the Sun (between 365.24 and 365.26 days depending on the point of reference)."
+    },
+    {
+        "word": "yellow",
+        "pos": "noun",
+        "def": "The colour of gold, butter, or a lemon; the colour obtained by mixing green and red light, or by subtracting blue from white light."
+    },
+    {
+        "word": "yes",
+        "pos": "noun",
+        "def": "An affirmative expression; an answer that shows agreement or acceptance."
+    },
+    {
+        "word": "yesterday",
+        "pos": "noun",
+        "def": "The day immediately before today; one day ago."
+    },
+    {
+        "word": "you",
+        "pos": "verb",
+        "def": "To address (a person) using the pronoun you (in the past, especially to use you rather than thou, when you was considered more formal)."
+    },
+    {
+        "word": "young",
+        "pos": "noun",
+        "def": "People who are young; young people, collectively; youth."
+    },
+    {
+        "word": "zero",
+        "pos": "noun",
+        "def": "The numeric symbol that represents the cardinal number zero."
+    },
+    {
+        "word": "zoo",
+        "pos": "noun",
+        "def": "A park where live animals are exhibited."
+    },
+    {
+        "word": "am",
+        "pos": "adverb",
+        "def": "Before noon."
+    },
+    {
+        "word": "an",
+        "pos": "numeral",
+        "def": "One"
+    },
+    {
+        "word": "are",
+        "pos": "noun",
+        "def": "An accepted (but deprecated and rarely used) SI unit of area equal to 100 square metres, or a former unit of approximately the same extent. Symbol: a."
+    },
+    {
+        "word": "artist",
+        "pos": "noun",
+        "def": "A person who creates art."
+    },
+    {
+        "word": "beginning",
+        "pos": "noun",
+        "def": "The act of doing that which begins anything; commencement of an action, state, or space of time; entrance into being or upon a course; the first act, effort, or state of a succession of acts or states."
+    },
+    {
+        "word": "bike",
+        "pos": "noun",
+        "def": "A vehicle that has two wheels, one behind the other, a steering handle, and a saddle seat or seats and is usually propelled by the action of a rider\u2019s feet upon pedals."
+    },
+    {
+        "word": "bored",
+        "pos": "verb",
+        "def": "To inspire boredom in somebody."
+    },
+    {
+        "word": "building",
+        "pos": "noun",
+        "def": "The act or process by which something is built; construction."
+    },
+    {
+        "word": "bye",
+        "pos": "noun",
+        "def": "The position of a person or team in a tournament or competition who draws no opponent in a particular round so advances to the next round unopposed, or is awarded points for a win in a league table; also the phantom opponent of such a person or team."
+    },
+    {
+        "word": "cloudy",
+        "pos": "adjective",
+        "def": "Covered with or characterised by clouds; overcast."
+    },
+    {
+        "word": "colourful",
+        "pos": "adjective",
+        "def": "Possessing prominent and varied colors."
+    },
+    {
+        "word": "contents",
+        "pos": "verb",
+        "def": "To give contentment or satisfaction; to satisfy; to make happy."
+    },
+    {
+        "word": "cooker",
+        "pos": "noun",
+        "def": "A device for heating food, a stove."
+    },
+    {
+        "word": "cooking",
+        "pos": "verb",
+        "def": "To prepare (food) for eating by heating it, often by combining it with other ingredients."
+    },
+    {
+        "word": "corrections",
+        "pos": "noun",
+        "def": "The act of correcting."
+    },
+    {
+        "word": "cutter",
+        "pos": "noun",
+        "def": "A person or device that cuts (in various senses)."
+    },
+    {
+        "word": "dad",
+        "pos": "noun",
+        "def": "A father, a male parent."
+    },
+    {
+        "word": "daddy",
+        "pos": "noun",
+        "def": "(usually childish) Father."
+    },
+    {
+        "word": "dancer",
+        "pos": "noun",
+        "def": "A person who dances, usually as a job or profession."
+    },
+    {
+        "word": "dancing",
+        "pos": "verb",
+        "def": "To move with rhythmic steps or movements, especially in time to music."
+    },
+    {
+        "word": "different",
+        "pos": "noun",
+        "def": "The different ideal."
+    },
+    {
+        "word": "drawing",
+        "pos": "verb",
+        "def": "To move or develop something."
+    },
+    {
+        "word": "driver",
+        "pos": "noun",
+        "def": "One who drives something, in any sense of the verb to drive."
+    },
+    {
+        "word": "ending",
+        "pos": "noun",
+        "def": "A termination or conclusion."
+    },
+    {
+        "word": "exam",
+        "pos": "noun",
+        "def": "The act of examining."
+    },
+    {
+        "word": "excited",
+        "pos": "verb",
+        "def": "To stir the emotions of."
+    },
+    {
+        "word": "farmer",
+        "pos": "noun",
+        "def": "A person who works the land and/or who keeps livestock, especially on a farm."
+    },
+    {
+        "word": "fireman",
+        "pos": "noun",
+        "def": "Someone (especially one who is male) who is skilled in the work of fighting fire."
+    },
+    {
+        "word": "firewoman"
+    },
+    {
+        "word": "fisherman",
+        "pos": "noun",
+        "def": "A fisher, a person engaged in fishing:"
+    },
+    {
+        "word": "fishing",
+        "pos": "noun",
+        "def": "The act of catching fish."
+    },
+    {
+        "word": "folder",
+        "pos": "noun",
+        "def": "An organizer that papers are kept in, usually with an index tab, to be stored as a single unit in a filing cabinet."
+    },
+    {
+        "word": "following",
+        "pos": "verb",
+        "def": "To go after; to pursue; to move behind in the same path or direction."
+    },
+    {
+        "word": "friendly",
+        "pos": "noun",
+        "def": "A game which is of no consequence in terms of ranking, betting etc."
+    },
+    {
+        "word": "funny",
+        "pos": "noun",
+        "def": "A joke."
+    },
+    {
+        "word": "golden",
+        "pos": "noun",
+        "def": "Kyphosus vaigiensis, a fish found in southeast Asia."
+    },
+    {
+        "word": "grandad",
+        "pos": "noun",
+        "def": "Grandfather"
+    },
+    {
+        "word": "grandma",
+        "pos": "noun",
+        "def": "Grandmother"
+    },
+    {
+        "word": "grandpa",
+        "pos": "noun",
+        "def": "Grandfather"
+    },
+    {
+        "word": "granny",
+        "pos": "noun",
+        "def": "A grandmother."
+    },
+    {
+        "word": "helper",
+        "pos": "noun",
+        "def": "One who helps; an aide."
+    },
+    {
+        "word": "helpful",
+        "pos": "adjective",
+        "def": "Furnishing help; giving aid; useful."
+    },
+    {
+        "word": "her",
+        "pos": "noun",
+        "def": "A female person or animal."
+    },
+    {
+        "word": "hi",
+        "pos": "noun",
+        "def": "The word \"hi\" used as a greeting."
+    },
+    {
+        "word": "him",
+        "pos": "pronoun",
+        "def": "Honorific alternative letter-case form of him, sometimes used when referring to God or another important figure who is understood from context."
+    },
+    {
+        "word": "his",
+        "pos": "pronoun",
+        "def": "Honorific alternative letter-case form of his, sometimes used when referring to God or another important figure who is understood from context."
+    },
+    {
+        "word": "iced",
+        "pos": "adjective",
+        "def": "With ice added."
+    },
+    {
+        "word": "interested",
+        "pos": "verb",
+        "def": "To engage the attention of; to awaken interest in; to excite emotion or passion in, in behalf of a person or thing."
+    },
+    {
+        "word": "is"
+    },
+    {
+        "word": "its",
+        "pos": "noun",
+        "def": "One who is neither a he nor a she; a creature; a dehumanized being."
+    },
+    {
+        "word": "juicy",
+        "pos": "adjective",
+        "def": "Having lots of juice."
+    },
+    {
+        "word": "lovely",
+        "pos": "noun",
+        "def": "An attractive, lovely person, especially a (professional) beauty."
+    },
+    {
+        "word": "lucky",
+        "pos": "adjective",
+        "def": "(of people) Favoured by luck; fortunate; having good success or good fortune"
+    },
+    {
+        "word": "me",
+        "pos": "pronoun",
+        "def": "As the direct object of a verb."
+    },
+    {
+        "word": "meaning",
+        "pos": "noun",
+        "def": "(of words or symbols) The entity, perception, feeling or concept thereby represented or evoked."
+    },
+    {
+        "word": "mom",
+        "pos": "noun",
+        "def": "(familiar) mother."
+    },
+    {
+        "word": "mommy",
+        "pos": "noun",
+        "def": "(usually childish) Mother."
+    },
+    {
+        "word": "mum",
+        "pos": "noun",
+        "def": "Mother."
+    },
+    {
+        "word": "mummy",
+        "pos": "noun",
+        "def": "An embalmed human or animal corpse wrapped in linen bandages for burial, especially as practised by the ancient Egyptians and some Native American tribes."
+    },
+    {
+        "word": "my",
+        "pos": "interjection",
+        "def": "Used to express surprise, shock or amazement."
+    },
+    {
+        "word": "noisy",
+        "pos": "adjective",
+        "def": "Making a noise, especially a loud unpleasant sound"
+    },
+    {
+        "word": "our"
+    },
+    {
+        "word": "outing",
+        "pos": "verb",
+        "def": "To eject; to expel."
+    },
+    {
+        "word": "painter",
+        "pos": "noun",
+        "def": "An artist who paints pictures."
+    },
+    {
+        "word": "painting",
+        "pos": "verb",
+        "def": "To apply paint to."
+    },
+    {
+        "word": "phone",
+        "pos": "noun",
+        "def": "A device for transmitting conversations and other sounds in real time across distances, now often a small portable unit also capable of running software etc."
+    },
+    {
+        "word": "photo",
+        "pos": "noun",
+        "def": "A photograph."
+    },
+    {
+        "word": "plane",
+        "pos": "noun",
+        "def": "A level or flat surface."
+    },
+    {
+        "word": "player",
+        "pos": "noun",
+        "def": "One that plays"
+    },
+    {
+        "word": "postman",
+        "pos": "noun",
+        "def": "Someone (implied male) who delivers the post (mail) to, and/or collects the post from, residential or commercial addresses, or from public mailboxes."
+    },
+    {
+        "word": "practice",
+        "pos": "noun",
+        "def": "Repetition of an activity to improve a skill."
+    },
+    {
+        "word": "rainy",
+        "pos": "adjective",
+        "def": "Pouring with rain; wet; showery"
+    },
+    {
+        "word": "reader",
+        "pos": "noun",
+        "def": "A person who reads"
+    },
+    {
+        "word": "reading",
+        "pos": "verb",
+        "def": "To look at and interpret letters or other information that is written."
+    },
+    {
+        "word": "running",
+        "pos": "verb",
+        "def": "To move swiftly."
+    },
+    {
+        "word": "salty",
+        "pos": "adjective",
+        "def": "Tasting of salt."
+    },
+    {
+        "word": "shiny",
+        "pos": "noun",
+        "def": "Anything shiny; a trinket."
+    },
+    {
+        "word": "shopping",
+        "pos": "verb",
+        "def": "To visit stores or shops to browse or explore merchandise, especially with the intention of buying such merchandise."
+    },
+    {
+        "word": "singer",
+        "pos": "noun",
+        "def": "A person who sings, often professionally."
+    },
+    {
+        "word": "singing",
+        "pos": "verb",
+        "def": "To produce musical or harmonious sounds with one\u2019s voice."
+    },
+    {
+        "word": "skipping",
+        "pos": "verb",
+        "def": "To move by hopping on alternate feet."
+    },
+    {
+        "word": "sleepy",
+        "pos": "noun",
+        "def": "The gum that builds up in the eye; sleep, gound."
+    },
+    {
+        "word": "smelly",
+        "pos": "adjective",
+        "def": "Having a bad smell."
+    },
+    {
+        "word": "spelling",
+        "pos": "verb",
+        "def": "To put under the influence of a spell; to affect by a spell; to bewitch; to fascinate; to charm."
+    },
+    {
+        "word": "sticker",
+        "pos": "noun",
+        "def": "Something or someone that sticks."
+    },
+    {
+        "word": "sunny",
+        "pos": "noun",
+        "def": "A sunfish."
+    },
+    {
+        "word": "swimming",
+        "pos": "noun",
+        "def": "The act or art of sustaining and propelling the body in water."
+    },
+    {
+        "word": "tasty",
+        "pos": "adjective",
+        "def": "Having a pleasant or satisfying flavor; delicious."
+    },
+    {
+        "word": "teacher",
+        "pos": "noun",
+        "def": "A person who teaches, especially one employed in a school."
+    },
+    {
+        "word": "thanks",
+        "pos": "noun",
+        "def": "An expression of appreciation; a thought."
+    },
+    {
+        "word": "their"
+    },
+    {
+        "word": "them",
+        "pos": "pronoun",
+        "def": "(plural) Those ones."
+    },
+    {
+        "word": "us",
+        "pos": "pronoun",
+        "def": "(personal) Me and at least one other person; the objective case of we."
+    },
+    {
+        "word": "windy",
+        "pos": "noun",
+        "def": "Fart"
+    },
+    {
+        "word": "winner",
+        "pos": "noun",
+        "def": "One who has won or often wins."
+    },
+    {
+        "word": "wooden",
+        "pos": "adjective",
+        "def": "Made of wood."
+    },
+    {
+        "word": "worker",
+        "pos": "noun",
+        "def": "A person who performs labor for a living, especially manual labor."
+    },
+    {
+        "word": "writer",
+        "pos": "noun",
+        "def": "A person who writes, or produces literary work."
+    },
+    {
+        "word": "your"
+    }
+]

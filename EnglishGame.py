@@ -4,6 +4,7 @@ import time
 import threading
 import tempfile
 import pygame
+import json
 
 try:
     from gtts import gTTS
@@ -25,12 +26,13 @@ def load_words(level):
     Returns:
         list[str]: A list of non-empty words read from the KS file.
     """
-    fname = os.path.join(WORD_FOLDER, f'KS{level}_words.txt')
+    fname = os.path.join(WORD_FOLDER, f'KS{level}_words.json')
     if not os.path.exists(fname):
         # If the file does not exist, return an empty word list.
         return []
     with open(fname, 'r', encoding='utf-8') as f:
-        return [line.strip() for line in f if line.strip()]
+        list_of_words = json.load(f)
+        return [word["word"] for word in list_of_words]
 
 
 class TTSPlayer:
@@ -45,9 +47,6 @@ class TTSPlayer:
         except Exception:
             pass
         # Placeholder for a speech engine object if future support is added.
-        self.engine = None
-        if not _HAS_GTTS:
-            self.engine = None
 
     def speak(self, text):
         """Speak the given text aloud or print a fallback message.
