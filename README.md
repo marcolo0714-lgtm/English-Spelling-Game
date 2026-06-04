@@ -56,7 +56,10 @@ python EnglishGame.py
 - Press `Esc` or click `Exit` to quit
 
 ## Video Showcase
-https://github.com/user-attachments/assets/9d657128-cff1-401c-b54b-e66ad1620968
+
+https://github.com/user-attachments/assets/630f17a2-54d2-48f8-9967-20cff1207d90
+
+
 
 ## Directory Structure
 
@@ -76,8 +79,8 @@ https://github.com/user-attachments/assets/9d657128-cff1-401c-b54b-e66ad1620968
 
 - The game loads word data from JSON files under `word_folder/`.
 - `gTTS` requires an Internet connection to generate speech. If unavailable, the game will still run but pronunciation will be disabled.
-- The helper scripts use `pandas`, `requests`, and `openpyxl` to process Excel files and fetch definitions.
-- Update the `word_folder/*_words.json` files directly or use the helper scripts to add or refresh vocabulary.
+- To add or refresh vocabulary, update the json files under `word_folder/` directly, or update the Excel file `word_folder/custom_wordlist.xlsx` and use the helper scripts `word_folder/excel_2_json.py`.
+- The `alter` fields in each word represent alternative and acceptable spellings for a word. It is set to `nan` if there is no such alternative spellings.
 
 ## Attribution
 
