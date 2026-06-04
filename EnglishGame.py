@@ -13,11 +13,6 @@ except Exception:
     _HAS_GTTS = False
 
 
-# Absolute path of the current source file.
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-# Directory where the level-specific word files are stored.
-WORD_FOLDER = os.path.join(BASE_DIR, 'word_folder')
-
 
 def load_words(level):
     """Load the word list for the specified difficulty level.
@@ -26,13 +21,11 @@ def load_words(level):
     Returns:
         list[str]: A list of non-empty words read from the KS file.
     """
-    fname = os.path.join(WORD_FOLDER, f'KS{level}_words.json')
-    if not os.path.exists(fname):
-        # If the file does not exist, return an empty word list.
-        return []
+    fname = f"word_folder/KS{level}_words.json"
+
     with open(fname, 'r', encoding='utf-8') as f:
         list_of_words = json.load(f)
-        return [word["word"] for word in list_of_words]
+        return list_of_words
 
 
 class TTSPlayer:
@@ -95,7 +88,7 @@ class EnglishGame:
     def __init__(self):
         """Initialize the game state, window, fonts, and audio helper."""
         pygame.init()
-        self.screen = pygame.display.set_mode((900, 470))
+        self.screen = pygame.display.set_mode((900, 520))
         pygame.display.set_caption('English Spelling Game')
         self.clock = pygame.time.Clock()
         self.font = pygame.font.SysFont(None, 32)
@@ -104,7 +97,7 @@ class EnglishGame:
 
         # Current selected learning level (1-4), or None if not chosen.
         self.level = None
-        # List of words loaded for the current level.
+        # List of words (each word is a dictionary) loaded for the current level.
         self.words = []
         # The word currently being spelled in this round.
         self.current_word = None
@@ -129,8 +122,13 @@ class EnglishGame:
         """Render text onto the main game surface at the given position."""
         if font is None:
             font = self.font
-        surf = font.render(text, True, color)
-        self.screen.blit(surf, pos)
+        while text:
+            next_draw = text.split('\n', 1)[0]
+            surf = font.render(next_draw, True, color)
+            self.screen.blit(surf, pos)
+
+            text = text[len(next_draw):].lstrip()
+            pos = (pos[0], pos[1] + surf.get_height())
 
     def choose_word(self):
         """Pick a random word from the currently loaded word list."""
@@ -146,22 +144,43 @@ class EnglishGame:
             self.active = False
             return
         self.typed = ''
-        self.message = ''
+        self.message = f'Definition: [{self.current_word["pos"]}] {self.current_word["def"]}'
+        self.message = self._wrap_text(self.message, 75)  # Wrap message text to fit within a certain width
         self.start_time = time.time()
         self.active = True
         self.rounds += 1
-        self.tts.speak(self.current_word)
-
+        self.tts.speak(self.current_word["word"])
+    
+    def _wrap_text(self, text, max_line_length):
+        """Wrap the input text into multiple lines based on a maximum line length."""
+        words = text.split()
+        lines = []
+        current_line = ''
+        for word in words:
+            if len(current_line) + len(word) + 1 <= max_line_length:
+                current_line += (' ' if current_line else '') + word
+            else:
+                lines.append(current_line)
+                current_line = word
+        if current_line:
+            lines.append(current_line)
+        return '\n'.join(lines)
+    
     def submit_answer(self):
         """Validate the typed answer and update score, feedback, and round state."""
-        if not self.current_word:
+        if not self.current_word["word"]:
             return
-        correct = self.typed.strip().lower() == self.current_word.lower()
+        correct = self.typed.strip().lower() == self.current_word["word"].lower()
         if correct:
             self.score += 1
-            self.message = 'Correct!'
+            self.message = f'Correct! (Also accepted: {self.current_word["alter"]})' if self.current_word.get('alter') and self.current_word['alter'] != "nan" else 'Correct!'
+        elif (self.current_word.get('alter') and self.typed.strip().lower() == self.current_word['alter'].lower()):
+            self.score += 1
+            self.message = f'Correct! (Also accepted: {self.current_word["word"]})'
         else:
-            self.message = f'Wrong. Correct word: {self.current_word}'
+            self.message = f'Wrong. Correct word: {self.current_word["word"]}'
+            if self.current_word.get('alter') != "nan":
+                self.message += f'\n(Also accepted: {self.current_word["alter"]})'
         self.active = False
 
     def run(self):
@@ -174,8 +193,8 @@ class EnglishGame:
         second_text_height = 210
         input_box_height = 260
         message_height = 320
-        third_text_height = 350
-        third_row_button_height = 400
+        third_text_height = 400
+        third_row_button_height = 440
 
         # Prepare buttons positions and sizes
         buttons = []
@@ -226,7 +245,7 @@ class EnglishGame:
                             self.start_round()
                     if rehear_button.collidepoint(event.pos):      # click on Rehear
                         if self.current_word:
-                            self.tts.speak(self.current_word)
+                            self.tts.speak(self.current_word["word"])
                     if exit_button.collidepoint(event.pos):        # click on Exit
                         running = False
                     if reset_button.collidepoint(event.pos):       # click on Reset
@@ -254,7 +273,7 @@ class EnglishGame:
                             self.start_round()
                     elif event.key == pygame.K_UP:                 # handle up arrow to rehear word
                         if self.current_word:
-                            self.tts.speak(self.current_word)
+                            self.tts.speak(self.current_word["word"])
                     elif event.key == pygame.K_DOWN:               # handle down arrow to reset score
                         if self.level and not self.active:
                             self.score = 0
@@ -310,7 +329,7 @@ class EnglishGame:
                     self.screen.blit(k_arrow_left, (260, first_text_height - 20))   # Left arrow near KS level
                     self.screen.blit(k_arrow_right, (330, first_text_height - 20))  # Right arrow near KS level
                     self.screen.blit(k_space, (200, second_row_button_height - 5))  # Space near Next
-                    self.screen.blit(k_arrow_down, (200, 395))                      # Down arrow near Reset score
+                    self.screen.blit(k_arrow_down, (200, third_row_button_height - 5)) # Down arrow near Reset score
                 else:
                     self.screen.blit(k_backspace, (660, input_box_height - 10))     # Backspace near input box
                     self.screen.blit(k_enter, (720, input_box_height - 10))         # Enter near input box
@@ -325,7 +344,7 @@ class EnglishGame:
                     remaining = 0
                 self.draw_text(f'Time left: {remaining}s', (50, 200), self.large_font)
                 if remaining == 0:
-                    self.message = f'Time up — correct: {self.current_word}'
+                    self.message = f'Time up — correct: {self.current_word["word"]}'
                     self.active = False
             elif self.level is None:
                 self.draw_text('Select a level to start the game.', (50, second_text_height), self.font)

@@ -1,1 +1,6524 @@
-[]
+[
+    {
+        "word": "able",
+        "pos": "Adjective",
+        "def": "Having the power or skill to do something.",
+        "alter": "nan"
+    },
+    {
+        "word": "above",
+        "pos": "Preposition",
+        "def": "In a higher place or position than something else.",
+        "alter": "nan"
+    },
+    {
+        "word": "accident",
+        "pos": "Noun",
+        "def": "An unfortunate incident that happens unexpectedly.",
+        "alter": "nan"
+    },
+    {
+        "word": "ache",
+        "pos": "Noun",
+        "def": "A continuous or prolonged dull pain.",
+        "alter": "nan"
+    },
+    {
+        "word": "active",
+        "pos": "Adjective",
+        "def": "Engaging in physical movement or energetic pursuits.",
+        "alter": "nan"
+    },
+    {
+        "word": "actor",
+        "pos": "Noun",
+        "def": "A person who portrays a character in a performance.",
+        "alter": "nan"
+    },
+    {
+        "word": "actress",
+        "pos": "Noun",
+        "def": "A woman who portrays a character in a performance.",
+        "alter": "nan"
+    },
+    {
+        "word": "adjective",
+        "pos": "Noun",
+        "def": "A word naming an attribute of a noun.",
+        "alter": "nan"
+    },
+    {
+        "word": "adult",
+        "pos": "Noun",
+        "def": "A person who is fully grown or developed.",
+        "alter": "nan"
+    },
+    {
+        "word": "adventure",
+        "pos": "Noun",
+        "def": "An unusual and exciting, typically hazardous, experience.",
+        "alter": "nan"
+    },
+    {
+        "word": "adverb",
+        "pos": "Noun",
+        "def": "A word that modifies a verb or adjective.",
+        "alter": "nan"
+    },
+    {
+        "word": "advertisement",
+        "pos": "Noun",
+        "def": "A notice promoting a product, service, or event.",
+        "alter": "nan"
+    },
+    {
+        "word": "advice",
+        "pos": "Noun",
+        "def": "Guidance or recommendations concerning prudent future action.",
+        "alter": "nan"
+    },
+    {
+        "word": "advise",
+        "pos": "Verb",
+        "def": "To offer suggestions about the best course of action.",
+        "alter": "nan"
+    },
+    {
+        "word": "against",
+        "pos": "Preposition",
+        "def": "In opposition to.",
+        "alter": "nan"
+    },
+    {
+        "word": "aid",
+        "pos": "Noun",
+        "def": "Help, typically of a practical nature.",
+        "alter": "nan"
+    },
+    {
+        "word": "airport",
+        "pos": "Noun",
+        "def": "A complex of runways and buildings for aircraft takeoff.",
+        "alter": "nan"
+    },
+    {
+        "word": "alarm",
+        "pos": "Noun",
+        "def": "An anxious awareness of danger.",
+        "alter": "nan"
+    },
+    {
+        "word": "album",
+        "pos": "Noun",
+        "def": "A blank book for the insertion of photographs.",
+        "alter": "nan"
+    },
+    {
+        "word": "allow",
+        "pos": "Verb",
+        "def": "To give permission for someone to do something.",
+        "alter": "nan"
+    },
+    {
+        "word": "almost",
+        "pos": "Adverb",
+        "def": "Not quite; very nearly.",
+        "alter": "nan"
+    },
+    {
+        "word": "alone",
+        "pos": "Adjective",
+        "def": "Having no one else present.",
+        "alter": "nan"
+    },
+    {
+        "word": "alphabetical",
+        "pos": "Adjective",
+        "def": "Arranged in the order of the letters.",
+        "alter": "nan"
+    },
+    {
+        "word": "already",
+        "pos": "Adverb",
+        "def": "Before or by now or the time in question.",
+        "alter": "nan"
+    },
+    {
+        "word": "although",
+        "pos": "Conjunction",
+        "def": "In spite of the fact that; even though.",
+        "alter": "nan"
+    },
+    {
+        "word": "altogether",
+        "pos": "Adverb",
+        "def": "Completely; totally.",
+        "alter": "nan"
+    },
+    {
+        "word": "always",
+        "pos": "Adverb",
+        "def": "At all times; on all occasions.",
+        "alter": "nan"
+    },
+    {
+        "word": "amazed",
+        "pos": "Adjective",
+        "def": "Greatly surprised; astonished.",
+        "alter": "nan"
+    },
+    {
+        "word": "amazing",
+        "pos": "Adjective",
+        "def": "Causing great surprise or wonder; astonishing.",
+        "alter": "nan"
+    },
+    {
+        "word": "ambulance",
+        "pos": "Noun",
+        "def": "A vehicle equipped for taking sick or injured people.",
+        "alter": "nan"
+    },
+    {
+        "word": "among",
+        "pos": "Preposition",
+        "def": "Situated more or less centrally in relation to.",
+        "alter": "nan"
+    },
+    {
+        "word": "amount",
+        "pos": "Noun",
+        "def": "A quantity of something.",
+        "alter": "nan"
+    },
+    {
+        "word": "amused",
+        "pos": "Adjective",
+        "def": "Finding something funny or entertaining.",
+        "alter": "nan"
+    },
+    {
+        "word": "amusing",
+        "pos": "Adjective",
+        "def": "Causing laughter and providing entertainment.",
+        "alter": "nan"
+    },
+    {
+        "word": "ankle",
+        "pos": "Noun",
+        "def": "The joint connecting the foot with the leg.",
+        "alter": "nan"
+    },
+    {
+        "word": "annoyed",
+        "pos": "Adjective",
+        "def": "Slightly angry; irritated.",
+        "alter": "nan"
+    },
+    {
+        "word": "annoying",
+        "pos": "Adjective",
+        "def": "Causing irritation or displeasure.",
+        "alter": "nan"
+    },
+    {
+        "word": "anybody",
+        "pos": "Pronoun",
+        "def": "Any person.",
+        "alter": "nan"
+    },
+    {
+        "word": "anymore",
+        "pos": "Adverb",
+        "def": "To any further extent; any longer.",
+        "alter": "nan"
+    },
+    {
+        "word": "anyone",
+        "pos": "Pronoun",
+        "def": "Any person or people.",
+        "alter": "nan"
+    },
+    {
+        "word": "anything",
+        "pos": "Pronoun",
+        "def": "Used to refer to a thing, no matter what.",
+        "alter": "nan"
+    },
+    {
+        "word": "appear",
+        "pos": "Verb",
+        "def": "Come into sight; become visible or noticeable.",
+        "alter": "nan"
+    },
+    {
+        "word": "appearance",
+        "pos": "Noun",
+        "def": "The way that someone or something looks.",
+        "alter": "nan"
+    },
+    {
+        "word": "apply",
+        "pos": "Verb",
+        "def": "Make a formal request.",
+        "alter": "nan"
+    },
+    {
+        "word": "area",
+        "pos": "Noun",
+        "def": "A region or part of a town, a country, or the world.",
+        "alter": "nan"
+    },
+    {
+        "word": "argue",
+        "pos": "Verb",
+        "def": "Give reasons or cite evidence in support of an idea.",
+        "alter": "nan"
+    },
+    {
+        "word": "armchair",
+        "pos": "Noun",
+        "def": "A large, comfortable chair with side supports for a person's arms.",
+        "alter": "nan"
+    },
+    {
+        "word": "arrange",
+        "pos": "Verb",
+        "def": "Put things in a neat, attractive, or required order.",
+        "alter": "nan"
+    },
+    {
+        "word": "arrest",
+        "pos": "Verb",
+        "def": "Seize someone by legal authority and take into custody.",
+        "alter": "nan"
+    },
+    {
+        "word": "arrow",
+        "pos": "Noun",
+        "def": "A shaft sharpened at the front and with feathers or vanes at the back.",
+        "alter": "nan"
+    },
+    {
+        "word": "article",
+        "pos": "Noun",
+        "def": "A particular item or object.",
+        "alter": "nan"
+    },
+    {
+        "word": "aside",
+        "pos": "Adverb",
+        "def": "To one side; out of the way.",
+        "alter": "nan"
+    },
+    {
+        "word": "asleep",
+        "pos": "Adjective",
+        "def": "In a state of sleep.",
+        "alter": "nan"
+    },
+    {
+        "word": "assembly",
+        "pos": "Noun",
+        "def": "A group of people gathered together in one place for a common purpose.",
+        "alter": "nan"
+    },
+    {
+        "word": "astronaut",
+        "pos": "Noun",
+        "def": "A person who is trained to travel in a spacecraft.",
+        "alter": "nan"
+    },
+    {
+        "word": "attachment",
+        "pos": "Noun",
+        "def": "An extra part or extension that is or can be attached to something.",
+        "alter": "nan"
+    },
+    {
+        "word": "attack",
+        "pos": "Verb",
+        "def": "Take aggressive action against with weapons or armed force.",
+        "alter": "nan"
+    },
+    {
+        "word": "attend",
+        "pos": "Verb",
+        "def": "Be present at an event, meeting, or function.",
+        "alter": "nan"
+    },
+    {
+        "word": "attendance",
+        "pos": "Noun",
+        "def": "The action or state of going regularly to or being present at a place or event.",
+        "alter": "nan"
+    },
+    {
+        "word": "attractive",
+        "pos": "Adjective",
+        "def": "Pleasing or appealing to the senses.",
+        "alter": "nan"
+    },
+    {
+        "word": "audience",
+        "pos": "Noun",
+        "def": "The assembled spectators or listeners at a public event.",
+        "alter": "nan"
+    },
+    {
+        "word": "average",
+        "pos": "Noun",
+        "def": "A number expressing the central or typical value in a set of data.",
+        "alter": "nan"
+    },
+    {
+        "word": "awake",
+        "pos": "Adjective",
+        "def": "Not asleep.",
+        "alter": "nan"
+    },
+    {
+        "word": "award",
+        "pos": "Noun",
+        "def": "A prize or other mark of recognition given in honor of an achievement.",
+        "alter": "nan"
+    },
+    {
+        "word": "backpack",
+        "pos": "Noun",
+        "def": "A bag with shoulder straps that allow it to be carried on one's back.",
+        "alter": "nan"
+    },
+    {
+        "word": "backwards",
+        "pos": "Adverb",
+        "def": "In the direction of one's back.",
+        "alter": "nan"
+    },
+    {
+        "word": "bacon",
+        "pos": "Noun",
+        "def": "Cured meat from the sides and belly of a pig.",
+        "alter": "nan"
+    },
+    {
+        "word": "baggage",
+        "pos": "Noun",
+        "def": "Personal belongings packed in suitcases for traveling.",
+        "alter": "nan"
+    },
+    {
+        "word": "bake",
+        "pos": "Verb",
+        "def": "Cook food by dry heat without direct exposure to a flame, typically in an oven.",
+        "alter": "nan"
+    },
+    {
+        "word": "baker",
+        "pos": "Noun",
+        "def": "A person whose trade is making and selling bread and cakes.",
+        "alter": "nan"
+    },
+    {
+        "word": "bakery",
+        "pos": "Noun",
+        "def": "A place where bread and cakes are made or sold.",
+        "alter": "nan"
+    },
+    {
+        "word": "balanced",
+        "pos": "Adjective",
+        "def": "Containing an equal amount or number of similar things or people",
+        "alter": "nan"
+    },
+    {
+        "word": "balcony",
+        "pos": "Noun",
+        "def": "A platform enclosed by a wall or balustrade on the outside of a building.",
+        "alter": "nan"
+    },
+    {
+        "word": "bamboo",
+        "pos": "Noun",
+        "def": "A giant woody grass that grows chiefly in the tropics.",
+        "alter": "nan"
+    },
+    {
+        "word": "band",
+        "pos": "Noun",
+        "def": "A flat, thin strip or loop of material put around something.",
+        "alter": "nan"
+    },
+    {
+        "word": "bandage",
+        "pos": "Noun",
+        "def": "A strip of material used to bind a wound or to protect an injured part of the body.",
+        "alter": "nan"
+    },
+    {
+        "word": "bang",
+        "pos": "Noun",
+        "def": "A sudden loud, sharp noise.",
+        "alter": "nan"
+    },
+    {
+        "word": "bar",
+        "pos": "Noun",
+        "def": "A retail establishment that serves alcoholic beverages.",
+        "alter": "nan"
+    },
+    {
+        "word": "barbecue",
+        "pos": "Noun",
+        "def": "A meal or gathering at which meat, fish, or other food is cooked out of doors.",
+        "alter": "nan"
+    },
+    {
+        "word": "barber",
+        "pos": "Noun",
+        "def": "A person who cuts men's hair and shaves or trims beards as a profession.",
+        "alter": "nan"
+    },
+    {
+        "word": "basin",
+        "pos": "Noun",
+        "def": "A bowl for washing, typically attached to a wall and having faucets connected to a water supply.",
+        "alter": "nan"
+    },
+    {
+        "word": "bat",
+        "pos": "Noun",
+        "def": "An implement with a handle and a solid surface, usually of wood, used for hitting the ball.",
+        "alter": "nan"
+    },
+    {
+        "word": "battery",
+        "pos": "Noun",
+        "def": "A container consisting of one or more cells, in which chemical energy is converted.",
+        "alter": "nan"
+    },
+    {
+        "word": "bauhinia",
+        "pos": "Noun",
+        "def": "A tropical tree or shrub with showy orchid-like flowers and two-lobed leaves.",
+        "alter": "nan"
+    },
+    {
+        "word": "beak",
+        "pos": "Noun",
+        "def": "A bird's projecting jaws.",
+        "alter": "nan"
+    },
+    {
+        "word": "bean",
+        "pos": "Noun",
+        "def": "An edible seed.",
+        "alter": "nan"
+    },
+    {
+        "word": "beard",
+        "pos": "Noun",
+        "def": "Hair growing on the chin and lower cheeks.",
+        "alter": "nan"
+    },
+    {
+        "word": "beat",
+        "pos": "Verb",
+        "def": "To strike repeatedly.",
+        "alter": "nan"
+    },
+    {
+        "word": "beggar",
+        "pos": "Noun",
+        "def": "A person who lives by asking for money.",
+        "alter": "nan"
+    },
+    {
+        "word": "behave",
+        "pos": "Verb",
+        "def": "To act in a specified way.",
+        "alter": "nan"
+    },
+    {
+        "word": "believe",
+        "pos": "Verb",
+        "def": "To accept that something is true.",
+        "alter": "nan"
+    },
+    {
+        "word": "below",
+        "pos": "Preposition",
+        "def": "At a lower level or layer than.",
+        "alter": "nan"
+    },
+    {
+        "word": "bench",
+        "pos": "Noun",
+        "def": "A long seat for several people.",
+        "alter": "nan"
+    },
+    {
+        "word": "bend",
+        "pos": "Verb",
+        "def": "To shape or force into a curve or angle.",
+        "alter": "nan"
+    },
+    {
+        "word": "beneath",
+        "pos": "Preposition",
+        "def": "Extending or directly underneath.",
+        "alter": "nan"
+    },
+    {
+        "word": "berry",
+        "pos": "Noun",
+        "def": "A small round pulpy fruit without a stone.",
+        "alter": "nan"
+    },
+    {
+        "word": "bill",
+        "pos": "Noun",
+        "def": "A printed or written statement of the money owed.",
+        "alter": "nan"
+    },
+    {
+        "word": "bind",
+        "pos": "Verb",
+        "def": "To tie or fasten tightly.",
+        "alter": "nan"
+    },
+    {
+        "word": "bit",
+        "pos": "Noun",
+        "def": "A small piece, part, or quantity of something.",
+        "alter": "nan"
+    },
+    {
+        "word": "bite",
+        "pos": "Verb",
+        "def": "To use the teeth to cut into something.",
+        "alter": "nan"
+    },
+    {
+        "word": "bitter",
+        "pos": "Adjective",
+        "def": "Having a sharp, pungent taste or smell.",
+        "alter": "nan"
+    },
+    {
+        "word": "blanket",
+        "pos": "Noun",
+        "def": "A large piece of woollen material used as a covering.",
+        "alter": "nan"
+    },
+    {
+        "word": "bleed",
+        "pos": "Verb",
+        "def": "To lose fluid from the body.",
+        "alter": "nan"
+    },
+    {
+        "word": "blind",
+        "pos": "Adjective",
+        "def": "Unable to see.",
+        "alter": "nan"
+    },
+    {
+        "word": "blood",
+        "pos": "Noun",
+        "def": "The red liquid that circulates in the arteries and veins.",
+        "alter": "nan"
+    },
+    {
+        "word": "blueberry",
+        "pos": "Noun",
+        "def": "The small sweet dark round fruit of a North American shrub.",
+        "alter": "nan"
+    },
+    {
+        "word": "blunt",
+        "pos": "Adjective",
+        "def": "Having a worn-down edge or point; not sharp.",
+        "alter": "nan"
+    },
+    {
+        "word": "blurb",
+        "pos": "Noun",
+        "def": "A short description of a book, film, or other product.",
+        "alter": "nan"
+    },
+    {
+        "word": "boil",
+        "pos": "Verb",
+        "def": "To reach the temperature at which it bubbles and turns to vapour.",
+        "alter": "nan"
+    },
+    {
+        "word": "bone",
+        "pos": "Noun",
+        "def": "Any of the pieces of hard, whitish tissue making up the skeleton.",
+        "alter": "nan"
+    },
+    {
+        "word": "boss",
+        "pos": "Noun",
+        "def": "A person in charge of a worker or organization.",
+        "alter": "nan"
+    },
+    {
+        "word": "bounce",
+        "pos": "Verb",
+        "def": "To move quickly up, back, or away from a surface.",
+        "alter": "nan"
+    },
+    {
+        "word": "bow",
+        "pos": "Verb",
+        "def": "To bend the head or upper part of the body.",
+        "alter": "nan"
+    },
+    {
+        "word": "brain",
+        "pos": "Noun",
+        "def": "An organ of soft nervous tissue contained in the skull.",
+        "alter": "nan"
+    },
+    {
+        "word": "branch",
+        "pos": "Noun",
+        "def": "A part of a tree which grows out from the trunk.",
+        "alter": "nan"
+    },
+    {
+        "word": "breathe",
+        "pos": "Verb",
+        "def": "To take air into the lungs and then expel it.",
+        "alter": "nan"
+    },
+    {
+        "word": "brick",
+        "pos": "Noun",
+        "def": "A small rectangular block typically made of fired clay.",
+        "alter": "nan"
+    },
+    {
+        "word": "bubble",
+        "pos": "Noun",
+        "def": "A thin sphere of liquid enclosing air or another gas.",
+        "alter": "nan"
+    },
+    {
+        "word": "bucket",
+        "pos": "Noun",
+        "def": "A cylindrical container with a handle.",
+        "alter": "nan"
+    },
+    {
+        "word": "buffet",
+        "pos": "Noun",
+        "def": "A meal consisting of several dishes.",
+        "alter": "nan"
+    },
+    {
+        "word": "bug",
+        "pos": "Noun",
+        "def": "A small insect.",
+        "alter": "nan"
+    },
+    {
+        "word": "bulb",
+        "pos": "Noun",
+        "def": "A rounded glass container that produces light.",
+        "alter": "nan"
+    },
+    {
+        "word": "bump",
+        "pos": "Verb",
+        "def": "Knock or run into with a jolt.",
+        "alter": "nan"
+    },
+    {
+        "word": "bun",
+        "pos": "Noun",
+        "def": "A small, sweet cake or bread roll.",
+        "alter": "nan"
+    },
+    {
+        "word": "bunch",
+        "pos": "Noun",
+        "def": "A number of things of the same kind.",
+        "alter": "nan"
+    },
+    {
+        "word": "burger",
+        "pos": "Noun",
+        "def": "A flat round cake of minced meat.",
+        "alter": "nan"
+    },
+    {
+        "word": "cabbage",
+        "pos": "Noun",
+        "def": "A cultivated plant eaten as a vegetable.",
+        "alter": "nan"
+    },
+    {
+        "word": "cafe",
+        "pos": "Noun",
+        "def": "A small restaurant selling light meals and drinks.",
+        "alter": "nan"
+    },
+    {
+        "word": "calm",
+        "pos": "Adjective",
+        "def": "Not showing or feeling nervousness or anger.",
+        "alter": "nan"
+    },
+    {
+        "word": "camel",
+        "pos": "Noun",
+        "def": "A large, long-necked ungulate mammal.",
+        "alter": "nan"
+    },
+    {
+        "word": "camp",
+        "pos": "Noun",
+        "def": "A place with temporary accommodation of huts or tents.",
+        "alter": "nan"
+    },
+    {
+        "word": "cancel",
+        "pos": "Verb",
+        "def": "Decide that an organized event will not take place.",
+        "alter": "nan"
+    },
+    {
+        "word": "canned",
+        "pos": "Adjective",
+        "def": "Preserved in a sealed container.",
+        "alter": "nan"
+    },
+    {
+        "word": "canteen",
+        "pos": "Noun",
+        "def": "A restaurant provided by an organization for its staff.",
+        "alter": "nan"
+    },
+    {
+        "word": "caption",
+        "pos": "Noun",
+        "def": "A title or brief explanation appended to an article.",
+        "alter": "nan"
+    },
+    {
+        "word": "care",
+        "pos": "Noun",
+        "def": "The provision of what is necessary, and protection of someone or something.",
+        "alter": "nan"
+    },
+    {
+        "word": "caring",
+        "pos": "Adjective",
+        "def": "Displaying kindness and concern for others.",
+        "alter": "nan"
+    },
+    {
+        "word": "carnation",
+        "pos": "Noun",
+        "def": "A double-flowered cultivated variety of clove pink.",
+        "alter": "nan"
+    },
+    {
+        "word": "carpet",
+        "pos": "Noun",
+        "def": "A floor covering made from thick woven fabric.",
+        "alter": "nan"
+    },
+    {
+        "word": "carton",
+        "pos": "Noun",
+        "def": "A light box or container, typically one made of waxed cardboard or plastic.",
+        "alter": "nan"
+    },
+    {
+        "word": "cashier",
+        "pos": "Noun",
+        "def": "A person handling payments and receipts in a store, bank, or other business.",
+        "alter": "nan"
+    },
+    {
+        "word": "caterpillar",
+        "pos": "Noun",
+        "def": "The larva of a butterfly or moth.",
+        "alter": "nan"
+    },
+    {
+        "word": "cave",
+        "pos": "Noun",
+        "def": "A large underground chamber.",
+        "alter": "nan"
+    },
+    {
+        "word": "celebrate",
+        "pos": "Verb",
+        "def": "Acknowledge (a significant or happy day or event) with a social gathering or enjoyable activity.",
+        "alter": "nan"
+    },
+    {
+        "word": "cent",
+        "pos": "Noun",
+        "def": "A monetary unit of the US, Canada, and various other countries.",
+        "alter": "nan"
+    },
+    {
+        "word": "cereal",
+        "pos": "Noun",
+        "def": "A grain used for food.",
+        "alter": "nan"
+    },
+    {
+        "word": "ceremony",
+        "pos": "Noun",
+        "def": "A formal religious or public occasion.",
+        "alter": "nan"
+    },
+    {
+        "word": "certainly",
+        "pos": "Adverb",
+        "def": "Undoubtedly; definitely; surely.",
+        "alter": "nan"
+    },
+    {
+        "word": "chance",
+        "pos": "Noun",
+        "def": "A possibility of something happening.",
+        "alter": "nan"
+    },
+    {
+        "word": "channel",
+        "pos": "Noun",
+        "def": "A length of water wider than a strait, joining two larger areas of water.",
+        "alter": "nan"
+    },
+    {
+        "word": "charming",
+        "pos": "Adjective",
+        "def": "Pleasant or attractive.",
+        "alter": "nan"
+    },
+    {
+        "word": "chart",
+        "pos": "Noun",
+        "def": "A sheet of information in the form of a table, graph, or diagram.",
+        "alter": "nan"
+    },
+    {
+        "word": "chase",
+        "pos": "Verb",
+        "def": "Pursue in order to catch or catch up with.",
+        "alter": "nan"
+    },
+    {
+        "word": "cheat",
+        "pos": "Verb",
+        "def": "Act dishonestly or unfairly in order to gain an advantage.",
+        "alter": "nan"
+    },
+    {
+        "word": "cheek",
+        "pos": "Noun",
+        "def": "Either side of the face below the eye.",
+        "alter": "nan"
+    },
+    {
+        "word": "cheer",
+        "pos": "Verb",
+        "def": "Shout for joy or in praise or encouragement.",
+        "alter": "nan"
+    },
+    {
+        "word": "cherry",
+        "pos": "Noun",
+        "def": "A small, round stone fruit that is typically bright or dark red.",
+        "alter": "nan"
+    },
+    {
+        "word": "chest",
+        "pos": "Noun",
+        "def": "The front surface of a person's or animal's body between the neck and the abdomen.",
+        "alter": "nan"
+    },
+    {
+        "word": "chilli",
+        "pos": "Noun",
+        "def": "A small hot-tasting pod of a variety of capsicum.",
+        "alter": "nan"
+    },
+    {
+        "word": "chimney",
+        "pos": "Noun",
+        "def": "A vertical channel or pipe that conducts smoke and combustion gases up from a fire or furnace.",
+        "alter": "nan"
+    },
+    {
+        "word": "chin",
+        "pos": "Noun",
+        "def": "The protruding part of the face below the mouth.",
+        "alter": "nan"
+    },
+    {
+        "word": "chip",
+        "pos": "Noun",
+        "def": "A small piece of something removed in the course of chopping, cutting, or breaking a hard material.",
+        "alter": "nan"
+    },
+    {
+        "word": "choir",
+        "pos": "Noun",
+        "def": "An organized group of singers, typically one that takes part in church services.",
+        "alter": "nan"
+    },
+    {
+        "word": "chop",
+        "pos": "Verb",
+        "def": "Cut (something) into small pieces with repeated sharp blows using an ax or knife.",
+        "alter": "nan"
+    },
+    {
+        "word": "chopstick",
+        "pos": "Noun",
+        "def": "Each of a pair of small, thin, tapered sticks of wood, ivory, or plastic.",
+        "alter": "nan"
+    },
+    {
+        "word": "circus",
+        "pos": "Noun",
+        "def": "A traveling company of acrobats, clowns, and other entertainers.",
+        "alter": "nan"
+    },
+    {
+        "word": "city",
+        "pos": "Noun",
+        "def": "A large town.",
+        "alter": "nan"
+    },
+    {
+        "word": "clerk",
+        "pos": "Noun",
+        "def": "A person employed in an office or bank to keep records, accounts, and undertake other routine administrative duties.",
+        "alter": "nan"
+    },
+    {
+        "word": "clinic",
+        "pos": "Noun",
+        "def": "A place where medical treatment is given.",
+        "alter": "nan"
+    },
+    {
+        "word": "clip",
+        "pos": "Noun",
+        "def": "A device for holding things together.",
+        "alter": "nan"
+    },
+    {
+        "word": "cloth",
+        "pos": "Noun",
+        "def": "Woven or felted fabric made from wool or cotton.",
+        "alter": "nan"
+    },
+    {
+        "word": "clown",
+        "pos": "Noun",
+        "def": "A comic entertainer, especially one in a circus.",
+        "alter": "nan"
+    },
+    {
+        "word": "club",
+        "pos": "Noun",
+        "def": "An association dedicated to a particular interest.",
+        "alter": "nan"
+    },
+    {
+        "word": "coach",
+        "pos": "Noun",
+        "def": "An instructor or trainer in sport.",
+        "alter": "nan"
+    },
+    {
+        "word": "cockroach",
+        "pos": "Noun",
+        "def": "A scavenging insect that resembles a beetle.",
+        "alter": "nan"
+    },
+    {
+        "word": "coconut",
+        "pos": "Noun",
+        "def": "The large, oval, brown seed of a tropical palm.",
+        "alter": "nan"
+    },
+    {
+        "word": "coin",
+        "pos": "Noun",
+        "def": "A flat, typically round piece of metal used as money.",
+        "alter": "nan"
+    },
+    {
+        "word": "comfortable",
+        "pos": "Adjective",
+        "def": "Providing physical ease and relaxation.",
+        "alter": "nan"
+    },
+    {
+        "word": "comic",
+        "pos": "Adjective",
+        "def": "Causing or meant to cause laughter.",
+        "alter": "nan"
+    },
+    {
+        "word": "comment",
+        "pos": "Noun",
+        "def": "A verbal or written remark expressing an opinion.",
+        "alter": "nan"
+    },
+    {
+        "word": "common",
+        "pos": "Adjective",
+        "def": "Occurring, found, or done often; prevalent.",
+        "alter": "nan"
+    },
+    {
+        "word": "company",
+        "pos": "Noun",
+        "def": "A commercial business.",
+        "alter": "nan"
+    },
+    {
+        "word": "compare",
+        "pos": "Verb",
+        "def": "To estimate, measure, or note similarity or dissimilarity.",
+        "alter": "nan"
+    },
+    {
+        "word": "competition",
+        "pos": "Noun",
+        "def": "The activity to strive to gain or win something by defeating others.",
+        "alter": "nan"
+    },
+    {
+        "word": "complain",
+        "pos": "Verb",
+        "def": "To express dissatisfaction or annoyance about a state.",
+        "alter": "nan"
+    },
+    {
+        "word": "complicated",
+        "pos": "Adjective",
+        "def": "Consisting of many interconnecting parts or elements.",
+        "alter": "nan"
+    },
+    {
+        "word": "concert",
+        "pos": "Noun",
+        "def": "A musical performance given in public.",
+        "alter": "nan"
+    },
+    {
+        "word": "cone",
+        "pos": "Noun",
+        "def": "A solid or hollow object that tapers from a base.",
+        "alter": "nan"
+    },
+    {
+        "word": "confident",
+        "pos": "Adjective",
+        "def": "Feeling or showing certainty about something.",
+        "alter": "nan"
+    },
+    {
+        "word": "congee",
+        "pos": "Noun",
+        "def": "A broth or porridge made from rice.",
+        "alter": "nan"
+    },
+    {
+        "word": "congratulations",
+        "pos": "Noun",
+        "def": "Words expressing one's praise for an achievement.",
+        "alter": "nan"
+    },
+    {
+        "word": "connect",
+        "pos": "Verb",
+        "def": "To bring together or into contact.",
+        "alter": "nan"
+    },
+    {
+        "word": "contact",
+        "pos": "Noun",
+        "def": "The state or condition of physical touching.",
+        "alter": "nan"
+    },
+    {
+        "word": "contain",
+        "pos": "Verb",
+        "def": "To have or hold someone or something within.",
+        "alter": "nan"
+    },
+    {
+        "word": "container",
+        "pos": "Noun",
+        "def": "An object that can be used to hold things.",
+        "alter": "nan"
+    },
+    {
+        "word": "continue",
+        "pos": "Verb",
+        "def": "To persist in an activity or process.",
+        "alter": "nan"
+    },
+    {
+        "word": "convenient",
+        "pos": "Adjective",
+        "def": "Fitting in well with a person's needs, activities, and plans.",
+        "alter": "nan"
+    },
+    {
+        "word": "conversation",
+        "pos": "Noun",
+        "def": "An informal talk between two or more people.",
+        "alter": "nan"
+    },
+    {
+        "word": "corridor",
+        "pos": "Noun",
+        "def": "A long passage in a building from which doors lead.",
+        "alter": "nan"
+    },
+    {
+        "word": "cost",
+        "pos": "Noun",
+        "def": "An amount that has to be paid or spent.",
+        "alter": "nan"
+    },
+    {
+        "word": "cotton",
+        "pos": "Noun",
+        "def": "A soft white fibrous substance that surrounds the seeds.",
+        "alter": "nan"
+    },
+    {
+        "word": "cough",
+        "pos": "Verb",
+        "def": "To expel air from the lungs with a sharp sound.",
+        "alter": "nan"
+    },
+    {
+        "word": "could",
+        "pos": "Verb",
+        "def": "Past of can, used to indicate possibility.",
+        "alter": "nan"
+    },
+    {
+        "word": "countable",
+        "pos": "Adjective",
+        "def": "Able to be numbered or quantified.",
+        "alter": "nan"
+    },
+    {
+        "word": "counter",
+        "pos": "Noun",
+        "def": "A long flat-topped fixture in a store or bank.",
+        "alter": "nan"
+    },
+    {
+        "word": "country",
+        "pos": "Noun",
+        "def": "A nation with its own government, occupying a particular territory.",
+        "alter": "nan"
+    },
+    {
+        "word": "countryside",
+        "pos": "Noun",
+        "def": "The land and scenery of a rural area.",
+        "alter": "nan"
+    },
+    {
+        "word": "coupon",
+        "pos": "Noun",
+        "def": "A voucher entitling the holder to a discount.",
+        "alter": "nan"
+    },
+    {
+        "word": "course",
+        "pos": "Noun",
+        "def": "The route or direction followed by a ship, aircraft, road.",
+        "alter": "nan"
+    },
+    {
+        "word": "court",
+        "pos": "Noun",
+        "def": "A tribunal presided over by a judge or magistrate.",
+        "alter": "nan"
+    },
+    {
+        "word": "cousin",
+        "pos": "Noun",
+        "def": "A child of one's uncle or aunt.",
+        "alter": "nan"
+    },
+    {
+        "word": "crab",
+        "pos": "Noun",
+        "def": "A crustacean with a broad carapace and stalked eyes.",
+        "alter": "nan"
+    },
+    {
+        "word": "crash",
+        "pos": "Verb",
+        "def": "To collide violently with an obstacle or another vehicle.",
+        "alter": "nan"
+    },
+    {
+        "word": "crawl",
+        "pos": "Verb",
+        "def": "To move forward on the hands and knees.",
+        "alter": "nan"
+    },
+    {
+        "word": "creative",
+        "pos": "Adjective",
+        "def": "Relating to or involving the imagination or original ideas.",
+        "alter": "nan"
+    },
+    {
+        "word": "crime",
+        "pos": "Noun",
+        "def": "An action or omission that constitutes an offense.",
+        "alter": "nan"
+    },
+    {
+        "word": "crisp",
+        "pos": "Adjective",
+        "def": "Firm, dry, and brittle, especially in a way considered pleasing.",
+        "alter": "nan"
+    },
+    {
+        "word": "crispy",
+        "pos": "Adjective",
+        "def": "Having a firm, dry, and brittle surface or texture.",
+        "alter": "nan"
+    },
+    {
+        "word": "crocodile",
+        "pos": "Noun",
+        "def": "A large predatory semiaquatic reptile with long jaws, long tail.",
+        "alter": "nan"
+    },
+    {
+        "word": "crowded",
+        "pos": "Adjective",
+        "def": "Full of people, leaving little or no room for movement.",
+        "alter": "nan"
+    },
+    {
+        "word": "cruel",
+        "pos": "Adjective",
+        "def": "Willfully causing pain or suffering to others.",
+        "alter": "nan"
+    },
+    {
+        "word": "crystal",
+        "pos": "Noun",
+        "def": "A clear, transparent mineral.",
+        "alter": "nan"
+    },
+    {
+        "word": "cucumber",
+        "pos": "Noun",
+        "def": "A long, green-skinned fruit with watery flesh.",
+        "alter": "nan"
+    },
+    {
+        "word": "cunning",
+        "pos": "Adjective",
+        "def": "Showing skill in achieving one's ends by deceit.",
+        "alter": "nan"
+    },
+    {
+        "word": "cure",
+        "pos": "Verb",
+        "def": "To relieve a person of the symptoms of disease.",
+        "alter": "nan"
+    },
+    {
+        "word": "curious",
+        "pos": "Adjective",
+        "def": "Eager to know or learn something.",
+        "alter": "nan"
+    },
+    {
+        "word": "curry",
+        "pos": "Noun",
+        "def": "A dish cooked in an Indian-style sauce.",
+        "alter": "nan"
+    },
+    {
+        "word": "curtain",
+        "pos": "Noun",
+        "def": "A piece of material suspended to form a screen.",
+        "alter": "nan"
+    },
+    {
+        "word": "cushion",
+        "pos": "Noun",
+        "def": "A bag of cloth stuffed with soft material.",
+        "alter": "nan"
+    },
+    {
+        "word": "cycling",
+        "pos": "Noun",
+        "def": "The action or sport of riding a bicycle.",
+        "alter": "nan"
+    },
+    {
+        "word": "daily",
+        "pos": "Adjective",
+        "def": "Done, produced, or occurring every day.",
+        "alter": "nan"
+    },
+    {
+        "word": "dairy",
+        "pos": "Noun",
+        "def": "A building for the processing and distribution of milk.",
+        "alter": "nan"
+    },
+    {
+        "word": "daisy",
+        "pos": "Noun",
+        "def": "A small grassland plant with flowers.",
+        "alter": "nan"
+    },
+    {
+        "word": "damage",
+        "pos": "Noun",
+        "def": "Physical harm caused to something to impair its value.",
+        "alter": "nan"
+    },
+    {
+        "word": "danger",
+        "pos": "Noun",
+        "def": "The possibility of suffering harm or injury.",
+        "alter": "nan"
+    },
+    {
+        "word": "deaf",
+        "pos": "Adjective",
+        "def": "Lacking the power of hearing.",
+        "alter": "nan"
+    },
+    {
+        "word": "decide",
+        "pos": "Verb",
+        "def": "To come to a resolution in the mind.",
+        "alter": "nan"
+    },
+    {
+        "word": "decorate",
+        "pos": "Verb",
+        "def": "To make something look more attractive by adding items.",
+        "alter": "nan"
+    },
+    {
+        "word": "deer",
+        "pos": "Noun",
+        "def": "A hoofed grazing or browsing animal.",
+        "alter": "nan"
+    },
+    {
+        "word": "delete",
+        "pos": "Verb",
+        "def": "To remove or obliterate written or printed matter.",
+        "alter": "nan"
+    },
+    {
+        "word": "delicious",
+        "pos": "Adjective",
+        "def": "Highly pleasant to the taste.",
+        "alter": "nan"
+    },
+    {
+        "word": "deliver",
+        "pos": "Verb",
+        "def": "To bring and hand over a letter or goods.",
+        "alter": "nan"
+    },
+    {
+        "word": "dentist",
+        "pos": "Noun",
+        "def": "A person qualified to treat diseases of the teeth.",
+        "alter": "nan"
+    },
+    {
+        "word": "describe",
+        "pos": "Verb",
+        "def": "To give an account in words of someone.",
+        "alter": "nan"
+    },
+    {
+        "word": "desert",
+        "pos": "Noun",
+        "def": "A barren area of landscape with little precipitation.",
+        "alter": "nan"
+    },
+    {
+        "word": "design",
+        "pos": "Noun",
+        "def": "A plan or drawing produced to show the look.",
+        "alter": "nan"
+    },
+    {
+        "word": "designer",
+        "pos": "Noun",
+        "def": "A person who plans the form of something.",
+        "alter": "nan"
+    },
+    {
+        "word": "dessert",
+        "pos": "Noun",
+        "def": "The sweet course eaten at the end of meals.",
+        "alter": "nan"
+    },
+    {
+        "word": "detail",
+        "pos": "Noun",
+        "def": "An individual feature, fact, or item.",
+        "alter": "nan"
+    },
+    {
+        "word": "detailed",
+        "pos": "Adjective",
+        "def": "Having many facts; giving a lot of information.",
+        "alter": "nan"
+    },
+    {
+        "word": "develop",
+        "pos": "Verb",
+        "def": "To grow or cause to grow and become more mature.",
+        "alter": "nan"
+    },
+    {
+        "word": "dial",
+        "pos": "Noun",
+        "def": "A face of a clock or watch that is marked.",
+        "alter": "nan"
+    },
+    {
+        "word": "diet",
+        "pos": "Noun",
+        "def": "The kinds of food that a person, animal, or community.",
+        "alter": "nan"
+    },
+    {
+        "word": "dig",
+        "pos": "Verb",
+        "def": "To break up and move earth with a tool.",
+        "alter": "nan"
+    },
+    {
+        "word": "diligent",
+        "pos": "Adjective",
+        "def": "Having or showing care and conscientiousness in one's work.",
+        "alter": "nan"
+    },
+    {
+        "word": "direction",
+        "pos": "Noun",
+        "def": "A course along which someone or something moves.",
+        "alter": "nan"
+    },
+    {
+        "word": "disappointed",
+        "pos": "Adjective",
+        "def": "Sad or displeased because someone or something has failed.",
+        "alter": "nan"
+    },
+    {
+        "word": "disc",
+        "pos": "Noun",
+        "def": "A flat, thin, round object.",
+        "alter": "nan"
+    },
+    {
+        "word": "discover",
+        "pos": "Verb",
+        "def": "To find unexpectedly or during a search.",
+        "alter": "nan"
+    },
+    {
+        "word": "discussion",
+        "pos": "Noun",
+        "def": "The action or process of talking about something.",
+        "alter": "nan"
+    },
+    {
+        "word": "disease",
+        "pos": "Noun",
+        "def": "A disorder of structure or function in a human, animal.",
+        "alter": "nan"
+    },
+    {
+        "word": "display",
+        "pos": "Verb",
+        "def": "To make a prominent exhibition of something in a place.",
+        "alter": "nan"
+    },
+    {
+        "word": "district",
+        "pos": "Noun",
+        "def": "An area of a country or city, especially one regarded.",
+        "alter": "nan"
+    },
+    {
+        "word": "disturb",
+        "pos": "Verb",
+        "def": "To interfere with the normal arrangement or functioning.",
+        "alter": "nan"
+    },
+    {
+        "word": "dive",
+        "pos": "Verb",
+        "def": "To plunge head first into water.",
+        "alter": "nan"
+    },
+    {
+        "word": "divide",
+        "pos": "Verb",
+        "def": "To separate or be separated into parts.",
+        "alter": "nan"
+    },
+    {
+        "word": "dizzy",
+        "pos": "Adjective",
+        "def": "Having or involving a sensation of spinning around.",
+        "alter": "nan"
+    },
+    {
+        "word": "dolphin",
+        "pos": "Noun",
+        "def": "A small gregarious toothed whale that typically has a beaklike.",
+        "alter": "nan"
+    },
+    {
+        "word": "donate",
+        "pos": "Verb",
+        "def": "To give for a good cause.",
+        "alter": "nan"
+    },
+    {
+        "word": "donkey",
+        "pos": "Noun",
+        "def": "A domesticated hoofed mammal of the horse family with long.",
+        "alter": "nan"
+    },
+    {
+        "word": "dotted",
+        "pos": "Adjective",
+        "def": "Marked with or in the form of dots.",
+        "alter": "nan"
+    },
+    {
+        "word": "double",
+        "pos": "Adjective",
+        "def": "Consisting of two equal, identical, or similar parts or things.",
+        "alter": "nan"
+    },
+    {
+        "word": "downstairs",
+        "pos": "Adverb",
+        "def": "Down a flight of stairs, on or to a lower.",
+        "alter": "nan"
+    },
+    {
+        "word": "dozen",
+        "pos": "Noun",
+        "def": "A group or set of twelve.",
+        "alter": "nan"
+    },
+    {
+        "word": "dragon",
+        "pos": "Noun",
+        "def": "A mythical monster like a giant reptile.",
+        "alter": "nan"
+    },
+    {
+        "word": "drama",
+        "pos": "Noun",
+        "def": "A play for theater, radio, or television.",
+        "alter": "nan"
+    },
+    {
+        "word": "drowned",
+        "pos": "Adjective",
+        "def": "Dead by drowning.",
+        "alter": "nan"
+    },
+    {
+        "word": "drowning",
+        "pos": "Noun",
+        "def": "The process of experiencing respiratory impairment from submersion.",
+        "alter": "nan"
+    },
+    {
+        "word": "drumstick",
+        "pos": "Noun",
+        "def": "A stick used for beating a drum.",
+        "alter": "nan"
+    },
+    {
+        "word": "dull",
+        "pos": "Adjective",
+        "def": "Lacking interest or excitement.",
+        "alter": "nan"
+    },
+    {
+        "word": "dumb",
+        "pos": "Adjective",
+        "def": "Temporarily unable or unwilling to speak.",
+        "alter": "nan"
+    },
+    {
+        "word": "dumpling",
+        "pos": "Noun",
+        "def": "A small savory ball of dough.",
+        "alter": "nan"
+    },
+    {
+        "word": "durian",
+        "pos": "Noun",
+        "def": "A spiny oval tropical fruit containing a creamy pulp.",
+        "alter": "nan"
+    },
+    {
+        "word": "during",
+        "pos": "Preposition",
+        "def": "Throughout the course or duration of a period of time.",
+        "alter": "nan"
+    },
+    {
+        "word": "dust",
+        "pos": "Noun",
+        "def": "Fine, dry powder consisting of tiny particles of Earth.",
+        "alter": "nan"
+    },
+    {
+        "word": "duster",
+        "pos": "Noun",
+        "def": "A cloth or pad for dusting furniture.",
+        "alter": "nan"
+    },
+    {
+        "word": "dusty",
+        "pos": "Adjective",
+        "def": "Covered with, full of, or resembling tiny particles of Earth.",
+        "alter": "nan"
+    },
+    {
+        "word": "eagle",
+        "pos": "Noun",
+        "def": "A large bird of prey with a massive hooked bill.",
+        "alter": "nan"
+    },
+    {
+        "word": "earn",
+        "pos": "Verb",
+        "def": "To obtain money in return for labor or services.",
+        "alter": "nan"
+    },
+    {
+        "word": "earring",
+        "pos": "Noun",
+        "def": "A piece of jewelry worn on the lobe or edge.",
+        "alter": "nan"
+    },
+    {
+        "word": "earth",
+        "pos": "Noun",
+        "def": "The planet on which we live; the world.",
+        "alter": "nan"
+    },
+    {
+        "word": "east",
+        "pos": "Noun",
+        "def": "The direction toward the point of the horizon where the.",
+        "alter": "nan"
+    },
+    {
+        "word": "effort",
+        "pos": "Noun",
+        "def": "A vigorous or determined attempt.",
+        "alter": "nan"
+    },
+    {
+        "word": "either",
+        "pos": "Conjunction",
+        "def": "Used before the first of two or more alternatives.",
+        "alter": "nan"
+    },
+    {
+        "word": "elbow",
+        "pos": "Noun",
+        "def": "The joint between the forearm and the upper arm.",
+        "alter": "nan"
+    },
+    {
+        "word": "elderly",
+        "pos": "Adjective",
+        "def": "Old or aging.",
+        "alter": "nan"
+    },
+    {
+        "word": "electricity",
+        "pos": "Noun",
+        "def": "A form of energy resulting from the existence of charged.",
+        "alter": "nan"
+    },
+    {
+        "word": "else",
+        "pos": "Adverb",
+        "def": "In addition; besides.",
+        "alter": "nan"
+    },
+    {
+        "word": "encourage",
+        "pos": "Verb",
+        "def": "To give support, confidence, or hope to.",
+        "alter": "nan"
+    },
+    {
+        "word": "enemy",
+        "pos": "Noun",
+        "def": "A person who is actively opposed or hostile to someone.",
+        "alter": "nan"
+    },
+    {
+        "word": "energy",
+        "pos": "Noun",
+        "def": "The strength and vitality required for sustained activity.",
+        "alter": "nan"
+    },
+    {
+        "word": "engine",
+        "pos": "Noun",
+        "def": "A machine with moving parts that converts power into motion.",
+        "alter": "nan"
+    },
+    {
+        "word": "enjoyable",
+        "pos": "Adjective",
+        "def": "Giving delight or pleasure.",
+        "alter": "nan"
+    },
+    {
+        "word": "enough",
+        "pos": "Adjective",
+        "def": "As much or as many as required.",
+        "alter": "nan"
+    },
+    {
+        "word": "enter",
+        "pos": "Verb",
+        "def": "To come or go into.",
+        "alter": "nan"
+    },
+    {
+        "word": "entrance",
+        "pos": "Noun",
+        "def": "An opening, such as a door, passage, or gate, that allows access to a place.",
+        "alter": "nan"
+    },
+    {
+        "word": "envelope",
+        "pos": "Noun",
+        "def": "A flat paper container with a sealable flap.",
+        "alter": "nan"
+    },
+    {
+        "word": "environment",
+        "pos": "Noun",
+        "def": "The surroundings or conditions in which a person, animal, or plant lives.",
+        "alter": "nan"
+    },
+    {
+        "word": "equal",
+        "pos": "Adjective",
+        "def": "Being the same in quantity, size, degree, or value.",
+        "alter": "nan"
+    },
+    {
+        "word": "eraser",
+        "pos": "Noun",
+        "def": "An object used to rub out something written.",
+        "alter": "nan"
+    },
+    {
+        "word": "escalator",
+        "pos": "Noun",
+        "def": "A moving staircase.",
+        "alter": "nan"
+    },
+    {
+        "word": "escape",
+        "pos": "Verb",
+        "def": "To break free from confinement or control.",
+        "alter": "nan"
+    },
+    {
+        "word": "estate",
+        "pos": "Noun",
+        "def": "An extensive area of land in the country, usually with a large house.",
+        "alter": "nan"
+    },
+    {
+        "word": "even",
+        "pos": "Adjective",
+        "def": "Flat and smooth.",
+        "alter": "nan"
+    },
+    {
+        "word": "event",
+        "pos": "Noun",
+        "def": "A thing that happens, especially one of importance.",
+        "alter": "nan"
+    },
+    {
+        "word": "ever",
+        "pos": "Adverb",
+        "def": "At any time.",
+        "alter": "nan"
+    },
+    {
+        "word": "everybody",
+        "pos": "Pronoun",
+        "def": "Every person.",
+        "alter": "nan"
+    },
+    {
+        "word": "everyone",
+        "pos": "Pronoun",
+        "def": "Every person.",
+        "alter": "nan"
+    },
+    {
+        "word": "everything",
+        "pos": "Pronoun",
+        "def": "All things.",
+        "alter": "nan"
+    },
+    {
+        "word": "evil",
+        "pos": "Adjective",
+        "def": "Profoundly immoral and wicked.",
+        "alter": "nan"
+    },
+    {
+        "word": "except",
+        "pos": "Preposition",
+        "def": "Not including; other than.",
+        "alter": "nan"
+    },
+    {
+        "word": "exchange",
+        "pos": "Noun",
+        "def": "An act of giving one thing and receiving another in return.",
+        "alter": "nan"
+    },
+    {
+        "word": "exclamation",
+        "pos": "Noun",
+        "def": "A sudden cry or remark, especially expressing surprise, anger, or pain.",
+        "alter": "nan"
+    },
+    {
+        "word": "exit",
+        "pos": "Noun",
+        "def": "A way out.",
+        "alter": "nan"
+    },
+    {
+        "word": "expensive",
+        "pos": "Adjective",
+        "def": "Costing a lot of money.",
+        "alter": "nan"
+    },
+    {
+        "word": "experience",
+        "pos": "Noun",
+        "def": "Practical contact with and observation of facts or events.",
+        "alter": "nan"
+    },
+    {
+        "word": "explain",
+        "pos": "Verb",
+        "def": "To make an idea, situation, or problem clear to someone by describing it in more detail.",
+        "alter": "nan"
+    },
+    {
+        "word": "express",
+        "pos": "Verb",
+        "def": "To convey a thought or feeling in words or by gestures and conduct.",
+        "alter": "nan"
+    },
+    {
+        "word": "extra",
+        "pos": "Adjective",
+        "def": "Added to an existing or usual amount or number.",
+        "alter": "nan"
+    },
+    {
+        "word": "factory",
+        "pos": "Noun",
+        "def": "A building or group of buildings where goods are manufactured or assembled chiefly by machine.",
+        "alter": "nan"
+    },
+    {
+        "word": "faint",
+        "pos": "Adjective",
+        "def": "Barely perceptible.",
+        "alter": "nan"
+    },
+    {
+        "word": "familiar",
+        "pos": "Adjective",
+        "def": "Well known from long or close association.",
+        "alter": "nan"
+    },
+    {
+        "word": "fantastic",
+        "pos": "Adjective",
+        "def": "Extraordinarily good or attractive.",
+        "alter": "nan"
+    },
+    {
+        "word": "fare",
+        "pos": "Noun",
+        "def": "The money a passenger on public transportation has to pay.",
+        "alter": "nan"
+    },
+    {
+        "word": "fashion",
+        "pos": "Noun",
+        "def": "A popular trend, especially in styles of dress and ornament or manners of behavior.",
+        "alter": "nan"
+    },
+    {
+        "word": "fasten",
+        "pos": "Verb",
+        "def": "To close or join securely.",
+        "alter": "nan"
+    },
+    {
+        "word": "feather",
+        "pos": "Noun",
+        "def": "Any of the flat appendages growing from a bird's skin and forming its plumage.",
+        "alter": "nan"
+    },
+    {
+        "word": "fee",
+        "pos": "Noun",
+        "def": "A payment made in exchange for advice or services.",
+        "alter": "nan"
+    },
+    {
+        "word": "feeling",
+        "pos": "Noun",
+        "def": "An emotional state or reaction.",
+        "alter": "nan"
+    },
+    {
+        "word": "female",
+        "pos": "Adjective",
+        "def": "Of or denoting the sex that can bear offspring or produce eggs.",
+        "alter": "nan"
+    },
+    {
+        "word": "fence",
+        "pos": "Noun",
+        "def": "A barrier enclosing an area of ground.",
+        "alter": "nan"
+    },
+    {
+        "word": "few",
+        "pos": "Adjective",
+        "def": "A small number of.",
+        "alter": "nan"
+    },
+    {
+        "word": "fierce",
+        "pos": "Adjective",
+        "def": "Having or displaying an intense or ferocious aggressiveness.",
+        "alter": "nan"
+    },
+    {
+        "word": "figure",
+        "pos": "Noun",
+        "def": "A number or numerical symbol.",
+        "alter": "nan"
+    },
+    {
+        "word": "fireworks",
+        "pos": "Noun",
+        "def": "Devices containing gunpowder and other combustible chemicals.",
+        "alter": "nan"
+    },
+    {
+        "word": "fix",
+        "pos": "Verb",
+        "def": "To mend or repair.",
+        "alter": "nan"
+    },
+    {
+        "word": "flag",
+        "pos": "Noun",
+        "def": "A piece of cloth attached to a pole.",
+        "alter": "nan"
+    },
+    {
+        "word": "flash",
+        "pos": "Verb",
+        "def": "To shine in a bright but brief, sudden way.",
+        "alter": "nan"
+    },
+    {
+        "word": "flavour",
+        "pos": "Noun",
+        "def": "The distinctive taste of a food or drink.",
+        "alter": "nan"
+    },
+    {
+        "word": "float",
+        "pos": "Verb",
+        "def": "To rest or move on a liquid surface.",
+        "alter": "nan"
+    },
+    {
+        "word": "flood",
+        "pos": "Noun",
+        "def": "An overflow of a large amount of water.",
+        "alter": "nan"
+    },
+    {
+        "word": "flour",
+        "pos": "Noun",
+        "def": "A powder obtained by grinding grain.",
+        "alter": "nan"
+    },
+    {
+        "word": "flow",
+        "pos": "Verb",
+        "def": "To move along in a steady, continuous stream.",
+        "alter": "nan"
+    },
+    {
+        "word": "flu",
+        "pos": "Noun",
+        "def": "A highly contagious viral infection.",
+        "alter": "nan"
+    },
+    {
+        "word": "flyover",
+        "pos": "Noun",
+        "def": "A bridge carrying a road over another.",
+        "alter": "nan"
+    },
+    {
+        "word": "foggy",
+        "pos": "Adjective",
+        "def": "Full of thick clouds of water droplets.",
+        "alter": "nan"
+    },
+    {
+        "word": "fond",
+        "pos": "Adjective",
+        "def": "Having an affection or liking for.",
+        "alter": "nan"
+    },
+    {
+        "word": "fool",
+        "pos": "Noun",
+        "def": "A person who acts unwisely or imprudently.",
+        "alter": "nan"
+    },
+    {
+        "word": "foolish",
+        "pos": "Adjective",
+        "def": "Lacking good sense or judgment.",
+        "alter": "nan"
+    },
+    {
+        "word": "footbridge",
+        "pos": "Noun",
+        "def": "A bridge designed to be used by pedestrians.",
+        "alter": "nan"
+    },
+    {
+        "word": "force",
+        "pos": "Noun",
+        "def": "Strength or energy as an attribute of physical action.",
+        "alter": "nan"
+    },
+    {
+        "word": "foreign",
+        "pos": "Adjective",
+        "def": "Characteristic of a country other than one's own.",
+        "alter": "nan"
+    },
+    {
+        "word": "forever",
+        "pos": "Adverb",
+        "def": "For all future time.",
+        "alter": "nan"
+    },
+    {
+        "word": "forgive",
+        "pos": "Verb",
+        "def": "To stop feeling angry or resentful towards someone.",
+        "alter": "nan"
+    },
+    {
+        "word": "fortunate",
+        "pos": "Adjective",
+        "def": "Favored by or involving good luck.",
+        "alter": "nan"
+    },
+    {
+        "word": "forward",
+        "pos": "Adverb",
+        "def": "Toward the front or direction that one is facing.",
+        "alter": "nan"
+    },
+    {
+        "word": "fountain",
+        "pos": "Noun",
+        "def": "An ornamental structure pumping water into the air.",
+        "alter": "nan"
+    },
+    {
+        "word": "fox",
+        "pos": "Noun",
+        "def": "A carnivorous mammal of the dog family.",
+        "alter": "nan"
+    },
+    {
+        "word": "frame",
+        "pos": "Noun",
+        "def": "A rigid structure that surrounds or encloses something.",
+        "alter": "nan"
+    },
+    {
+        "word": "fridge",
+        "pos": "Noun",
+        "def": "A refrigerator.",
+        "alter": "nan"
+    },
+    {
+        "word": "fried",
+        "pos": "Adjective",
+        "def": "Cooked in hot fat or oil.",
+        "alter": "nan"
+    },
+    {
+        "word": "fries",
+        "pos": "Noun",
+        "def": "Potatoes that have been cut into strips and cooked.",
+        "alter": "nan"
+    },
+    {
+        "word": "frightened",
+        "pos": "Adjective",
+        "def": "Afraid or anxious.",
+        "alter": "nan"
+    },
+    {
+        "word": "frightening",
+        "pos": "Adjective",
+        "def": "Making someone afraid or anxious.",
+        "alter": "nan"
+    },
+    {
+        "word": "frozen",
+        "pos": "Adjective",
+        "def": "Turned into ice as a result of extreme cold.",
+        "alter": "nan"
+    },
+    {
+        "word": "fry",
+        "pos": "Verb",
+        "def": "To cook food in hot fat or oil.",
+        "alter": "nan"
+    },
+    {
+        "word": "fur",
+        "pos": "Noun",
+        "def": "The short, fine, soft hair of certain animals.",
+        "alter": "nan"
+    },
+    {
+        "word": "future",
+        "pos": "Noun",
+        "def": "The time or a period of time following the moment.",
+        "alter": "nan"
+    },
+    {
+        "word": "garlic",
+        "pos": "Noun",
+        "def": "A strong-smelling pungent-tasting bulb, used as flavoring.",
+        "alter": "nan"
+    },
+    {
+        "word": "gas",
+        "pos": "Noun",
+        "def": "An airlike fluid substance which expands freely.",
+        "alter": "nan"
+    },
+    {
+        "word": "gate",
+        "pos": "Noun",
+        "def": "A hinged barrier used to close an opening in a wall.",
+        "alter": "nan"
+    },
+    {
+        "word": "gather",
+        "pos": "Verb",
+        "def": "Come together; assemble or accumulate.",
+        "alter": "nan"
+    },
+    {
+        "word": "gathering",
+        "pos": "Noun",
+        "def": "An assembly or meeting, especially a social or festive one.",
+        "alter": "nan"
+    },
+    {
+        "word": "generous",
+        "pos": "Adjective",
+        "def": "Showing a readiness to give more of something.",
+        "alter": "nan"
+    },
+    {
+        "word": "gentleman",
+        "pos": "Noun",
+        "def": "A chivalrous, courteous, or honorable man.",
+        "alter": "nan"
+    },
+    {
+        "word": "giggle",
+        "pos": "Verb",
+        "def": "Laugh lightly in a nervous, affected, or silly manner.",
+        "alter": "nan"
+    },
+    {
+        "word": "giraffe",
+        "pos": "Noun",
+        "def": "A large African mammal with a very long neck.",
+        "alter": "nan"
+    },
+    {
+        "word": "glossary",
+        "pos": "Noun",
+        "def": "An alphabetical list of terms or words found in or relating to a specific subject.",
+        "alter": "nan"
+    },
+    {
+        "word": "glove",
+        "pos": "Noun",
+        "def": "A covering for the hand worn for protection against cold.",
+        "alter": "nan"
+    },
+    {
+        "word": "goat",
+        "pos": "Noun",
+        "def": "A hardy domesticated ruminant animal.",
+        "alter": "nan"
+    },
+    {
+        "word": "goggles",
+        "pos": "Noun",
+        "def": "Close-fitting eyeglasses with side shields.",
+        "alter": "nan"
+    },
+    {
+        "word": "gorilla",
+        "pos": "Noun",
+        "def": "A heavily built ape of central Africa.",
+        "alter": "nan"
+    },
+    {
+        "word": "government",
+        "pos": "Noun",
+        "def": "The controlling body of a nation, state, or community.",
+        "alter": "nan"
+    },
+    {
+        "word": "grade",
+        "pos": "Noun",
+        "def": "A particular level of rank, quality, proficiency, or value.",
+        "alter": "nan"
+    },
+    {
+        "word": "graduation",
+        "pos": "Noun",
+        "def": "The receiving or conferring of an academic degree or diploma.",
+        "alter": "nan"
+    },
+    {
+        "word": "grain",
+        "pos": "Noun",
+        "def": "Wheat or any other cultivated cereal crop.",
+        "alter": "nan"
+    },
+    {
+        "word": "grammar",
+        "pos": "Noun",
+        "def": "The whole system and structure of a language.",
+        "alter": "nan"
+    },
+    {
+        "word": "grape",
+        "pos": "Noun",
+        "def": "A berry growing in clusters on a vine.",
+        "alter": "nan"
+    },
+    {
+        "word": "grave",
+        "pos": "Noun",
+        "def": "A place of burial for a dead body.",
+        "alter": "nan"
+    },
+    {
+        "word": "greet",
+        "pos": "Verb",
+        "def": "Give a polite word or sign of welcome.",
+        "alter": "nan"
+    },
+    {
+        "word": "grocery",
+        "pos": "Noun",
+        "def": "A store or business, typically selling food.",
+        "alter": "nan"
+    },
+    {
+        "word": "guard",
+        "pos": "Verb",
+        "def": "Watch over in order to protect or control.",
+        "alter": "nan"
+    },
+    {
+        "word": "guest",
+        "pos": "Noun",
+        "def": "A person who is invited to visit the home of or take part in a function organized by another.",
+        "alter": "nan"
+    },
+    {
+        "word": "guide",
+        "pos": "Noun",
+        "def": "A person who advises or shows the way to others.",
+        "alter": "nan"
+    },
+    {
+        "word": "guitar",
+        "pos": "Noun",
+        "def": "A stringed musical instrument.",
+        "alter": "nan"
+    },
+    {
+        "word": "gym",
+        "pos": "Noun",
+        "def": "A membership organization that provides a range of facilities designed to improve and maintain physical fitness and health.",
+        "alter": "nan"
+    },
+    {
+        "word": "habit",
+        "pos": "Noun",
+        "def": "A settled or regular tendency or practice.",
+        "alter": "nan"
+    },
+    {
+        "word": "hairdresser",
+        "pos": "Noun",
+        "def": "A person who cuts and styles locks on heads.",
+        "alter": "nan"
+    },
+    {
+        "word": "hammer",
+        "pos": "Noun",
+        "def": "A tool with a heavy head for pounding.",
+        "alter": "nan"
+    },
+    {
+        "word": "handrail",
+        "pos": "Noun",
+        "def": "A rail fixed to a wall for support.",
+        "alter": "nan"
+    },
+    {
+        "word": "handsome",
+        "pos": "Adjective",
+        "def": "Good-looking, especially of a man.",
+        "alter": "nan"
+    },
+    {
+        "word": "hang",
+        "pos": "Verb",
+        "def": "To suspend or be suspended from above.",
+        "alter": "nan"
+    },
+    {
+        "word": "hanger",
+        "pos": "Noun",
+        "def": "A piece of wood or plastic for suspending clothes.",
+        "alter": "nan"
+    },
+    {
+        "word": "hare",
+        "pos": "Noun",
+        "def": "A fast-running, long-eared mammal resembling a large rabbit.",
+        "alter": "nan"
+    },
+    {
+        "word": "harmful",
+        "pos": "Adjective",
+        "def": "Causing or likely to cause damage or injury.",
+        "alter": "nan"
+    },
+    {
+        "word": "hawker",
+        "pos": "Noun",
+        "def": "A person who travels about selling goods.",
+        "alter": "nan"
+    },
+    {
+        "word": "headache",
+        "pos": "Noun",
+        "def": "A continuous pain in the skull.",
+        "alter": "nan"
+    },
+    {
+        "word": "health",
+        "pos": "Noun",
+        "def": "The state of being free from illness or injury.",
+        "alter": "nan"
+    },
+    {
+        "word": "healthy",
+        "pos": "Adjective",
+        "def": "In good physical or mental condition.",
+        "alter": "nan"
+    },
+    {
+        "word": "heater",
+        "pos": "Noun",
+        "def": "A device for warming the air or water.",
+        "alter": "nan"
+    },
+    {
+        "word": "height",
+        "pos": "Noun",
+        "def": "The measurement from base to top.",
+        "alter": "nan"
+    },
+    {
+        "word": "helicopter",
+        "pos": "Noun",
+        "def": "A type of aircraft deriving lift from rotors.",
+        "alter": "nan"
+    },
+    {
+        "word": "helmet",
+        "pos": "Noun",
+        "def": "A hard or padded protective covering for skulls.",
+        "alter": "nan"
+    },
+    {
+        "word": "hers",
+        "pos": "Pronoun",
+        "def": "Used to refer to things belonging to a female.",
+        "alter": "nan"
+    },
+    {
+        "word": "herself",
+        "pos": "Pronoun",
+        "def": "Used to refer to a female person previously mentioned.",
+        "alter": "nan"
+    },
+    {
+        "word": "highway",
+        "pos": "Noun",
+        "def": "A main road connecting major towns or cities.",
+        "alter": "nan"
+    },
+    {
+        "word": "hiking",
+        "pos": "Noun",
+        "def": "The activity of going for long walks across country.",
+        "alter": "nan"
+    },
+    {
+        "word": "himself",
+        "pos": "Pronoun",
+        "def": "Used to refer to a male person previously mentioned.",
+        "alter": "nan"
+    },
+    {
+        "word": "hip",
+        "pos": "Noun",
+        "def": "A projection of the pelvis on each side.",
+        "alter": "nan"
+    },
+    {
+        "word": "hippo",
+        "pos": "Noun",
+        "def": "A large thick-skinned semiaquatic African mammal.",
+        "alter": "nan"
+    },
+    {
+        "word": "hole",
+        "pos": "Noun",
+        "def": "A hollow place in a solid body or surface.",
+        "alter": "nan"
+    },
+    {
+        "word": "honey",
+        "pos": "Noun",
+        "def": "A sweet, sticky yellowish-brown fluid made by bees.",
+        "alter": "nan"
+    },
+    {
+        "word": "hoop",
+        "pos": "Noun",
+        "def": "A circular band of metal or wood.",
+        "alter": "nan"
+    },
+    {
+        "word": "horrible",
+        "pos": "Adjective",
+        "def": "Causing or likely to cause dread; shocking.",
+        "alter": "nan"
+    },
+    {
+        "word": "hotel",
+        "pos": "Noun",
+        "def": "An establishment providing accommodations and meals for travelers.",
+        "alter": "nan"
+    },
+    {
+        "word": "hotpot",
+        "pos": "Noun",
+        "def": "A dish of meat and vegetables cooked slowly.",
+        "alter": "nan"
+    },
+    {
+        "word": "housework",
+        "pos": "Noun",
+        "def": "Regular work done in managing household affairs.",
+        "alter": "nan"
+    },
+    {
+        "word": "however",
+        "pos": "Adverb",
+        "def": "Used to introduce a statement that contrasts with another.",
+        "alter": "nan"
+    },
+    {
+        "word": "hug",
+        "pos": "Verb",
+        "def": "To squeeze tightly in one's arms.",
+        "alter": "nan"
+    },
+    {
+        "word": "huge",
+        "pos": "Adjective",
+        "def": "Extremely large; enormous.",
+        "alter": "nan"
+    },
+    {
+        "word": "humble",
+        "pos": "Adjective",
+        "def": "Having a modest or low estimate of one's importance.",
+        "alter": "nan"
+    },
+    {
+        "word": "humid",
+        "pos": "Adjective",
+        "def": "Marked by a high level of water vapor.",
+        "alter": "nan"
+    },
+    {
+        "word": "hunt",
+        "pos": "Verb",
+        "def": "To pursue and kill for sport or food.",
+        "alter": "nan"
+    },
+    {
+        "word": "hunter",
+        "pos": "Noun",
+        "def": "A person or animal that pursues and kills.",
+        "alter": "nan"
+    },
+    {
+        "word": "hurt",
+        "pos": "Verb",
+        "def": "To cause physical pain or injury to.",
+        "alter": "nan"
+    },
+    {
+        "word": "husband",
+        "pos": "Noun",
+        "def": "A married man considered in relation to his spouse.",
+        "alter": "nan"
+    },
+    {
+        "word": "hyphen",
+        "pos": "Noun",
+        "def": "A punctuation mark used to join words together.",
+        "alter": "nan"
+    },
+    {
+        "word": "idol",
+        "pos": "Noun",
+        "def": "An image or representation of a god.",
+        "alter": "nan"
+    },
+    {
+        "word": "illustration",
+        "pos": "Noun",
+        "def": "A picture in a book or text.",
+        "alter": "nan"
+    },
+    {
+        "word": "imagine",
+        "pos": "Verb",
+        "def": "Form a mental image or concept of.",
+        "alter": "nan"
+    },
+    {
+        "word": "immediately",
+        "pos": "Adverb",
+        "def": "At once; instantly.",
+        "alter": "nan"
+    },
+    {
+        "word": "important",
+        "pos": "Adjective",
+        "def": "Of great significance or value.",
+        "alter": "nan"
+    },
+    {
+        "word": "improve",
+        "pos": "Verb",
+        "def": "Make or become better.",
+        "alter": "nan"
+    },
+    {
+        "word": "index",
+        "pos": "Noun",
+        "def": "An alphabetical list of records.",
+        "alter": "nan"
+    },
+    {
+        "word": "indoor",
+        "pos": "Adjective",
+        "def": "Situated, conducted, or used within a building.",
+        "alter": "nan"
+    },
+    {
+        "word": "indoors",
+        "pos": "Adverb",
+        "def": "Into or within a building.",
+        "alter": "nan"
+    },
+    {
+        "word": "information",
+        "pos": "Noun",
+        "def": "Facts provided or learned about something.",
+        "alter": "nan"
+    },
+    {
+        "word": "ingredient",
+        "pos": "Noun",
+        "def": "A food or substance combined to make dishes.",
+        "alter": "nan"
+    },
+    {
+        "word": "injured",
+        "pos": "Adjective",
+        "def": "Harmed, damaged, or impaired.",
+        "alter": "nan"
+    },
+    {
+        "word": "ink",
+        "pos": "Noun",
+        "def": "A colored fluid used for writing or printing.",
+        "alter": "nan"
+    },
+    {
+        "word": "insect",
+        "pos": "Noun",
+        "def": "A small arthropod animal with six legs.",
+        "alter": "nan"
+    },
+    {
+        "word": "inside",
+        "pos": "Preposition",
+        "def": "Situated within the confines of something.",
+        "alter": "nan"
+    },
+    {
+        "word": "instead",
+        "pos": "Adverb",
+        "def": "As an alternative or substitute.",
+        "alter": "nan"
+    },
+    {
+        "word": "instruction",
+        "pos": "Noun",
+        "def": "A direction or order.",
+        "alter": "nan"
+    },
+    {
+        "word": "instrument",
+        "pos": "Noun",
+        "def": "A tool or implement for delicate work.",
+        "alter": "nan"
+    },
+    {
+        "word": "interest",
+        "pos": "Noun",
+        "def": "The feeling of wanting to know or learn about something.",
+        "alter": "nan"
+    },
+    {
+        "word": "international",
+        "pos": "Adjective",
+        "def": "Existing, occurring, or carried on between two or more nations.",
+        "alter": "nan"
+    },
+    {
+        "word": "interview",
+        "pos": "Noun",
+        "def": "A meeting of people face to face to understand each other.",
+        "alter": "nan"
+    },
+    {
+        "word": "into",
+        "pos": "Preposition",
+        "def": "Expressing movement or action with the result that someone or something becomes enclosed.",
+        "alter": "nan"
+    },
+    {
+        "word": "introduce",
+        "pos": "Verb",
+        "def": "Bring into use or operation for the first time.",
+        "alter": "nan"
+    },
+    {
+        "word": "invent",
+        "pos": "Verb",
+        "def": "Create or design (something that has not existed before).",
+        "alter": "nan"
+    },
+    {
+        "word": "invention",
+        "pos": "Noun",
+        "def": "The action of creating or designing something new, typically a process or device.",
+        "alter": "nan"
+    },
+    {
+        "word": "invite",
+        "pos": "Verb",
+        "def": "Make a polite, formal, or friendly request to someone to go somewhere or to do something.",
+        "alter": "nan"
+    },
+    {
+        "word": "island",
+        "pos": "Noun",
+        "def": "A piece of land surrounded by water.",
+        "alter": "nan"
+    },
+    {
+        "word": "itchy",
+        "pos": "Adjective",
+        "def": "Having or causing an uncomfortable sensation.",
+        "alter": "nan"
+    },
+    {
+        "word": "item",
+        "pos": "Noun",
+        "def": "An individual article or unit, especially one that is part of a list, collection, or set.",
+        "alter": "nan"
+    },
+    {
+        "word": "itself",
+        "pos": "Pronoun",
+        "def": "Used as the object of a verb or preposition to refer to a thing previously mentioned.",
+        "alter": "nan"
+    },
+    {
+        "word": "jar",
+        "pos": "Noun",
+        "def": "A wide-mouthed, cylindrical container made of glass or pottery.",
+        "alter": "nan"
+    },
+    {
+        "word": "jealous",
+        "pos": "Adjective",
+        "def": "Feeling or showing envy of someone or their achievements and advantages.",
+        "alter": "nan"
+    },
+    {
+        "word": "jellyfish",
+        "pos": "Noun",
+        "def": "A free-swimming marine coelenterate with a jellylike bell- or saucer-shaped body.",
+        "alter": "nan"
+    },
+    {
+        "word": "jewel",
+        "pos": "Noun",
+        "def": "A precious stone, typically a single crystal or a piece of a hard brilliant or translucent mineral.",
+        "alter": "nan"
+    },
+    {
+        "word": "jewellery",
+        "pos": "Noun",
+        "def": "Personal ornaments, such as necklaces, rings, or bracelets.",
+        "alter": "nan"
+    },
+    {
+        "word": "jog",
+        "pos": "Verb",
+        "def": "Run at a steady gentle pace.",
+        "alter": "nan"
+    },
+    {
+        "word": "jogging",
+        "pos": "Noun",
+        "def": "The activity of running at a steady, gentle pace as a form of physical exercise.",
+        "alter": "nan"
+    },
+    {
+        "word": "joke",
+        "pos": "Noun",
+        "def": "A thing that someone says to cause amusement or laughter.",
+        "alter": "nan"
+    },
+    {
+        "word": "journey",
+        "pos": "Noun",
+        "def": "An act of traveling from one place to another.",
+        "alter": "nan"
+    },
+    {
+        "word": "joy",
+        "pos": "Noun",
+        "def": "A feeling of great pleasure and happiness.",
+        "alter": "nan"
+    },
+    {
+        "word": "joyful",
+        "pos": "Adjective",
+        "def": "Feeling, expressing, or causing great pleasure and happiness.",
+        "alter": "nan"
+    },
+    {
+        "word": "judge",
+        "pos": "Noun",
+        "def": "A public official appointed to decide cases in a court of law.",
+        "alter": "nan"
+    },
+    {
+        "word": "junk",
+        "pos": "Noun",
+        "def": "Old or discarded articles that are considered useless or of little value.",
+        "alter": "nan"
+    },
+    {
+        "word": "just",
+        "pos": "Adjective",
+        "def": "Based on or behaving according to what is morally right and fair.",
+        "alter": "nan"
+    },
+    {
+        "word": "kangaroo",
+        "pos": "Noun",
+        "def": "A large plant-eating marsupial with a long powerful tail and strongly developed hind limbs.",
+        "alter": "nan"
+    },
+    {
+        "word": "ketchup",
+        "pos": "Noun",
+        "def": "A smooth, sweet, cold sauce made from tomatoes.",
+        "alter": "nan"
+    },
+    {
+        "word": "kettle",
+        "pos": "Noun",
+        "def": "A vessel, usually made of metal and with a handle, used for boiling water.",
+        "alter": "nan"
+    },
+    {
+        "word": "kid",
+        "pos": "Noun",
+        "def": "A child or young person.",
+        "alter": "nan"
+    },
+    {
+        "word": "kiwifruit",
+        "pos": "Noun",
+        "def": "A fruit with a thin hairy skin, green flesh, and black seeds.",
+        "alter": "nan"
+    },
+    {
+        "word": "kneel",
+        "pos": "Verb",
+        "def": "A position in which the body is supported by the joint between the thigh and the lower leg in humans.",
+        "alter": "nan"
+    },
+    {
+        "word": "knit",
+        "pos": "Verb",
+        "def": "Make a garment or blanket by interlocking loops of wool or other yarn.",
+        "alter": "nan"
+    },
+    {
+        "word": "knitting",
+        "pos": "Noun",
+        "def": "The craft or action of making a garment.",
+        "alter": "nan"
+    },
+    {
+        "word": "ladder",
+        "pos": "Noun",
+        "def": "A structure consisting of a series of bars or steps between two upright lengths of wood, metal, or rope.",
+        "alter": "nan"
+    },
+    {
+        "word": "lady",
+        "pos": "Noun",
+        "def": "A polite or formal way of referring to a woman.",
+        "alter": "nan"
+    },
+    {
+        "word": "lake",
+        "pos": "Noun",
+        "def": "A large body of water surrounded by land.",
+        "alter": "nan"
+    },
+    {
+        "word": "land",
+        "pos": "Noun",
+        "def": "The part of the earth's surface that is not covered by water.",
+        "alter": "nan"
+    },
+    {
+        "word": "landslide",
+        "pos": "Noun",
+        "def": "The sliding down of a mass of earth or rock from a mountain or cliff.",
+        "alter": "nan"
+    },
+    {
+        "word": "language",
+        "pos": "Noun",
+        "def": "The principal method of human communication.",
+        "alter": "nan"
+    },
+    {
+        "word": "lantern",
+        "pos": "Noun",
+        "def": "A lamp with a transparent case protecting the flame or electric bulb.",
+        "alter": "nan"
+    },
+    {
+        "word": "lawyer",
+        "pos": "Noun",
+        "def": "A person who practices or studies law.",
+        "alter": "nan"
+    },
+    {
+        "word": "lay",
+        "pos": "Verb",
+        "def": "Put down, especially gently or carefully.",
+        "alter": "nan"
+    },
+    {
+        "word": "lead",
+        "pos": "Verb",
+        "def": "Cause to go with one by holding them.",
+        "alter": "nan"
+    },
+    {
+        "word": "lean",
+        "pos": "Verb",
+        "def": "Be in or move into a sloping position.",
+        "alter": "nan"
+    },
+    {
+        "word": "leather",
+        "pos": "Noun",
+        "def": "A material made from the skin of an animal.",
+        "alter": "nan"
+    },
+    {
+        "word": "leisure",
+        "pos": "Noun",
+        "def": "Time when one is not working or occupied.",
+        "alter": "nan"
+    },
+    {
+        "word": "lend",
+        "pos": "Verb",
+        "def": "Grant to someone the use of something.",
+        "alter": "nan"
+    },
+    {
+        "word": "less",
+        "pos": "Adjective",
+        "def": "A smaller amount of; not as much.",
+        "alter": "nan"
+    },
+    {
+        "word": "lettuce",
+        "pos": "Noun",
+        "def": "A cultivated plant of the daisy family.",
+        "alter": "nan"
+    },
+    {
+        "word": "level",
+        "pos": "Noun",
+        "def": "A position on a real or imaginary scale.",
+        "alter": "nan"
+    },
+    {
+        "word": "librarian",
+        "pos": "Noun",
+        "def": "A person in charge of or assisting in a library.",
+        "alter": "nan"
+    },
+    {
+        "word": "lid",
+        "pos": "Noun",
+        "def": "A removable or hinged cover for the top of a container.",
+        "alter": "nan"
+    },
+    {
+        "word": "life",
+        "pos": "Noun",
+        "def": "The condition that distinguishes animals and plants from inorganic matter.",
+        "alter": "nan"
+    },
+    {
+        "word": "lifeguard",
+        "pos": "Noun",
+        "def": "An expert swimmer employed to rescue people in difficulty.",
+        "alter": "nan"
+    },
+    {
+        "word": "lift",
+        "pos": "Verb",
+        "def": "Raise to a higher position or level.",
+        "alter": "nan"
+    },
+    {
+        "word": "lightning",
+        "pos": "Noun",
+        "def": "The occurrence of a natural electrical discharge of very short duration.",
+        "alter": "nan"
+    },
+    {
+        "word": "lily",
+        "pos": "Noun",
+        "def": "A bulbous plant with large trumpet-shaped flowers.",
+        "alter": "nan"
+    },
+    {
+        "word": "link",
+        "pos": "Noun",
+        "def": "A relationship between two things or situations.",
+        "alter": "nan"
+    },
+    {
+        "word": "loaf",
+        "pos": "Noun",
+        "def": "A quantity of bread that is shaped and baked in one piece.",
+        "alter": "nan"
+    },
+    {
+        "word": "lobby",
+        "pos": "Noun",
+        "def": "A room providing a space out of which one or more other rooms or corridors lead.",
+        "alter": "nan"
+    },
+    {
+        "word": "local",
+        "pos": "Adjective",
+        "def": "Belonging or relating to a particular area or neighborhood.",
+        "alter": "nan"
+    },
+    {
+        "word": "lock",
+        "pos": "Noun",
+        "def": "A mechanism for keeping a door, lid, etc., fastened.",
+        "alter": "nan"
+    },
+    {
+        "word": "lonely",
+        "pos": "Adjective",
+        "def": "Sad because one has no friends or company.",
+        "alter": "nan"
+    },
+    {
+        "word": "loose",
+        "pos": "Adjective",
+        "def": "Not firmly or tightly fixed in place.",
+        "alter": "nan"
+    },
+    {
+        "word": "lorry",
+        "pos": "Noun",
+        "def": "A large, heavy motor vehicle for transporting goods.",
+        "alter": "nan"
+    },
+    {
+        "word": "lot",
+        "pos": "Pronoun",
+        "def": "A large number or amount; a great deal.",
+        "alter": "nan"
+    },
+    {
+        "word": "loyal",
+        "pos": "Adjective",
+        "def": "Giving or showing firm and constant support or allegiance.",
+        "alter": "nan"
+    },
+    {
+        "word": "luggage",
+        "pos": "Noun",
+        "def": "Suitcases or other bags in which to pack personal belongings for traveling.",
+        "alter": "nan"
+    },
+    {
+        "word": "machine",
+        "pos": "Noun",
+        "def": "An apparatus using or applying mechanical power and having several parts.",
+        "alter": "nan"
+    },
+    {
+        "word": "mad",
+        "pos": "Adjective",
+        "def": "Mentally ill; insane.",
+        "alter": "nan"
+    },
+    {
+        "word": "magazine",
+        "pos": "Noun",
+        "def": "A periodical publication containing articles and illustrations.",
+        "alter": "nan"
+    },
+    {
+        "word": "maid",
+        "pos": "Noun",
+        "def": "A female domestic servant.",
+        "alter": "nan"
+    },
+    {
+        "word": "mail",
+        "pos": "Noun",
+        "def": "Letters and packages conveyed by the postal system.",
+        "alter": "nan"
+    },
+    {
+        "word": "main",
+        "pos": "Adjective",
+        "def": "Chief in size or importance.",
+        "alter": "nan"
+    },
+    {
+        "word": "male",
+        "pos": "Adjective",
+        "def": "Of or denoting the sex that produces small, typically motile gametes.",
+        "alter": "nan"
+    },
+    {
+        "word": "mall",
+        "pos": "Noun",
+        "def": "A large building or series of connected buildings containing a variety of retail stores.",
+        "alter": "nan"
+    },
+    {
+        "word": "manager",
+        "pos": "Noun",
+        "def": "A person responsible for controlling or administering all or part of a company.",
+        "alter": "nan"
+    },
+    {
+        "word": "marble",
+        "pos": "Noun",
+        "def": "A hard crystalline metamorphic form of limestone.",
+        "alter": "nan"
+    },
+    {
+        "word": "marker",
+        "pos": "Noun",
+        "def": "An object used to indicate a position or place.",
+        "alter": "nan"
+    },
+    {
+        "word": "marry",
+        "pos": "Verb",
+        "def": "Join in matrimony.",
+        "alter": "nan"
+    },
+    {
+        "word": "marvellous",
+        "pos": "Adjective",
+        "def": "Causing great wonder; extraordinary.",
+        "alter": "nan"
+    },
+    {
+        "word": "mask",
+        "pos": "Noun",
+        "def": "A covering for all or part of the face.",
+        "alter": "nan"
+    },
+    {
+        "word": "master",
+        "pos": "Noun",
+        "def": "A man who has people working for him.",
+        "alter": "nan"
+    },
+    {
+        "word": "material",
+        "pos": "Noun",
+        "def": "The matter from which a thing is or can be made.",
+        "alter": "nan"
+    },
+    {
+        "word": "matter",
+        "pos": "Noun",
+        "def": "Physical substance in general.",
+        "alter": "nan"
+    },
+    {
+        "word": "maybe",
+        "pos": "Adverb",
+        "def": "Perhaps; possibly.",
+        "alter": "nan"
+    },
+    {
+        "word": "measure",
+        "pos": "Verb",
+        "def": "Ascertain the size, amount, or degree of something.",
+        "alter": "nan"
+    },
+    {
+        "word": "medal",
+        "pos": "Noun",
+        "def": "A metal disk with an inscription or design.",
+        "alter": "nan"
+    },
+    {
+        "word": "medicine",
+        "pos": "Noun",
+        "def": "The science of diagnosis, treatment, and prevention of disease.",
+        "alter": "nan"
+    },
+    {
+        "word": "medium",
+        "pos": "Noun",
+        "def": "An agency or means of doing something.",
+        "alter": "nan"
+    },
+    {
+        "word": "meeting",
+        "pos": "Noun",
+        "def": "An assembly of people for a particular purpose.",
+        "alter": "nan"
+    },
+    {
+        "word": "melon",
+        "pos": "Noun",
+        "def": "The large round fruit of a plant of the gourd family.",
+        "alter": "nan"
+    },
+    {
+        "word": "melt",
+        "pos": "Verb",
+        "def": "Make or become liquid by heat.",
+        "alter": "nan"
+    },
+    {
+        "word": "memory",
+        "pos": "Noun",
+        "def": "The faculty by which the mind stores and remembers information.",
+        "alter": "nan"
+    },
+    {
+        "word": "mend",
+        "pos": "Verb",
+        "def": "Repair something that is broken or damaged.",
+        "alter": "nan"
+    },
+    {
+        "word": "menu",
+        "pos": "Noun",
+        "def": "A list of dishes available in a restaurant.",
+        "alter": "nan"
+    },
+    {
+        "word": "mess",
+        "pos": "Noun",
+        "def": "A dirty or untidy state of things or of a place.",
+        "alter": "nan"
+    },
+    {
+        "word": "message",
+        "pos": "Noun",
+        "def": "A verbal, written, or recorded communication.",
+        "alter": "nan"
+    },
+    {
+        "word": "messy",
+        "pos": "Adjective",
+        "def": "Untidy or dirty.",
+        "alter": "nan"
+    },
+    {
+        "word": "metal",
+        "pos": "Noun",
+        "def": "A solid material that is typically hard, shiny, and malleable.",
+        "alter": "nan"
+    },
+    {
+        "word": "mic",
+        "pos": "Noun",
+        "def": "A device for converting sound waves into electrical energy.",
+        "alter": "nan"
+    },
+    {
+        "word": "microphone",
+        "pos": "Noun",
+        "def": "An instrument for converting sound waves into electrical energy.",
+        "alter": "nan"
+    },
+    {
+        "word": "microwave",
+        "pos": "Noun",
+        "def": "An oven that cooks food using electromagnetic waves.",
+        "alter": "nan"
+    },
+    {
+        "word": "midnight",
+        "pos": "Noun",
+        "def": "Twelve o'clock at night.",
+        "alter": "nan"
+    },
+    {
+        "word": "might",
+        "pos": "Verb",
+        "def": "Used to express possibility.",
+        "alter": "nan"
+    },
+    {
+        "word": "mind",
+        "pos": "Noun",
+        "def": "The element of a person that enables awareness and thinking.",
+        "alter": "nan"
+    },
+    {
+        "word": "mine",
+        "pos": "Pronoun",
+        "def": "Used to refer to a thing belonging to the speaker.",
+        "alter": "nan"
+    },
+    {
+        "word": "mineral",
+        "pos": "Noun",
+        "def": "A solid inorganic substance of natural occurrence.",
+        "alter": "nan"
+    },
+    {
+        "word": "miserable",
+        "pos": "Adjective",
+        "def": "Wretchedly unhappy or uncomfortable.",
+        "alter": "nan"
+    },
+    {
+        "word": "mitten",
+        "pos": "Noun",
+        "def": "A glove with one section for the thumb.",
+        "alter": "nan"
+    },
+    {
+        "word": "mix",
+        "pos": "Verb",
+        "def": "Combine or put together to form one substance or mass.",
+        "alter": "nan"
+    },
+    {
+        "word": "mobile",
+        "pos": "Adjective",
+        "def": "Able to move or be moved freely or easily.",
+        "alter": "nan"
+    },
+    {
+        "word": "modern",
+        "pos": "Adjective",
+        "def": "Relating to the present or recent times.",
+        "alter": "nan"
+    },
+    {
+        "word": "moment",
+        "pos": "Noun",
+        "def": "A very brief period of time.",
+        "alter": "nan"
+    },
+    {
+        "word": "monster",
+        "pos": "Noun",
+        "def": "An imaginary creature that is typically large, ugly, and frightening.",
+        "alter": "nan"
+    },
+    {
+        "word": "mop",
+        "pos": "Noun",
+        "def": "A bundle of coarse yarn or sponge attached to a pole.",
+        "alter": "nan"
+    },
+    {
+        "word": "moreover",
+        "pos": "Adverb",
+        "def": "As a further matter; besides.",
+        "alter": "nan"
+    },
+    {
+        "word": "mosquito",
+        "pos": "Noun",
+        "def": "A slender long-legged fly with aquatic larvae.",
+        "alter": "nan"
+    },
+    {
+        "word": "motorbike",
+        "pos": "Noun",
+        "def": "A motorcycle.",
+        "alter": "nan"
+    },
+    {
+        "word": "motorcycle",
+        "pos": "Noun",
+        "def": "A two-wheeled vehicle that is powered by a motor.",
+        "alter": "nan"
+    },
+    {
+        "word": "mountain",
+        "pos": "Noun",
+        "def": "A large natural elevation of the earth's surface.",
+        "alter": "nan"
+    },
+    {
+        "word": "mud",
+        "pos": "Noun",
+        "def": "Soft, sticky matter consisting of mixed earth and water.",
+        "alter": "nan"
+    },
+    {
+        "word": "muddy",
+        "pos": "Adjective",
+        "def": "Covered in or full of mud.",
+        "alter": "nan"
+    },
+    {
+        "word": "museum",
+        "pos": "Noun",
+        "def": "A building in which objects of interest are stored.",
+        "alter": "nan"
+    },
+    {
+        "word": "mushroom",
+        "pos": "Noun",
+        "def": "A fungal growth that typically takes the form of a domed cap.",
+        "alter": "nan"
+    },
+    {
+        "word": "musical",
+        "pos": "Adjective",
+        "def": "Relating to music.",
+        "alter": "nan"
+    },
+    {
+        "word": "must",
+        "pos": "Verb",
+        "def": "Be obliged to.",
+        "alter": "nan"
+    },
+    {
+        "word": "myself",
+        "pos": "Pronoun",
+        "def": "Used by a speaker to refer to himself or herself.",
+        "alter": "nan"
+    },
+    {
+        "word": "narrator",
+        "pos": "Noun",
+        "def": "A person who speaks something in events.",
+        "alter": "nan"
+    },
+    {
+        "word": "narrow",
+        "pos": "Adjective",
+        "def": "Of small width.",
+        "alter": "nan"
+    },
+    {
+        "word": "national",
+        "pos": "Adjective",
+        "def": "Relating to a large body of people united by common descent.",
+        "alter": "nan"
+    },
+    {
+        "word": "nature",
+        "pos": "Noun",
+        "def": "The phenomena of the physical world.",
+        "alter": "nan"
+    },
+    {
+        "word": "nearby",
+        "pos": "Adjective",
+        "def": "Close at hand.",
+        "alter": "nan"
+    },
+    {
+        "word": "necessary",
+        "pos": "Adjective",
+        "def": "Required to be done.",
+        "alter": "nan"
+    },
+    {
+        "word": "necklace",
+        "pos": "Noun",
+        "def": "An ornamental chain or string of beads.",
+        "alter": "nan"
+    },
+    {
+        "word": "needle",
+        "pos": "Noun",
+        "def": "A very fine slender piece of metal.",
+        "alter": "nan"
+    },
+    {
+        "word": "neither",
+        "pos": "Pronoun",
+        "def": "Not the one nor the other of two people or things.",
+        "alter": "nan"
+    },
+    {
+        "word": "nephew",
+        "pos": "Noun",
+        "def": "A son of one's brother or sister.",
+        "alter": "nan"
+    },
+    {
+        "word": "nervous",
+        "pos": "Adjective",
+        "def": "Easily agitated or alarmed.",
+        "alter": "nan"
+    },
+    {
+        "word": "net",
+        "pos": "Noun",
+        "def": "A piece of open-meshed material.",
+        "alter": "nan"
+    },
+    {
+        "word": "never",
+        "pos": "Adverb",
+        "def": "At no time in the past or future.",
+        "alter": "nan"
+    },
+    {
+        "word": "news",
+        "pos": "Noun",
+        "def": "Recently received or noteworthy information.",
+        "alter": "nan"
+    },
+    {
+        "word": "niece",
+        "pos": "Noun",
+        "def": "A daughter of one's brother or sister.",
+        "alter": "nan"
+    },
+    {
+        "word": "nobody",
+        "pos": "Pronoun",
+        "def": "No person; no one.",
+        "alter": "nan"
+    },
+    {
+        "word": "nod",
+        "pos": "Verb",
+        "def": "Lower and raise one's head slightly and briefly.",
+        "alter": "nan"
+    },
+    {
+        "word": "none",
+        "pos": "Pronoun",
+        "def": "Not any.",
+        "alter": "nan"
+    },
+    {
+        "word": "nor",
+        "pos": "Conjunction",
+        "def": "Used before the second or further of two or more alternatives to indicate that they are each untrue.",
+        "alter": "nan"
+    },
+    {
+        "word": "north",
+        "pos": "Noun",
+        "def": "The direction in which a compass needle normally points.",
+        "alter": "nan"
+    },
+    {
+        "word": "nothing",
+        "pos": "Pronoun",
+        "def": "Not anything; no single thing.",
+        "alter": "nan"
+    },
+    {
+        "word": "noun",
+        "pos": "Noun",
+        "def": "A word used to identify any of a class of people, places, or things.",
+        "alter": "nan"
+    },
+    {
+        "word": "nowadays",
+        "pos": "Adverb",
+        "def": "At the present time, in contrast with the past.",
+        "alter": "nan"
+    },
+    {
+        "word": "nut",
+        "pos": "Noun",
+        "def": "A fruit consisting of a hard or tough shell around an edible kernel.",
+        "alter": "nan"
+    },
+    {
+        "word": "obedient",
+        "pos": "Adjective",
+        "def": "Complying or willing to comply with orders or requests.",
+        "alter": "nan"
+    },
+    {
+        "word": "obey",
+        "pos": "Verb",
+        "def": "Comply with the command, direction, or request of.",
+        "alter": "nan"
+    },
+    {
+        "word": "object",
+        "pos": "Noun",
+        "def": "A material thing that can be seen and touched.",
+        "alter": "nan"
+    },
+    {
+        "word": "ocean",
+        "pos": "Noun",
+        "def": "A very large expanse of sea.",
+        "alter": "nan"
+    },
+    {
+        "word": "octopus",
+        "pos": "Noun",
+        "def": "A sea animal with eight tentacles.",
+        "alter": "nan"
+    },
+    {
+        "word": "odd",
+        "pos": "Adjective",
+        "def": "Different from what is usual or expected.",
+        "alter": "nan"
+    },
+    {
+        "word": "often",
+        "pos": "Adverb",
+        "def": "Frequently; many times.",
+        "alter": "nan"
+    },
+    {
+        "word": "oil",
+        "pos": "Noun",
+        "def": "A viscous liquid derived from petroleum.",
+        "alter": "nan"
+    },
+    {
+        "word": "onion",
+        "pos": "Noun",
+        "def": "A round vegetable with many layers.",
+        "alter": "nan"
+    },
+    {
+        "word": "onto",
+        "pos": "Preposition",
+        "def": "Moving to a location on the surface of something.",
+        "alter": "nan"
+    },
+    {
+        "word": "opinion",
+        "pos": "Noun",
+        "def": "A view or judgment formed about something.",
+        "alter": "nan"
+    },
+    {
+        "word": "opposite",
+        "pos": "Adjective",
+        "def": "Situated on the other side.",
+        "alter": "nan"
+    },
+    {
+        "word": "organisation",
+        "pos": "Noun",
+        "def": "An organized body of people with a particular purpose.",
+        "alter": "organization"
+    },
+    {
+        "word": "organise",
+        "pos": "Verb",
+        "def": "Arrange into a structured whole; order.",
+        "alter": "organize"
+    },
+    {
+        "word": "ought",
+        "pos": "Verb",
+        "def": "Used to indicate duty or correctness.",
+        "alter": "nan"
+    },
+    {
+        "word": "ours",
+        "pos": "Pronoun",
+        "def": "Used to refer to a thing belonging to the speaker.",
+        "alter": "nan"
+    },
+    {
+        "word": "ourselves",
+        "pos": "Pronoun",
+        "def": "Used as the object of a verb when same as subject.",
+        "alter": "nan"
+    },
+    {
+        "word": "outdoor",
+        "pos": "Adjective",
+        "def": "Done, situated, or used out of doors.",
+        "alter": "nan"
+    },
+    {
+        "word": "outdoors",
+        "pos": "Adverb",
+        "def": "In or into the open air.",
+        "alter": "nan"
+    },
+    {
+        "word": "outline",
+        "pos": "Noun",
+        "def": "A line indicating the shape of an object.",
+        "alter": "nan"
+    },
+    {
+        "word": "outside",
+        "pos": "Noun",
+        "def": "The external side or surface of something.",
+        "alter": "nan"
+    },
+    {
+        "word": "oven",
+        "pos": "Noun",
+        "def": "An enclosed compartment for cooking and heating food.",
+        "alter": "nan"
+    },
+    {
+        "word": "overseas",
+        "pos": "Adverb",
+        "def": "In or to a foreign country.",
+        "alter": "nan"
+    },
+    {
+        "word": "owl",
+        "pos": "Noun",
+        "def": "A nocturnal bird of prey with large eyes.",
+        "alter": "nan"
+    },
+    {
+        "word": "ox",
+        "pos": "Noun",
+        "def": "A domesticated bovine animal.",
+        "alter": "nan"
+    },
+    {
+        "word": "oyster",
+        "pos": "Noun",
+        "def": "A large flat bivalve mollusk.",
+        "alter": "nan"
+    },
+    {
+        "word": "packet",
+        "pos": "Noun",
+        "def": "A paper or cardboard container.",
+        "alter": "nan"
+    },
+    {
+        "word": "pad",
+        "pos": "Noun",
+        "def": "A thick piece of soft material.",
+        "alter": "nan"
+    },
+    {
+        "word": "pain",
+        "pos": "Noun",
+        "def": "Physical suffering or discomfort caused by illness or injury.",
+        "alter": "nan"
+    },
+    {
+        "word": "palm",
+        "pos": "Noun",
+        "def": "The inner surface of the hand.",
+        "alter": "nan"
+    },
+    {
+        "word": "pan",
+        "pos": "Noun",
+        "def": "A metal container used for cooking.",
+        "alter": "nan"
+    },
+    {
+        "word": "pancake",
+        "pos": "Noun",
+        "def": "A thin, flat cake of batter, fried.",
+        "alter": "nan"
+    },
+    {
+        "word": "panic",
+        "pos": "Noun",
+        "def": "Sudden uncontrollable fear or anxiety.",
+        "alter": "nan"
+    },
+    {
+        "word": "papaya",
+        "pos": "Noun",
+        "def": "A tropical fruit shaped like an elongated melon.",
+        "alter": "nan"
+    },
+    {
+        "word": "parcel",
+        "pos": "Noun",
+        "def": "A thing wrapped in paper to be carried or sent.",
+        "alter": "nan"
+    },
+    {
+        "word": "passage",
+        "pos": "Noun",
+        "def": "The act or process of moving through something.",
+        "alter": "nan"
+    },
+    {
+        "word": "passenger",
+        "pos": "Noun",
+        "def": "A traveler on a public or private conveyance.",
+        "alter": "nan"
+    },
+    {
+        "word": "passive",
+        "pos": "Adjective",
+        "def": "Accepting or allowing what happens without active response.",
+        "alter": "nan"
+    },
+    {
+        "word": "pasta",
+        "pos": "Noun",
+        "def": "A dish originally from Italy consisting of dough.",
+        "alter": "nan"
+    },
+    {
+        "word": "paste",
+        "pos": "Noun",
+        "def": "A thick, soft, moist substance.",
+        "alter": "nan"
+    },
+    {
+        "word": "path",
+        "pos": "Noun",
+        "def": "A way or track laid down for walking.",
+        "alter": "nan"
+    },
+    {
+        "word": "patient",
+        "pos": "Adjective",
+        "def": "Able to accept or tolerate delays without becoming annoyed.",
+        "alter": "nan"
+    },
+    {
+        "word": "pavement",
+        "pos": "Noun",
+        "def": "Any paved area or surface.",
+        "alter": "nan"
+    },
+    {
+        "word": "pea",
+        "pos": "Noun",
+        "def": "A spherical green seed that is eaten as a vegetable.",
+        "alter": "nan"
+    },
+    {
+        "word": "peach",
+        "pos": "Noun",
+        "def": "A round stone fruit with juicy yellow flesh.",
+        "alter": "nan"
+    },
+    {
+        "word": "peacock",
+        "pos": "Noun",
+        "def": "A male peafowl with brilliant plumage.",
+        "alter": "nan"
+    },
+    {
+        "word": "peak",
+        "pos": "Noun",
+        "def": "The pointed top of a mountain.",
+        "alter": "nan"
+    },
+    {
+        "word": "peanut",
+        "pos": "Noun",
+        "def": "An oval seed of a South American plant.",
+        "alter": "nan"
+    },
+    {
+        "word": "pedestrian",
+        "pos": "Noun",
+        "def": "A person walking along a road or in a developed area.",
+        "alter": "nan"
+    },
+    {
+        "word": "peel",
+        "pos": "Verb",
+        "def": "Remove the outer covering or skin from.",
+        "alter": "nan"
+    },
+    {
+        "word": "penguin",
+        "pos": "Noun",
+        "def": "A flightless seabird of the southern hemisphere.",
+        "alter": "nan"
+    },
+    {
+        "word": "pepper",
+        "pos": "Noun",
+        "def": "A pungent, hot-tasting powder prepared from dried berries.",
+        "alter": "nan"
+    },
+    {
+        "word": "perfect",
+        "pos": "Adjective",
+        "def": "Having all the required or desirable elements or qualities.",
+        "alter": "nan"
+    },
+    {
+        "word": "perform",
+        "pos": "Verb",
+        "def": "Carry out, accomplish, or fulfill.",
+        "alter": "nan"
+    },
+    {
+        "word": "performance",
+        "pos": "Noun",
+        "def": "An act of staging or presenting a play or concert.",
+        "alter": "nan"
+    },
+    {
+        "word": "perhaps",
+        "pos": "Adverb",
+        "def": "Used to express uncertainty or possibility.",
+        "alter": "nan"
+    },
+    {
+        "word": "period",
+        "pos": "Noun",
+        "def": "A length or portion of time.",
+        "alter": "nan"
+    },
+    {
+        "word": "person",
+        "pos": "Noun",
+        "def": "A human being regarded as an individual.",
+        "alter": "nan"
+    },
+    {
+        "word": "photocopy",
+        "pos": "Noun",
+        "def": "A copy of printed or written material.",
+        "alter": "nan"
+    },
+    {
+        "word": "pier",
+        "pos": "Noun",
+        "def": "A structure leading out from the shore into a body of water.",
+        "alter": "nan"
+    },
+    {
+        "word": "pigeon",
+        "pos": "Noun",
+        "def": "A stout seed- or fruit-eating bird.",
+        "alter": "nan"
+    },
+    {
+        "word": "pillow",
+        "pos": "Noun",
+        "def": "A rectangular cloth bag stuffed with soft materials.",
+        "alter": "nan"
+    },
+    {
+        "word": "pilot",
+        "pos": "Noun",
+        "def": "A person who operates the flying controls of an aircraft.",
+        "alter": "nan"
+    },
+    {
+        "word": "pin",
+        "pos": "Noun",
+        "def": "A thin piece of metal with a sharp point.",
+        "alter": "nan"
+    },
+    {
+        "word": "pineapple",
+        "pos": "Noun",
+        "def": "A large juicy tropical fruit.",
+        "alter": "nan"
+    },
+    {
+        "word": "plaster",
+        "pos": "Noun",
+        "def": "A soft mixture used for spreading on walls or ceilings.",
+        "alter": "nan"
+    },
+    {
+        "word": "plastic",
+        "pos": "Noun",
+        "def": "A synthetic material made from organic polymers.",
+        "alter": "nan"
+    },
+    {
+        "word": "platform",
+        "pos": "Noun",
+        "def": "A raised level surface on which people or things can stand.",
+        "alter": "nan"
+    },
+    {
+        "word": "pleasant",
+        "pos": "Adjective",
+        "def": "Giving a sense of happy satisfaction or enjoyment.",
+        "alter": "nan"
+    },
+    {
+        "word": "pleased",
+        "pos": "Adjective",
+        "def": "Feeling or showing pleasure and satisfaction.",
+        "alter": "nan"
+    },
+    {
+        "word": "plenty",
+        "pos": "Pronoun",
+        "def": "A large or sufficient amount or quantity.",
+        "alter": "nan"
+    },
+    {
+        "word": "plug",
+        "pos": "Noun",
+        "def": "A piece of solid material fitting tightly into a hole.",
+        "alter": "nan"
+    },
+    {
+        "word": "plum",
+        "pos": "Noun",
+        "def": "An oval fleshy fruit that is purple, reddish, or yellow.",
+        "alter": "nan"
+    },
+    {
+        "word": "plural",
+        "pos": "Adjective",
+        "def": "More than one in number.",
+        "alter": "nan"
+    },
+    {
+        "word": "pointed",
+        "pos": "Adjective",
+        "def": "Having a sharpened or tapered tip or end.",
+        "alter": "nan"
+    },
+    {
+        "word": "polish",
+        "pos": "Verb",
+        "def": "Make the surface of something smooth and shiny.",
+        "alter": "nan"
+    },
+    {
+        "word": "pollute",
+        "pos": "Verb",
+        "def": "Contaminate with harmful or poisonous substances.",
+        "alter": "nan"
+    },
+    {
+        "word": "pollution",
+        "pos": "Noun",
+        "def": "The presence of harmful substances in the environment.",
+        "alter": "nan"
+    },
+    {
+        "word": "pop",
+        "pos": "Verb",
+        "def": "Make a light explosive sound.",
+        "alter": "nan"
+    },
+    {
+        "word": "popcorn",
+        "pos": "Noun",
+        "def": "Corn of a variety with hard kernels that swell up.",
+        "alter": "nan"
+    },
+    {
+        "word": "popular",
+        "pos": "Adjective",
+        "def": "Liked, admired, or enjoyed by many people.",
+        "alter": "nan"
+    },
+    {
+        "word": "possible",
+        "pos": "Adjective",
+        "def": "Able to be done or achieved.",
+        "alter": "nan"
+    },
+    {
+        "word": "postcard",
+        "pos": "Noun",
+        "def": "A card for sending a message by mail.",
+        "alter": "nan"
+    },
+    {
+        "word": "pour",
+        "pos": "Verb",
+        "def": "Flow rapidly in a steady stream.",
+        "alter": "nan"
+    },
+    {
+        "word": "powder",
+        "pos": "Noun",
+        "def": "Fine dry particles produced by grinding a solid substance.",
+        "alter": "nan"
+    },
+    {
+        "word": "praise",
+        "pos": "Verb",
+        "def": "Express warm approval or admiration of.",
+        "alter": "nan"
+    },
+    {
+        "word": "prawn",
+        "pos": "Noun",
+        "def": "A marine crustacean which resembles a large shrimp.",
+        "alter": "nan"
+    },
+    {
+        "word": "prefect",
+        "pos": "Noun",
+        "def": "A chief officer, magistrate, or regional governor.",
+        "alter": "nan"
+    },
+    {
+        "word": "prefer",
+        "pos": "Verb",
+        "def": "Like one thing or person better than another.",
+        "alter": "nan"
+    },
+    {
+        "word": "preposition",
+        "pos": "Noun",
+        "def": "A word governing, and usually preceding, a noun.",
+        "alter": "nan"
+    },
+    {
+        "word": "presentation",
+        "pos": "Noun",
+        "def": "The giving of something to someone.",
+        "alter": "nan"
+    },
+    {
+        "word": "press",
+        "pos": "Verb",
+        "def": "Apply steady force to something.",
+        "alter": "nan"
+    },
+    {
+        "word": "pretend",
+        "pos": "Verb",
+        "def": "Act as if something is true when it is not.",
+        "alter": "nan"
+    },
+    {
+        "word": "prevent",
+        "pos": "Verb",
+        "def": "Keep something from happening.",
+        "alter": "nan"
+    },
+    {
+        "word": "principal",
+        "pos": "Adjective",
+        "def": "First in order of importance; main.",
+        "alter": "nan"
+    },
+    {
+        "word": "print",
+        "pos": "Verb",
+        "def": "Produce books or newspapers by a mechanical process.",
+        "alter": "nan"
+    },
+    {
+        "word": "prison",
+        "pos": "Noun",
+        "def": "A building where people are legally held as punishment.",
+        "alter": "nan"
+    },
+    {
+        "word": "prisoner",
+        "pos": "Noun",
+        "def": "A person legally held in a facility as punishment.",
+        "alter": "nan"
+    },
+    {
+        "word": "private",
+        "pos": "Adjective",
+        "def": "Belonging to or for the use of one person.",
+        "alter": "nan"
+    },
+    {
+        "word": "programme",
+        "pos": "Noun",
+        "def": "A planned series of future events, items, or performances.",
+        "alter": "program"
+    },
+    {
+        "word": "promise",
+        "pos": "Verb",
+        "def": "Assure someone that one will definitely do something.",
+        "alter": "nan"
+    },
+    {
+        "word": "pronoun",
+        "pos": "Noun",
+        "def": "A word that replaces a noun in a sentence.",
+        "alter": "nan"
+    },
+    {
+        "word": "pronounce",
+        "pos": "Verb",
+        "def": "Make the sound of a word.",
+        "alter": "nan"
+    },
+    {
+        "word": "properly",
+        "pos": "Adverb",
+        "def": "Correctly or satisfactorily.",
+        "alter": "nan"
+    },
+    {
+        "word": "protect",
+        "pos": "Verb",
+        "def": "Keep safe from harm or injury.",
+        "alter": "nan"
+    },
+    {
+        "word": "provide",
+        "pos": "Verb",
+        "def": "Make available for use; supply.",
+        "alter": "nan"
+    },
+    {
+        "word": "pudding",
+        "pos": "Noun",
+        "def": "A cooked sweet dish served after the main course.",
+        "alter": "nan"
+    },
+    {
+        "word": "pumpkin",
+        "pos": "Noun",
+        "def": "A large rounded orange-yellow fruit with a thick rind.",
+        "alter": "nan"
+    },
+    {
+        "word": "punctual",
+        "pos": "Adjective",
+        "def": "Doing something at the agreed or proper time.",
+        "alter": "nan"
+    },
+    {
+        "word": "puppet",
+        "pos": "Noun",
+        "def": "A movable model of a person or animal.",
+        "alter": "nan"
+    },
+    {
+        "word": "purpose",
+        "pos": "Noun",
+        "def": "The reason for which something is done or created.",
+        "alter": "nan"
+    },
+    {
+        "word": "purse",
+        "pos": "Noun",
+        "def": "A small pouch used for carrying money.",
+        "alter": "nan"
+    },
+    {
+        "word": "puzzled",
+        "pos": "Adjective",
+        "def": "Unable to understand; perplexed.",
+        "alter": "nan"
+    },
+    {
+        "word": "pyjamas",
+        "pos": "Noun",
+        "def": "Loose-fitting garments worn for sleep.",
+        "alter": "nan"
+    },
+    {
+        "word": "pyramid",
+        "pos": "Noun",
+        "def": "A monumental structure with a square base and triangular sides.",
+        "alter": "nan"
+    },
+    {
+        "word": "quarrel",
+        "pos": "Noun",
+        "def": "An angry argument or disagreement.",
+        "alter": "nan"
+    },
+    {
+        "word": "queue",
+        "pos": "Noun",
+        "def": "A line or sequence of people awaiting their turn.",
+        "alter": "nan"
+    },
+    {
+        "word": "quiz",
+        "pos": "Noun",
+        "def": "A test of knowledge, especially as a competition.",
+        "alter": "nan"
+    },
+    {
+        "word": "quotation",
+        "pos": "Noun",
+        "def": "A group of words taken from a text or speech.",
+        "alter": "nan"
+    },
+    {
+        "word": "race",
+        "pos": "Noun",
+        "def": "A competition between runners, horses, vehicles, etc.",
+        "alter": "nan"
+    },
+    {
+        "word": "racket",
+        "pos": "Noun",
+        "def": "A type of bat with a round or oval frame.",
+        "alter": "nan"
+    },
+    {
+        "word": "railway",
+        "pos": "Noun",
+        "def": "A track made of steel bars along which trains run.",
+        "alter": "nan"
+    },
+    {
+        "word": "raise",
+        "pos": "Verb",
+        "def": "To lift or move to a higher position or level.",
+        "alter": "nan"
+    },
+    {
+        "word": "rather",
+        "pos": "Adverb",
+        "def": "To a certain or significant extent or degree.",
+        "alter": "nan"
+    },
+    {
+        "word": "reach",
+        "pos": "Verb",
+        "def": "To stretch out an arm in a specified direction.",
+        "alter": "nan"
+    },
+    {
+        "word": "real",
+        "pos": "Adjective",
+        "def": "Actually existing as a thing or occurring in fact.",
+        "alter": "nan"
+    },
+    {
+        "word": "reason",
+        "pos": "Noun",
+        "def": "A cause, explanation, or justification for an action or event.",
+        "alter": "nan"
+    },
+    {
+        "word": "receive",
+        "pos": "Verb",
+        "def": "To be given, presented with, or paid something.",
+        "alter": "nan"
+    },
+    {
+        "word": "recently",
+        "pos": "Adverb",
+        "def": "At a time not long ago.",
+        "alter": "nan"
+    },
+    {
+        "word": "recipe",
+        "pos": "Noun",
+        "def": "A set of instructions for preparing a particular dish.",
+        "alter": "nan"
+    },
+    {
+        "word": "recommend",
+        "pos": "Verb",
+        "def": "To put forward with approval as being suitable.",
+        "alter": "nan"
+    },
+    {
+        "word": "record",
+        "pos": "Noun",
+        "def": "A thing constituting a piece of evidence about the past.",
+        "alter": "nan"
+    },
+    {
+        "word": "recorder",
+        "pos": "Noun",
+        "def": "An apparatus for capturing sound, pictures, or data.",
+        "alter": "nan"
+    },
+    {
+        "word": "recycle",
+        "pos": "Verb",
+        "def": "To convert waste into reusable material.",
+        "alter": "nan"
+    },
+    {
+        "word": "reduce",
+        "pos": "Verb",
+        "def": "To make smaller or less in amount, degree, or size.",
+        "alter": "nan"
+    },
+    {
+        "word": "refer",
+        "pos": "Verb",
+        "def": "To mention or allude to.",
+        "alter": "nan"
+    },
+    {
+        "word": "refrigerator",
+        "pos": "Noun",
+        "def": "An appliance or compartment which is artificially kept cool.",
+        "alter": "nan"
+    },
+    {
+        "word": "refuse",
+        "pos": "Verb",
+        "def": "To indicate that one is not willing to do something.",
+        "alter": "nan"
+    },
+    {
+        "word": "rehearsal",
+        "pos": "Noun",
+        "def": "A practice or trial performance of a play.",
+        "alter": "nan"
+    },
+    {
+        "word": "relationship",
+        "pos": "Noun",
+        "def": "The way in which two or more people are connected.",
+        "alter": "nan"
+    },
+    {
+        "word": "relative",
+        "pos": "Noun",
+        "def": "A person connected by blood or marriage.",
+        "alter": "nan"
+    },
+    {
+        "word": "relax",
+        "pos": "Verb",
+        "def": "To make or become less tense or anxious.",
+        "alter": "nan"
+    },
+    {
+        "word": "relaxed",
+        "pos": "Adjective",
+        "def": "Free from tension and anxiety; at ease.",
+        "alter": "nan"
+    },
+    {
+        "word": "remind",
+        "pos": "Verb",
+        "def": "To cause someone to think of something.",
+        "alter": "nan"
+    },
+    {
+        "word": "rent",
+        "pos": "Noun",
+        "def": "Money paid for the use of property.",
+        "alter": "nan"
+    },
+    {
+        "word": "repair",
+        "pos": "Verb",
+        "def": "To fix something that is broken.",
+        "alter": "nan"
+    },
+    {
+        "word": "reply",
+        "pos": "Verb",
+        "def": "To say or write an answer.",
+        "alter": "nan"
+    },
+    {
+        "word": "reporter",
+        "pos": "Noun",
+        "def": "A person who writes news for a newspaper.",
+        "alter": "nan"
+    },
+    {
+        "word": "rescue",
+        "pos": "Verb",
+        "def": "To save someone from a dangerous situation.",
+        "alter": "nan"
+    },
+    {
+        "word": "reservoir",
+        "pos": "Noun",
+        "def": "A large natural or artificial lake for water supply.",
+        "alter": "nan"
+    },
+    {
+        "word": "respect",
+        "pos": "Noun",
+        "def": "A feeling of deep admiration for someone.",
+        "alter": "nan"
+    },
+    {
+        "word": "responsible",
+        "pos": "Adjective",
+        "def": "Having an obligation to do something.",
+        "alter": "nan"
+    },
+    {
+        "word": "revise",
+        "pos": "Verb",
+        "def": "To re-examine and make alterations to a text.",
+        "alter": "nan"
+    },
+    {
+        "word": "revision",
+        "pos": "Noun",
+        "def": "The action of making alterations to a text.",
+        "alter": "nan"
+    },
+    {
+        "word": "rise",
+        "pos": "Verb",
+        "def": "To move from a lower to a higher position.",
+        "alter": "nan"
+    },
+    {
+        "word": "roar",
+        "pos": "Noun",
+        "def": "A full, deep, prolonged cry uttered by a lion.",
+        "alter": "nan"
+    },
+    {
+        "word": "roast",
+        "pos": "Verb",
+        "def": "To cook food by prolonged exposure to heat.",
+        "alter": "nan"
+    },
+    {
+        "word": "rob",
+        "pos": "Verb",
+        "def": "To take property unlawfully from a person or place.",
+        "alter": "nan"
+    },
+    {
+        "word": "robber",
+        "pos": "Noun",
+        "def": "A person who takes property unlawfully.",
+        "alter": "nan"
+    },
+    {
+        "word": "rocket",
+        "pos": "Noun",
+        "def": "A cylindrical projectile propelled to a great height.",
+        "alter": "nan"
+    },
+    {
+        "word": "roll",
+        "pos": "Verb",
+        "def": "To move in a particular direction by turning over.",
+        "alter": "nan"
+    },
+    {
+        "word": "roof",
+        "pos": "Noun",
+        "def": "The structure forming the upper covering of a building.",
+        "alter": "nan"
+    },
+    {
+        "word": "root",
+        "pos": "Noun",
+        "def": "The part of a plant attaching it to the ground.",
+        "alter": "nan"
+    },
+    {
+        "word": "rope",
+        "pos": "Noun",
+        "def": "A length of strong cord made by twisting strands.",
+        "alter": "nan"
+    },
+    {
+        "word": "rose",
+        "pos": "Noun",
+        "def": "A prickly bush bearing red, pink, or white flowers.",
+        "alter": "nan"
+    },
+    {
+        "word": "rotten",
+        "pos": "Adjective",
+        "def": "Suffering from decay.",
+        "alter": "nan"
+    },
+    {
+        "word": "rough",
+        "pos": "Adjective",
+        "def": "Having an uneven or irregular surface; not smooth.",
+        "alter": "nan"
+    },
+    {
+        "word": "rub",
+        "pos": "Verb",
+        "def": "To apply firm pressure to the surface of something.",
+        "alter": "nan"
+    },
+    {
+        "word": "rude",
+        "pos": "Adjective",
+        "def": "Offensively impolite or ill-mannered.",
+        "alter": "nan"
+    },
+    {
+        "word": "rush",
+        "pos": "Verb",
+        "def": "To move with urgent haste.",
+        "alter": "nan"
+    },
+    {
+        "word": "sail",
+        "pos": "Noun",
+        "def": "A piece of material on a mast catching wind.",
+        "alter": "nan"
+    },
+    {
+        "word": "sailor",
+        "pos": "Noun",
+        "def": "A crew member of a commercial or naval ship.",
+        "alter": "nan"
+    },
+    {
+        "word": "sale",
+        "pos": "Noun",
+        "def": "The exchange of a commodity for money.",
+        "alter": "nan"
+    },
+    {
+        "word": "salesman",
+        "pos": "Noun",
+        "def": "A man whose job involves promoting commercial products.",
+        "alter": "nan"
+    },
+    {
+        "word": "saleswoman",
+        "pos": "Noun",
+        "def": "A woman whose job involves promoting commercial products.",
+        "alter": "nan"
+    },
+    {
+        "word": "salmon",
+        "pos": "Noun",
+        "def": "A large edible fish popular as a game fish.",
+        "alter": "nan"
+    },
+    {
+        "word": "sandal",
+        "pos": "Noun",
+        "def": "A light shoe with straps attaching sole to foot.",
+        "alter": "nan"
+    },
+    {
+        "word": "sauce",
+        "pos": "Noun",
+        "def": "A thick liquid served with food.",
+        "alter": "nan"
+    },
+    {
+        "word": "saucepan",
+        "pos": "Noun",
+        "def": "A deep cooking pan with a handle.",
+        "alter": "nan"
+    },
+    {
+        "word": "save",
+        "pos": "Verb",
+        "def": "To keep safe or rescue from harm.",
+        "alter": "nan"
+    },
+    {
+        "word": "scar",
+        "pos": "Noun",
+        "def": "A mark left on the skin after injury.",
+        "alter": "nan"
+    },
+    {
+        "word": "scared",
+        "pos": "Adjective",
+        "def": "Fearful or frightened.",
+        "alter": "nan"
+    },
+    {
+        "word": "scary",
+        "pos": "Adjective",
+        "def": "Frightening or causing fear.",
+        "alter": "nan"
+    },
+    {
+        "word": "scene",
+        "pos": "Noun",
+        "def": "The place where an incident occurs.",
+        "alter": "nan"
+    },
+    {
+        "word": "scenery",
+        "pos": "Noun",
+        "def": "The natural features of a landscape.",
+        "alter": "nan"
+    },
+    {
+        "word": "scenic",
+        "pos": "Adjective",
+        "def": "Providing beautiful views of nature.",
+        "alter": "nan"
+    },
+    {
+        "word": "schoolwork",
+        "pos": "Noun",
+        "def": "Tasks assigned to students.",
+        "alter": "nan"
+    },
+    {
+        "word": "scold",
+        "pos": "Verb",
+        "def": "To rebuke someone angrily.",
+        "alter": "nan"
+    },
+    {
+        "word": "score",
+        "pos": "Noun",
+        "def": "The number of points achieved in a game.",
+        "alter": "nan"
+    },
+    {
+        "word": "scream",
+        "pos": "Verb",
+        "def": "To give a long, loud, piercing cry.",
+        "alter": "nan"
+    },
+    {
+        "word": "screen",
+        "pos": "Noun",
+        "def": "A flat surface displaying visual output.",
+        "alter": "nan"
+    },
+    {
+        "word": "seafood",
+        "pos": "Noun",
+        "def": "Edible aquatic animals.",
+        "alter": "nan"
+    },
+    {
+        "word": "seal",
+        "pos": "Noun",
+        "def": "A marine mammal with flippers.",
+        "alter": "nan"
+    },
+    {
+        "word": "sealion",
+        "pos": "Noun",
+        "def": "A large eared seal.",
+        "alter": "nan"
+    },
+    {
+        "word": "search",
+        "pos": "Verb",
+        "def": "To look for something carefully.",
+        "alter": "nan"
+    },
+    {
+        "word": "secondary",
+        "pos": "Adjective",
+        "def": "Coming after or less important than the primary.",
+        "alter": "nan"
+    },
+    {
+        "word": "secret",
+        "pos": "Noun",
+        "def": "Something kept hidden from others.",
+        "alter": "nan"
+    },
+    {
+        "word": "secretary",
+        "pos": "Noun",
+        "def": "An official handling correspondence and records.",
+        "alter": "nan"
+    },
+    {
+        "word": "section",
+        "pos": "Noun",
+        "def": "A distinct part of something.",
+        "alter": "nan"
+    },
+    {
+        "word": "seed",
+        "pos": "Noun",
+        "def": "The unit of reproduction of a flowering plant.",
+        "alter": "nan"
+    },
+    {
+        "word": "seldom",
+        "pos": "Adverb",
+        "def": "Not often; rarely.",
+        "alter": "nan"
+    },
+    {
+        "word": "selfish",
+        "pos": "Adjective",
+        "def": "Lacking consideration for others.",
+        "alter": "nan"
+    },
+    {
+        "word": "separate",
+        "pos": "Adjective",
+        "def": "Forming or viewed as a distinct unit.",
+        "alter": "nan"
+    },
+    {
+        "word": "serious",
+        "pos": "Adjective",
+        "def": "Demanding careful consideration or application.",
+        "alter": "nan"
+    },
+    {
+        "word": "servant",
+        "pos": "Noun",
+        "def": "A person performing duties for others.",
+        "alter": "nan"
+    },
+    {
+        "word": "serve",
+        "pos": "Verb",
+        "def": "To perform duties for another person.",
+        "alter": "nan"
+    },
+    {
+        "word": "set",
+        "pos": "Verb",
+        "def": "To put or bring into a specified state.",
+        "alter": "nan"
+    },
+    {
+        "word": "setting",
+        "pos": "Noun",
+        "def": "The place or type of surroundings.",
+        "alter": "nan"
+    },
+    {
+        "word": "settle",
+        "pos": "Verb",
+        "def": "To resolve or reach an agreement.",
+        "alter": "nan"
+    },
+    {
+        "word": "several",
+        "pos": "Adjective",
+        "def": "More than two but not many.",
+        "alter": "nan"
+    },
+    {
+        "word": "sew",
+        "pos": "Verb",
+        "def": "To join or repair by making stitches.",
+        "alter": "nan"
+    },
+    {
+        "word": "shade",
+        "pos": "Noun",
+        "def": "Comparative darkness and coolness.",
+        "alter": "nan"
+    },
+    {
+        "word": "shadow",
+        "pos": "Noun",
+        "def": "A dark area produced by a body blocking light.",
+        "alter": "nan"
+    },
+    {
+        "word": "shallow",
+        "pos": "Adjective",
+        "def": "Of little depth.",
+        "alter": "nan"
+    },
+    {
+        "word": "shampoo",
+        "pos": "Noun",
+        "def": "A liquid preparation for washing the hair.",
+        "alter": "nan"
+    },
+    {
+        "word": "shark",
+        "pos": "Noun",
+        "def": "A large marine fish with sharp teeth.",
+        "alter": "nan"
+    },
+    {
+        "word": "sharp",
+        "pos": "Adjective",
+        "def": "Having an edge or point able to cut.",
+        "alter": "nan"
+    },
+    {
+        "word": "sharpener",
+        "pos": "Noun",
+        "def": "A device for making things sharp.",
+        "alter": "nan"
+    },
+    {
+        "word": "sheet",
+        "pos": "Noun",
+        "def": "A large piece of thin material.",
+        "alter": "nan"
+    },
+    {
+        "word": "shocked",
+        "pos": "Adjective",
+        "def": "Surprised and upset.",
+        "alter": "nan"
+    },
+    {
+        "word": "shoelace",
+        "pos": "Noun",
+        "def": "A cord used to tie a shoe.",
+        "alter": "nan"
+    },
+    {
+        "word": "shoemaker",
+        "pos": "Noun",
+        "def": "A person who makes footwear.",
+        "alter": "nan"
+    },
+    {
+        "word": "shoot",
+        "pos": "Verb",
+        "def": "To kill or wound with a bullet.",
+        "alter": "nan"
+    },
+    {
+        "word": "should",
+        "pos": "Verb",
+        "def": "Used to indicate obligation or duty.",
+        "alter": "nan"
+    },
+    {
+        "word": "shrimp",
+        "pos": "Noun",
+        "def": "A small free-swimming crustacean.",
+        "alter": "nan"
+    },
+    {
+        "word": "shy",
+        "pos": "Adjective",
+        "def": "Being reserved or having or showing nervousness.",
+        "alter": "nan"
+    },
+    {
+        "word": "sightseeing",
+        "pos": "Noun",
+        "def": "The activity of visiting places of interest in a particular location.",
+        "alter": "nan"
+    },
+    {
+        "word": "signal",
+        "pos": "Noun",
+        "def": "A gesture, action, or sound that is used to convey information or instructions.",
+        "alter": "nan"
+    },
+    {
+        "word": "signature",
+        "pos": "Noun",
+        "def": "A person's name written in a distinctive way as a form of identification.",
+        "alter": "nan"
+    },
+    {
+        "word": "silence",
+        "pos": "Noun",
+        "def": "Complete absence of sound.",
+        "alter": "nan"
+    },
+    {
+        "word": "silent",
+        "pos": "Adjective",
+        "def": "Not making or accompanied by any sound.",
+        "alter": "nan"
+    },
+    {
+        "word": "silk",
+        "pos": "Noun",
+        "def": "A fine, strong, soft lustrous fibre produced by silkworms in making cocoons and collected to make thread and fabric.",
+        "alter": "nan"
+    },
+    {
+        "word": "since",
+        "pos": "Preposition",
+        "def": "In the intervening period between (the time mentioned) and the time under consideration.",
+        "alter": "nan"
+    },
+    {
+        "word": "sincerely",
+        "pos": "Adverb",
+        "def": "In a sincere way.",
+        "alter": "nan"
+    },
+    {
+        "word": "single",
+        "pos": "Adjective",
+        "def": "Only one; not one of several.",
+        "alter": "nan"
+    },
+    {
+        "word": "singular",
+        "pos": "Adjective",
+        "def": "Exceptionally good or great; remarkable.",
+        "alter": "nan"
+    },
+    {
+        "word": "sink",
+        "pos": "Verb",
+        "def": "Go down below the surface of something, especially of a liquid; become submerged.",
+        "alter": "nan"
+    },
+    {
+        "word": "skate",
+        "pos": "Verb",
+        "def": "Move on ice skates or roller skates in a gliding fashion.",
+        "alter": "nan"
+    },
+    {
+        "word": "skating",
+        "pos": "Noun",
+        "def": "The action or activity of gliding on ice skates or roller skates as a sport or pastime.",
+        "alter": "nan"
+    },
+    {
+        "word": "skin",
+        "pos": "Noun",
+        "def": "The thin layer of tissue forming the natural outer covering of the body of a person or animal.",
+        "alter": "nan"
+    },
+    {
+        "word": "skinny",
+        "pos": "Adjective",
+        "def": "Unattractively thin.",
+        "alter": "nan"
+    },
+    {
+        "word": "sleeve",
+        "pos": "Noun",
+        "def": "The part of a garment that wholly or partly covers a person's arm.",
+        "alter": "nan"
+    },
+    {
+        "word": "slice",
+        "pos": "Noun",
+        "def": "A thin, broad piece of food, such as bread, meat, or cake, cut from a larger portion.",
+        "alter": "nan"
+    },
+    {
+        "word": "slip",
+        "pos": "Verb",
+        "def": "Lose one's footing and slide unintentionally for a short distance.",
+        "alter": "nan"
+    },
+    {
+        "word": "slipper",
+        "pos": "Noun",
+        "def": "A comfortable slip-on shoe that is worn indoors.",
+        "alter": "nan"
+    },
+    {
+        "word": "slippery",
+        "pos": "Adjective",
+        "def": "Difficult to hold firmly or stand on because it is smooth, wet, or slimy.",
+        "alter": "nan"
+    },
+    {
+        "word": "smart",
+        "pos": "Adjective",
+        "def": "Having or showing a quick-witted intelligence.",
+        "alter": "nan"
+    },
+    {
+        "word": "smoke",
+        "pos": "Noun",
+        "def": "A visible suspension of carbon or other particles in air, typically one emitted from a burning substance.",
+        "alter": "nan"
+    },
+    {
+        "word": "smoked",
+        "pos": "Adjective",
+        "def": "(of food) cured or preserved by exposure to smoke.",
+        "alter": "nan"
+    },
+    {
+        "word": "smooth",
+        "pos": "Adjective",
+        "def": "Having an even and regular surface; free from perceptible projections, lumps, or indentations.",
+        "alter": "nan"
+    },
+    {
+        "word": "snail",
+        "pos": "Noun",
+        "def": "A slow-moving mollusc with a spiral shell into which it can withdraw its whole body.",
+        "alter": "nan"
+    },
+    {
+        "word": "sneeze",
+        "pos": "Verb",
+        "def": "Make a sudden involuntary expulsion of air from the nose and mouth due to irritation of one's nostrils.",
+        "alter": "nan"
+    },
+    {
+        "word": "snore",
+        "pos": "Verb",
+        "def": "Breathe with a snorting or grunting sound while asleep.",
+        "alter": "nan"
+    },
+    {
+        "word": "socket",
+        "pos": "Noun",
+        "def": "A natural or artificial hollow into which something fits or in which something revolves.",
+        "alter": "nan"
+    },
+    {
+        "word": "soldier",
+        "pos": "Noun",
+        "def": "A person who serves in an army.",
+        "alter": "nan"
+    },
+    {
+        "word": "solve",
+        "pos": "Verb",
+        "def": "Find an answer to, explanation for, or means of effectively dealing with (a problem or mystery).",
+        "alter": "nan"
+    },
+    {
+        "word": "somebody",
+        "pos": "Pronoun",
+        "def": "Some person; someone.",
+        "alter": "nan"
+    },
+    {
+        "word": "someone",
+        "pos": "Pronoun",
+        "def": "An unknown or unspecified person; some person.",
+        "alter": "nan"
+    },
+    {
+        "word": "something",
+        "pos": "Pronoun",
+        "def": "A thing that is unspecified or unknown.",
+        "alter": "nan"
+    },
+    {
+        "word": "sometimes",
+        "pos": "Adverb",
+        "def": "Occasionally, rather than all of the time.",
+        "alter": "nan"
+    },
+    {
+        "word": "sore",
+        "pos": "Adjective",
+        "def": "(of a part of one's body) painful or aching.",
+        "alter": "nan"
+    },
+    {
+        "word": "sort",
+        "pos": "Noun",
+        "def": "A category of things or people with a common feature; a type.",
+        "alter": "nan"
+    },
+    {
+        "word": "sour",
+        "pos": "Adjective",
+        "def": "Having an acid taste like lemon or vinegar.",
+        "alter": "nan"
+    },
+    {
+        "word": "south",
+        "pos": "Noun",
+        "def": "The direction towards the point of the horizon 90 degrees clockwise from east.",
+        "alter": "nan"
+    },
+    {
+        "word": "souvenir",
+        "pos": "Noun",
+        "def": "A thing that is kept as a reminder of a person, place, or event.",
+        "alter": "nan"
+    },
+    {
+        "word": "sow",
+        "pos": "Verb",
+        "def": "Plant (seed) by scattering it on or in the earth.",
+        "alter": "nan"
+    },
+    {
+        "word": "soya",
+        "pos": "Noun",
+        "def": "A plant of the pea family, widely cultivated for its edible seeds.",
+        "alter": "nan"
+    },
+    {
+        "word": "spaceship",
+        "pos": "Noun",
+        "def": "A spacecraft, especially one controlled by a crew.",
+        "alter": "nan"
+    },
+    {
+        "word": "spade",
+        "pos": "Noun",
+        "def": "A tool with a sharp-edged, typically rectangular, metal blade and a long handle.",
+        "alter": "nan"
+    },
+    {
+        "word": "spaghetti",
+        "pos": "Noun",
+        "def": "Pasta made in solid strings, between macaroni and vermicelli in thickness.",
+        "alter": "nan"
+    },
+    {
+        "word": "spare",
+        "pos": "Adjective",
+        "def": "Additional to what is required for ordinary use.",
+        "alter": "nan"
+    },
+    {
+        "word": "special",
+        "pos": "Adjective",
+        "def": "Better, greater, or otherwise different from what is usual.",
+        "alter": "nan"
+    },
+    {
+        "word": "speech",
+        "pos": "Noun",
+        "def": "The expression of or the ability to express thoughts and feelings by articulate sounds.",
+        "alter": "nan"
+    },
+    {
+        "word": "spicy",
+        "pos": "Adjective",
+        "def": "Flavored with or fragrant with spices.",
+        "alter": "nan"
+    },
+    {
+        "word": "spider",
+        "pos": "Noun",
+        "def": "An eight-legged predatory arachnid.",
+        "alter": "nan"
+    },
+    {
+        "word": "spill",
+        "pos": "Verb",
+        "def": "Cause or allow liquid to flow over the edge.",
+        "alter": "nan"
+    },
+    {
+        "word": "spit",
+        "pos": "Verb",
+        "def": "Eject saliva forcibly from one's mouth.",
+        "alter": "nan"
+    },
+    {
+        "word": "splash",
+        "pos": "Verb",
+        "def": "Strike or propel liquid.",
+        "alter": "nan"
+    },
+    {
+        "word": "spoonful",
+        "pos": "Noun",
+        "def": "As much as a spoon can hold.",
+        "alter": "nan"
+    },
+    {
+        "word": "spot",
+        "pos": "Noun",
+        "def": "A small round or roundish mark.",
+        "alter": "nan"
+    },
+    {
+        "word": "spotted",
+        "pos": "Adjective",
+        "def": "Marked or decorated with spots.",
+        "alter": "nan"
+    },
+    {
+        "word": "spray",
+        "pos": "Noun",
+        "def": "Liquid that is blown or driven through the air.",
+        "alter": "nan"
+    },
+    {
+        "word": "spread",
+        "pos": "Verb",
+        "def": "Open out so as to extend its surface area.",
+        "alter": "nan"
+    },
+    {
+        "word": "squirrel",
+        "pos": "Noun",
+        "def": "An agile tree-dwelling rodent with a bushy tail.",
+        "alter": "nan"
+    },
+    {
+        "word": "staff",
+        "pos": "Noun",
+        "def": "All the people employed by a particular organization.",
+        "alter": "nan"
+    },
+    {
+        "word": "stage",
+        "pos": "Noun",
+        "def": "A point, period, or step in a process or development.",
+        "alter": "nan"
+    },
+    {
+        "word": "stair",
+        "pos": "Noun",
+        "def": "A set of steps leading from one floor to another.",
+        "alter": "nan"
+    },
+    {
+        "word": "stall",
+        "pos": "Noun",
+        "def": "A stand, booth, or compartment for the sale of goods.",
+        "alter": "nan"
+    },
+    {
+        "word": "staple",
+        "pos": "Noun",
+        "def": "A piece of bent metal or wire pushed through paper.",
+        "alter": "nan"
+    },
+    {
+        "word": "stapler",
+        "pos": "Noun",
+        "def": "A device for fastening together sheets of paper.",
+        "alter": "nan"
+    },
+    {
+        "word": "starfish",
+        "pos": "Noun",
+        "def": "A marine echinoderm with five or more radiating arms.",
+        "alter": "nan"
+    },
+    {
+        "word": "steak",
+        "pos": "Noun",
+        "def": "High-quality beef taken from the hindquarters of the animal.",
+        "alter": "nan"
+    },
+    {
+        "word": "steal",
+        "pos": "Verb",
+        "def": "Take another person's property without permission.",
+        "alter": "nan"
+    },
+    {
+        "word": "steam",
+        "pos": "Noun",
+        "def": "The vapor into which water is converted when heated.",
+        "alter": "nan"
+    },
+    {
+        "word": "steamed",
+        "pos": "Adjective",
+        "def": "Cooked by steam.",
+        "alter": "nan"
+    },
+    {
+        "word": "sting",
+        "pos": "Verb",
+        "def": "Pierce or wound painfully with a sharp-pointed structure.",
+        "alter": "nan"
+    },
+    {
+        "word": "stir",
+        "pos": "Verb",
+        "def": "Move a spoon or other implement around in a liquid.",
+        "alter": "nan"
+    },
+    {
+        "word": "stomachache",
+        "pos": "Noun",
+        "def": "A pain in a person's belly.",
+        "alter": "nan"
+    },
+    {
+        "word": "stool",
+        "pos": "Noun",
+        "def": "A seat without a back or arms.",
+        "alter": "nan"
+    },
+    {
+        "word": "storm",
+        "pos": "Noun",
+        "def": "A violent disturbance of the atmosphere with strong winds.",
+        "alter": "nan"
+    },
+    {
+        "word": "stormy",
+        "pos": "Adjective",
+        "def": "Affected by a storm.",
+        "alter": "nan"
+    },
+    {
+        "word": "stove",
+        "pos": "Noun",
+        "def": "An apparatus for cooking or heating.",
+        "alter": "nan"
+    },
+    {
+        "word": "strange",
+        "pos": "Adjective",
+        "def": "Unusual or surprising in a way that is hard to understand.",
+        "alter": "nan"
+    },
+    {
+        "word": "stranger",
+        "pos": "Noun",
+        "def": "A person whom one does not know.",
+        "alter": "nan"
+    },
+    {
+        "word": "straw",
+        "pos": "Noun",
+        "def": "Dried stalks of grain, used especially as fodder.",
+        "alter": "nan"
+    },
+    {
+        "word": "strawberry",
+        "pos": "Noun",
+        "def": "A sweet fleshy red fruit.",
+        "alter": "nan"
+    },
+    {
+        "word": "stretch",
+        "pos": "Verb",
+        "def": "Be made or be capable of being made longer or wider.",
+        "alter": "nan"
+    },
+    {
+        "word": "string",
+        "pos": "Noun",
+        "def": "Material consisting of threads of cotton, hemp, or other material.",
+        "alter": "nan"
+    },
+    {
+        "word": "stripe",
+        "pos": "Noun",
+        "def": "A long narrow band or mark, differing in color.",
+        "alter": "nan"
+    },
+    {
+        "word": "striped",
+        "pos": "Adjective",
+        "def": "Marked with or having stripes.",
+        "alter": "nan"
+    },
+    {
+        "word": "stupid",
+        "pos": "Adjective",
+        "def": "Having or showing a great lack of intelligence or common sense.",
+        "alter": "nan"
+    },
+    {
+        "word": "subway",
+        "pos": "Noun",
+        "def": "An underground electric railroad.",
+        "alter": "nan"
+    },
+    {
+        "word": "succeed",
+        "pos": "Verb",
+        "def": "Achieve the desired aim or result.",
+        "alter": "nan"
+    },
+    {
+        "word": "success",
+        "pos": "Noun",
+        "def": "The accomplishment of an aim or purpose.",
+        "alter": "nan"
+    },
+    {
+        "word": "successful",
+        "pos": "Adjective",
+        "def": "Accomplishing an aim or purpose.",
+        "alter": "nan"
+    },
+    {
+        "word": "suddenly",
+        "pos": "Adverb",
+        "def": "Quickly and unexpectedly.",
+        "alter": "nan"
+    },
+    {
+        "word": "suggest",
+        "pos": "Verb",
+        "def": "Put forward for consideration.",
+        "alter": "nan"
+    },
+    {
+        "word": "suggestion",
+        "pos": "Noun",
+        "def": "An idea or plan put forward for consideration.",
+        "alter": "nan"
+    },
+    {
+        "word": "suit",
+        "pos": "Noun",
+        "def": "A set of outer clothes made of the same fabric.",
+        "alter": "nan"
+    },
+    {
+        "word": "suitable",
+        "pos": "Adjective",
+        "def": "Right or appropriate for a particular person, purpose, or situation.",
+        "alter": "nan"
+    },
+    {
+        "word": "suitcase",
+        "pos": "Noun",
+        "def": "A case with a handle and a hinged lid.",
+        "alter": "nan"
+    },
+    {
+        "word": "sundae",
+        "pos": "Noun",
+        "def": "A dish of ice cream with added ingredients.",
+        "alter": "nan"
+    },
+    {
+        "word": "sunflower",
+        "pos": "Noun",
+        "def": "A tall plant with a large yellow flower head.",
+        "alter": "nan"
+    },
+    {
+        "word": "support",
+        "pos": "Verb",
+        "def": "Bear all or part of the weight of.",
+        "alter": "nan"
+    },
+    {
+        "word": "surf",
+        "pos": "Verb",
+        "def": "Ride on a wave on a special board.",
+        "alter": "nan"
+    },
+    {
+        "word": "surface",
+        "pos": "Noun",
+        "def": "The outside part or uppermost layer of something.",
+        "alter": "nan"
+    },
+    {
+        "word": "surname",
+        "pos": "Noun",
+        "def": "A hereditary name common to all family members.",
+        "alter": "nan"
+    },
+    {
+        "word": "surprise",
+        "pos": "Noun",
+        "def": "An unexpected or astonishing event or fact.",
+        "alter": "nan"
+    },
+    {
+        "word": "surprised",
+        "pos": "Adjective",
+        "def": "Feeling or showing mild astonishment or shock.",
+        "alter": "nan"
+    },
+    {
+        "word": "surprising",
+        "pos": "Adjective",
+        "def": "Causing mild astonishment or shock.",
+        "alter": "nan"
+    },
+    {
+        "word": "survey",
+        "pos": "Verb",
+        "def": "Look carefully and thoroughly at someone or something.",
+        "alter": "nan"
+    },
+    {
+        "word": "sushi",
+        "pos": "Noun",
+        "def": "A Japanese dish consisting of small balls of cold rice.",
+        "alter": "nan"
+    },
+    {
+        "word": "swallow",
+        "pos": "Verb",
+        "def": "Cause or allow to pass down the throat.",
+        "alter": "nan"
+    },
+    {
+        "word": "swan",
+        "pos": "Noun",
+        "def": "A large waterbird with a long flexible neck.",
+        "alter": "nan"
+    },
+    {
+        "word": "sweat",
+        "pos": "Noun",
+        "def": "Moisture exuded through the pores of the skin.",
+        "alter": "nan"
+    },
+    {
+        "word": "sweater",
+        "pos": "Noun",
+        "def": "A knitted garment typically with long sleeves.",
+        "alter": "nan"
+    },
+    {
+        "word": "swimsuit",
+        "pos": "Noun",
+        "def": "A garment worn for propelling oneself through water.",
+        "alter": "nan"
+    },
+    {
+        "word": "switch",
+        "pos": "Noun",
+        "def": "A device for making and breaking an electrical circuit.",
+        "alter": "nan"
+    },
+    {
+        "word": "sword",
+        "pos": "Noun",
+        "def": "A weapon with a long metal blade.",
+        "alter": "nan"
+    },
+    {
+        "word": "tailor",
+        "pos": "Noun",
+        "def": "A person whose occupation is making fitted clothes.",
+        "alter": "nan"
+    },
+    {
+        "word": "talkative",
+        "pos": "Adjective",
+        "def": "Fond of or given to speaking.",
+        "alter": "nan"
+    },
+    {
+        "word": "tap",
+        "pos": "Noun",
+        "def": "A device by which a flow of liquid is controlled.",
+        "alter": "nan"
+    },
+    {
+        "word": "tape",
+        "pos": "Noun",
+        "def": "A narrow strip of material used to hold things together.",
+        "alter": "nan"
+    },
+    {
+        "word": "team",
+        "pos": "Noun",
+        "def": "A group of players forming one side in a game.",
+        "alter": "nan"
+    },
+    {
+        "word": "tear",
+        "pos": "Verb",
+        "def": "Pull or rip apart or to pieces with force.",
+        "alter": "nan"
+    },
+    {
+        "word": "temperature",
+        "pos": "Noun",
+        "def": "The degree or intensity of heat present in a substance.",
+        "alter": "nan"
+    },
+    {
+        "word": "temple",
+        "pos": "Noun",
+        "def": "A building devoted to the worship of a god.",
+        "alter": "nan"
+    },
+    {
+        "word": "tent",
+        "pos": "Noun",
+        "def": "A portable shelter made of cloth supported by poles.",
+        "alter": "nan"
+    },
+    {
+        "word": "terrible",
+        "pos": "Adjective",
+        "def": "Extremely or distressingly bad or serious.",
+        "alter": "nan"
+    },
+    {
+        "word": "theatre",
+        "pos": "Noun",
+        "def": "A building or outdoor area in which plays are given.",
+        "alter": "theater"
+    },
+    {
+        "word": "theirs",
+        "pos": "Pronoun",
+        "def": "Used to refer to a thing belonging to them.",
+        "alter": "nan"
+    },
+    {
+        "word": "theme",
+        "pos": "Noun",
+        "def": "The subject of a talk, a piece of writing.",
+        "alter": "nan"
+    },
+    {
+        "word": "themselves",
+        "pos": "Pronoun",
+        "def": "Used to emphasize a particular group of people.",
+        "alter": "nan"
+    },
+    {
+        "word": "therefore",
+        "pos": "Adverb",
+        "def": "For that reason; consequently.",
+        "alter": "nan"
+    },
+    {
+        "word": "thief",
+        "pos": "Noun",
+        "def": "A person who steals another person's property.",
+        "alter": "nan"
+    },
+    {
+        "word": "though",
+        "pos": "Conjunction",
+        "def": "Despite the fact that.",
+        "alter": "nan"
+    },
+    {
+        "word": "thread",
+        "pos": "Noun",
+        "def": "A long, thin strand of cotton, nylon, or other fibers used in sewing or weaving.",
+        "alter": "nan"
+    },
+    {
+        "word": "throat",
+        "pos": "Noun",
+        "def": "The passage which leads from the back of the mouth of a person or animal.",
+        "alter": "nan"
+    },
+    {
+        "word": "thunder",
+        "pos": "Noun",
+        "def": "A loud rumbling or crashing noise heard after a lightning flash.",
+        "alter": "nan"
+    },
+    {
+        "word": "ticket",
+        "pos": "Noun",
+        "def": "A piece of paper or small card that gives the holder a certain right.",
+        "alter": "nan"
+    },
+    {
+        "word": "tight",
+        "pos": "Adjective",
+        "def": "Fixed, fastened, or closed firmly; hard to move, undo, or open.",
+        "alter": "nan"
+    },
+    {
+        "word": "till",
+        "pos": "Preposition",
+        "def": "Up to the point in time or the event mentioned.",
+        "alter": "nan"
+    },
+    {
+        "word": "tin",
+        "pos": "Noun",
+        "def": "A silvery-white metal.",
+        "alter": "nan"
+    },
+    {
+        "word": "tiny",
+        "pos": "Adjective",
+        "def": "Very small.",
+        "alter": "nan"
+    },
+    {
+        "word": "toast",
+        "pos": "Noun",
+        "def": "Sliced bread browned on both sides by exposure to radiant heat.",
+        "alter": "nan"
+    },
+    {
+        "word": "toaster",
+        "pos": "Noun",
+        "def": "An electrical device for making toast.",
+        "alter": "nan"
+    },
+    {
+        "word": "tool",
+        "pos": "Noun",
+        "def": "A device or implement, especially one held in the hand.",
+        "alter": "nan"
+    },
+    {
+        "word": "toothache",
+        "pos": "Noun",
+        "def": "Pain in a tooth or teeth.",
+        "alter": "nan"
+    },
+    {
+        "word": "toothpaste",
+        "pos": "Noun",
+        "def": "A thick, soft, moist substance used on a brush for cleaning one's teeth.",
+        "alter": "nan"
+    },
+    {
+        "word": "topic",
+        "pos": "Noun",
+        "def": "A matter dealt with in a text, discourse, or conversation.",
+        "alter": "nan"
+    },
+    {
+        "word": "torch",
+        "pos": "Noun",
+        "def": "A portable battery-powered electric lamp.",
+        "alter": "nan"
+    },
+    {
+        "word": "total",
+        "pos": "Adjective",
+        "def": "Comprising the whole number or amount.",
+        "alter": "nan"
+    },
+    {
+        "word": "tour",
+        "pos": "Noun",
+        "def": "A journey for pleasure in which several different places are visited.",
+        "alter": "nan"
+    },
+    {
+        "word": "tourist",
+        "pos": "Noun",
+        "def": "A person who is traveling or visiting a place for pleasure.",
+        "alter": "nan"
+    },
+    {
+        "word": "tower",
+        "pos": "Noun",
+        "def": "A tall, narrow building, either freestanding or forming part of a building.",
+        "alter": "nan"
+    },
+    {
+        "word": "town",
+        "pos": "Noun",
+        "def": "A built-up area with a name, defined boundaries, and local government.",
+        "alter": "nan"
+    },
+    {
+        "word": "traffic",
+        "pos": "Noun",
+        "def": "Vehicles moving on a road or public highway.",
+        "alter": "nan"
+    },
+    {
+        "word": "transport",
+        "pos": "Verb",
+        "def": "Take or carry (people or goods) from one place to another.",
+        "alter": "nan"
+    },
+    {
+        "word": "trap",
+        "pos": "Noun",
+        "def": "A device or enclosure designed to catch and retain animals.",
+        "alter": "nan"
+    },
+    {
+        "word": "travel",
+        "pos": "Verb",
+        "def": "Make a journey, typically of some length or abroad.",
+        "alter": "nan"
+    },
+    {
+        "word": "tray",
+        "pos": "Noun",
+        "def": "A flat, shallow container with a raised rim, typically used for carrying food.",
+        "alter": "nan"
+    },
+    {
+        "word": "treasure",
+        "pos": "Noun",
+        "def": "A quantity of precious metals, gems, or other valuable objects.",
+        "alter": "nan"
+    },
+    {
+        "word": "treat",
+        "pos": "Verb",
+        "def": "Behave toward or deal with in a certain way.",
+        "alter": "nan"
+    },
+    {
+        "word": "trick",
+        "pos": "Noun",
+        "def": "A cunning or skillful act or scheme intended to deceive or outwit someone.",
+        "alter": "nan"
+    },
+    {
+        "word": "trip",
+        "pos": "Noun",
+        "def": "A journey or excursion, especially for pleasure.",
+        "alter": "nan"
+    },
+    {
+        "word": "trolley",
+        "pos": "Noun",
+        "def": "A large metal basket or frame on wheels, used for transporting heavy or bulky items.",
+        "alter": "nan"
+    },
+    {
+        "word": "trouble",
+        "pos": "Noun",
+        "def": "Difficulty or problems.",
+        "alter": "nan"
+    },
+    {
+        "word": "truck",
+        "pos": "Noun",
+        "def": "A large, heavy motor vehicle used for transporting goods, materials, or troops.",
+        "alter": "nan"
+    },
+    {
+        "word": "trunk",
+        "pos": "Noun",
+        "def": "The main woody stem of a tree as distinct from its branches and roots.",
+        "alter": "nan"
+    },
+    {
+        "word": "trust",
+        "pos": "Noun",
+        "def": "Firm belief in the reliability, truth, ability, or strength of someone or something.",
+        "alter": "nan"
+    },
+    {
+        "word": "tuna",
+        "pos": "Noun",
+        "def": "A large and active predatory schooling fish of the mackerel family.",
+        "alter": "nan"
+    },
+    {
+        "word": "tunnel",
+        "pos": "Noun",
+        "def": "An artificial underground passage, especially one built through a hill or under a building, road, or river.",
+        "alter": "nan"
+    },
+    {
+        "word": "turkey",
+        "pos": "Noun",
+        "def": "A large mainly domesticated game bird native to North America.",
+        "alter": "nan"
+    },
+    {
+        "word": "turnip",
+        "pos": "Noun",
+        "def": "A round root with white or cream flesh which is eaten as a vegetable.",
+        "alter": "nan"
+    },
+    {
+        "word": "turtle",
+        "pos": "Noun",
+        "def": "A slow-moving reptile with a shell.",
+        "alter": "nan"
+    },
+    {
+        "word": "twice",
+        "pos": "Adverb",
+        "def": "Two times.",
+        "alter": "nan"
+    },
+    {
+        "word": "twin",
+        "pos": "Noun",
+        "def": "One of two children or animals born at the same birth.",
+        "alter": "nan"
+    },
+    {
+        "word": "twist",
+        "pos": "Verb",
+        "def": "Form into a bent, curling, or distorted shape.",
+        "alter": "nan"
+    },
+    {
+        "word": "type",
+        "pos": "Noun",
+        "def": "A category of people or things having common characteristics.",
+        "alter": "nan"
+    },
+    {
+        "word": "typhoon",
+        "pos": "Noun",
+        "def": "A tropical storm in the region of the Indian or western Pacific oceans.",
+        "alter": "nan"
+    },
+    {
+        "word": "until",
+        "pos": "Preposition",
+        "def": "Up to the point in time or the event mentioned.",
+        "alter": "nan"
+    },
+    {
+        "word": "upset",
+        "pos": "Verb",
+        "def": "Make someone unhappy, disappointed, or worried.",
+        "alter": "nan"
+    },
+    {
+        "word": "upstairs",
+        "pos": "Adverb",
+        "def": "On or to an upper floor of a building.",
+        "alter": "nan"
+    },
+    {
+        "word": "useful",
+        "pos": "Adjective",
+        "def": "Able to be used for a practical purpose or in several ways.",
+        "alter": "nan"
+    },
+    {
+        "word": "usually",
+        "pos": "Adverb",
+        "def": "Under normal conditions; generally.",
+        "alter": "nan"
+    },
+    {
+        "word": "vacation",
+        "pos": "Noun",
+        "def": "An extended period of leisure and recreation.",
+        "alter": "nan"
+    },
+    {
+        "word": "van",
+        "pos": "Noun",
+        "def": "A medium-sized motor vehicle.",
+        "alter": "nan"
+    },
+    {
+        "word": "vase",
+        "pos": "Noun",
+        "def": "A decorative container without handles.",
+        "alter": "nan"
+    },
+    {
+        "word": "vehicle",
+        "pos": "Noun",
+        "def": "A thing used for transporting people or goods.",
+        "alter": "nan"
+    },
+    {
+        "word": "verb",
+        "pos": "Noun",
+        "def": "A word used to describe an action, state, or occurrence.",
+        "alter": "nan"
+    },
+    {
+        "word": "vest",
+        "pos": "Noun",
+        "def": "An undergarment worn on the upper part of the body.",
+        "alter": "nan"
+    },
+    {
+        "word": "video",
+        "pos": "Noun",
+        "def": "The recording, reproducing, or broadcasting of moving visual images.",
+        "alter": "nan"
+    },
+    {
+        "word": "view",
+        "pos": "Noun",
+        "def": "The ability to see something or to be seen from a particular place.",
+        "alter": "nan"
+    },
+    {
+        "word": "violin",
+        "pos": "Noun",
+        "def": "A stringed musical instrument of treble pitch.",
+        "alter": "nan"
+    },
+    {
+        "word": "vitamin",
+        "pos": "Noun",
+        "def": "Any of a group of organic compounds which are essential for normal growth.",
+        "alter": "nan"
+    },
+    {
+        "word": "volleyball",
+        "pos": "Noun",
+        "def": "A game for two teams in which a large ball is hit by hand over a high net.",
+        "alter": "nan"
+    },
+    {
+        "word": "volunteer",
+        "pos": "Noun",
+        "def": "A person who freely offers to take part in an enterprise or undertake a task.",
+        "alter": "nan"
+    },
+    {
+        "word": "vomit",
+        "pos": "Verb",
+        "def": "Eject matter from the stomach through the mouth.",
+        "alter": "nan"
+    },
+    {
+        "word": "vote",
+        "pos": "Noun",
+        "def": "A formal indication of a choice between two or more candidates or courses of action.",
+        "alter": "nan"
+    },
+    {
+        "word": "waist",
+        "pos": "Noun",
+        "def": "The part of the human body below the ribs and above the hips.",
+        "alter": "nan"
+    },
+    {
+        "word": "waiter",
+        "pos": "Noun",
+        "def": "A man whose job is to serve customers at their tables in a restaurant.",
+        "alter": "nan"
+    },
+    {
+        "word": "waitress",
+        "pos": "Noun",
+        "def": "A woman whose job is to serve customers at their tables in a restaurant.",
+        "alter": "nan"
+    },
+    {
+        "word": "wallet",
+        "pos": "Noun",
+        "def": "A pocket-sized, flat, folding holder for money and plastic cards.",
+        "alter": "nan"
+    },
+    {
+        "word": "wander",
+        "pos": "Verb",
+        "def": "Walk or move in a leisurely, casual, or aimless way.",
+        "alter": "nan"
+    },
+    {
+        "word": "wardrobe",
+        "pos": "Noun",
+        "def": "A large, tall cabinet in which clothes may be hung or stored.",
+        "alter": "nan"
+    },
+    {
+        "word": "warn",
+        "pos": "Verb",
+        "def": "Inform someone in advance of an impending or possible danger, problem, or other unpleasant situation.",
+        "alter": "nan"
+    },
+    {
+        "word": "washroom",
+        "pos": "Noun",
+        "def": "A room with washing and toilet facilities.",
+        "alter": "nan"
+    },
+    {
+        "word": "waste",
+        "pos": "Verb",
+        "def": "Use or expend carelessly, extravagantly, or to no purpose.",
+        "alter": "nan"
+    },
+    {
+        "word": "wave",
+        "pos": "Verb",
+        "def": "Move one's hand to and fro in greeting or as a signal.",
+        "alter": "nan"
+    },
+    {
+        "word": "wavy",
+        "pos": "Adjective",
+        "def": "Having a series of curves.",
+        "alter": "nan"
+    },
+    {
+        "word": "way",
+        "pos": "Noun",
+        "def": "A method, style, or manner of doing something.",
+        "alter": "nan"
+    },
+    {
+        "word": "wealthy",
+        "pos": "Adjective",
+        "def": "Having a great deal of money, resources, or assets; rich.",
+        "alter": "nan"
+    },
+    {
+        "word": "website",
+        "pos": "Noun",
+        "def": "A location connected to the Internet.",
+        "alter": "nan"
+    },
+    {
+        "word": "wedding",
+        "pos": "Noun",
+        "def": "A marriage ceremony.",
+        "alter": "nan"
+    },
+    {
+        "word": "weigh",
+        "pos": "Verb",
+        "def": "To find out how heavy something is.",
+        "alter": "nan"
+    },
+    {
+        "word": "weight",
+        "pos": "Noun",
+        "def": "A body's relative mass or the quantity of matter.",
+        "alter": "nan"
+    },
+    {
+        "word": "west",
+        "pos": "Noun",
+        "def": "The direction where the sun sets.",
+        "alter": "nan"
+    },
+    {
+        "word": "whale",
+        "pos": "Noun",
+        "def": "A very large marine mammal.",
+        "alter": "nan"
+    },
+    {
+        "word": "wheel",
+        "pos": "Noun",
+        "def": "A circular object that revolves on an axle.",
+        "alter": "nan"
+    },
+    {
+        "word": "whether",
+        "pos": "Conjunction",
+        "def": "Expressing a doubt or choice between alternatives.",
+        "alter": "nan"
+    },
+    {
+        "word": "while",
+        "pos": "Conjunction",
+        "def": "During the time that; at the same time as.",
+        "alter": "nan"
+    },
+    {
+        "word": "whisper",
+        "pos": "Verb",
+        "def": "To speak very softly using one's breath.",
+        "alter": "nan"
+    },
+    {
+        "word": "whole",
+        "pos": "Adjective",
+        "def": "All of; entire.",
+        "alter": "nan"
+    },
+    {
+        "word": "whose",
+        "pos": "Pronoun",
+        "def": "Belonging to or associated with which person.",
+        "alter": "nan"
+    },
+    {
+        "word": "wicked",
+        "pos": "Adjective",
+        "def": "Evil or morally wrong.",
+        "alter": "nan"
+    },
+    {
+        "word": "wife",
+        "pos": "Noun",
+        "def": "A married woman considered in relation to her spouse.",
+        "alter": "nan"
+    },
+    {
+        "word": "wine",
+        "pos": "Noun",
+        "def": "An alcoholic drink made from fermented grape juice.",
+        "alter": "nan"
+    },
+    {
+        "word": "wipe",
+        "pos": "Verb",
+        "def": "To clean or dry something by rubbing its surface.",
+        "alter": "nan"
+    },
+    {
+        "word": "wire",
+        "pos": "Noun",
+        "def": "Metal drawn out into the form of a thin flexible thread.",
+        "alter": "nan"
+    },
+    {
+        "word": "without",
+        "pos": "Preposition",
+        "def": "In the absence of.",
+        "alter": "nan"
+    },
+    {
+        "word": "witness",
+        "pos": "Noun",
+        "def": "A person who sees an event take place.",
+        "alter": "nan"
+    },
+    {
+        "word": "wonderful",
+        "pos": "Adjective",
+        "def": "Inspiring delight, pleasure, or admiration.",
+        "alter": "nan"
+    },
+    {
+        "word": "wool",
+        "pos": "Noun",
+        "def": "The fine soft curly or wavy hair forming the coat.",
+        "alter": "nan"
+    },
+    {
+        "word": "woollen",
+        "pos": "Adjective",
+        "def": "Made wholly or partly of wool.",
+        "alter": "nan"
+    },
+    {
+        "word": "workman",
+        "pos": "Noun",
+        "def": "A man employed to do manual labor.",
+        "alter": "nan"
+    },
+    {
+        "word": "world",
+        "pos": "Noun",
+        "def": "The earth, together with all of its countries.",
+        "alter": "nan"
+    },
+    {
+        "word": "worried",
+        "pos": "Adjective",
+        "def": "Anxious or troubled about actual or potential problems.",
+        "alter": "nan"
+    },
+    {
+        "word": "worry",
+        "pos": "Verb",
+        "def": "To give way to anxiety or unease.",
+        "alter": "nan"
+    },
+    {
+        "word": "would",
+        "pos": "Verb",
+        "def": "Past of will, in various senses.",
+        "alter": "nan"
+    },
+    {
+        "word": "wrap",
+        "pos": "Verb",
+        "def": "To enclose in a soft or flexible material.",
+        "alter": "nan"
+    },
+    {
+        "word": "wrinkle",
+        "pos": "Noun",
+        "def": "A slight line or fold in something.",
+        "alter": "nan"
+    },
+    {
+        "word": "wrist",
+        "pos": "Noun",
+        "def": "The joint connecting the hand with the forearm.",
+        "alter": "nan"
+    },
+    {
+        "word": "yawn",
+        "pos": "Verb",
+        "def": "To involuntarily open one's mouth wide and inhale deeply.",
+        "alter": "nan"
+    },
+    {
+        "word": "yell",
+        "pos": "Verb",
+        "def": "To give a loud, sharp cry.",
+        "alter": "nan"
+    },
+    {
+        "word": "yet",
+        "pos": "Adverb",
+        "def": "Up until the present or a specified or implied time.",
+        "alter": "nan"
+    },
+    {
+        "word": "yoghurt",
+        "pos": "Noun",
+        "def": "A semisolid sourish food prepared from milk.",
+        "alter": "nan"
+    },
+    {
+        "word": "yours",
+        "pos": "Pronoun",
+        "def": "Used to refer to a thing or things belonging to.",
+        "alter": "nan"
+    },
+    {
+        "word": "yourself",
+        "pos": "Pronoun",
+        "def": "Used to refer to the person being addressed.",
+        "alter": "nan"
+    },
+    {
+        "word": "zebra",
+        "pos": "Noun",
+        "def": "An African wild horse with black-and-white stripes.",
+        "alter": "nan"
+    }
+]
