@@ -60,7 +60,6 @@ python EnglishGame.py
 https://github.com/user-attachments/assets/630f17a2-54d2-48f8-9967-20cff1207d90
 
 
-
 ## Directory Structure
 
 - `requirements.txt` — Python dependency list
@@ -77,12 +76,17 @@ https://github.com/user-attachments/assets/630f17a2-54d2-48f8-9967-20cff1207d90
 
 ## Notes
 
-- The game loads word data from JSON files under `word_folder/`.
+- The game loads word data from JSON files under `word_folder/` (NOT `word_folder2 (API)/`). It is because the meaning of words generated in the latter folder are deemed inaccurate and impractical to be used.
 - `gTTS` requires an Internet connection to generate speech. If unavailable, the game will still run but pronunciation will be disabled.
 - The helper scripts use `pandas`, `requests`, and `openpyxl` to process Excel files and fetch definitions.
-- Update the `word_folder/*_words.json` files directly or use the helper scripts to add or refresh vocabulary.
+- To add or refresh vocabulary, update the `word_folder/*_words.json` files directly, or change the Excel file `word_folder/custom_wordlist.xlsx` and use the helper script `word_folder/excel_2_json.py` once.
 
 ## Attribution
 
 - The word list in this directory, `wordlist_KS1-4.xlsx`, is downloaded from the official Education Bureau website: https://www.edb.gov.hk/en/curriculum-development/kla/eng-edu/references-resources/Enhancing%20Eng%20Vocab%20at%20Sec%20Level.html
 - The image assets in `key_button_image/` are made by shohanur.rahman13 from www.flaticon.com: https://www.flaticon.com/packs/keyboard-buttons-3?word=keyboard%20button
+
+
+## Future Direction
+1. Verify the correctness of part-of-speech, meaning, and alternative spellings of vocabularies generated in `word_folder/custom_wordlist.xlsx`.
+2. Change (or provide the option to change) the hints of words from "[part of speech] Meaning" to "sentence with a blank on the word". This allows a better contextual clue, as the meaning of words often uses difficult phrases, and students can learn how to properly use the presented word on the way.
