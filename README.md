@@ -74,10 +74,10 @@ https://github.com/user-attachments/assets/9d657128-cff1-401c-b54b-e66ad1620968
 
 ## Notes
 
-- The game loads word data from JSON files under `word_folder/`.
-- `gTTS` requires an Internet connection to generate speech. If unavailable, the game will still run but pronunciation will be disabled.
+- The game loads word data from JSON files under `word_folder/`, (NOT under `word_folder2 (API)/`). It is because the meaning of words under the latter folder are deemed inaccurate and impractical to be used.
+- `gTTS` requires an Internet connection to generate pronunciation of words on the spot. If unavailable, the game will still run, but pronunciation will be disabled.
 - The helper scripts use `pandas`, `requests`, and `openpyxl` to process Excel files and fetch definitions.
-- Update the `word_folder/*_words.json` files directly or use the helper scripts to add or refresh vocabulary.
+- To add or refresh vocabulary, update the `word_folder/*_words.json` files directly, or update `word_folder/custom_wordlist.xlsx` and use the helper script `world_folder/excel_2_json.py`.
 
 ## Attribution
 

@@ -357,7 +357,7 @@ class EnglishGame:
             self.draw_text(self.typed, (60, input_box_height + 8), self.font)
 
             # Message
-            self.draw_text(self.message, (50, message_height), self.font, color=(80, 80, 80) if self.message != 'Correct!' else (0, 150, 0))
+            self.draw_text(self.message, (50, message_height), self.font, color=(80, 80, 80) if self.message.count('Correct!') == 0 else (0, 150, 0))
 
             pygame.display.flip()
             self.clock.tick(30)
