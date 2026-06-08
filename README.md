@@ -4,7 +4,7 @@ A simple English spelling practice game built with Python and Pygame.
 
 ## Overview
 
-`EnglishGame.py` presents a graphical spelling challenge where players hear a word, type it in, and receive instant feedback.
+`EnglishGame.py` presents a graphical spelling challenge where players hear a word with contextual clues shown on screen, try to type the word in, and receive instant feedback on his/her spelling.
 
 The game includes:
 - word lists for 4 difficulty levels (`KS1` to `KS4`)
@@ -64,7 +64,7 @@ https://github.com/user-attachments/assets/630f17a2-54d2-48f8-9967-20cff1207d90
 
 - `requirements.txt` — Python dependency list
 - `EnglishGame.py` — main game script
-- `wordlist_KS1-4.xlsx` — source Excel file used by helper scripts
+- `wordlist_KS1-4.xlsx` — official EDB wordlist (see attributions)
 - `app.log` — log file produced by helper scripts
 - `key_button_image/` — image assets for on-screen key hints
 - `word_folder/`
@@ -83,10 +83,10 @@ https://github.com/user-attachments/assets/630f17a2-54d2-48f8-9967-20cff1207d90
 
 ## Attribution
 
-- The word list in this directory, `wordlist_KS1-4.xlsx`, is downloaded from the official Education Bureau website: https://www.edb.gov.hk/en/curriculum-development/kla/eng-edu/references-resources/Enhancing%20Eng%20Vocab%20at%20Sec%20Level.html
+- The official EDB wordlist in this directory, `wordlist_KS1-4.xlsx`, is downloaded from the Education Bureau website: https://www.edb.gov.hk/en/curriculum-development/kla/eng-edu/references-resources/Enhancing%20Eng%20Vocab%20at%20Sec%20Level.html
 - The image assets in `key_button_image/` are made by shohanur.rahman13 from www.flaticon.com: https://www.flaticon.com/packs/keyboard-buttons-3?word=keyboard%20button
 
 
 ## Future Direction
 1. Verify the correctness of part-of-speech, meaning, and alternative spellings of vocabularies generated in `word_folder/custom_wordlist.xlsx`.
-2. Change (or provide the option to change) the hints of words from "[part of speech] Meaning" to "sentence with a blank on the word". This allows a better contextual clue, as the meaning of words often uses difficult phrases, and students can learn how to properly use the presented word on the way.
+2. Change (or provide the option to change) the hints of words from "[part of speech] Meaning" to "sentence with a blank on the word". This allows a better contextual clue, as the meaning of words often uses difficult phrases and not as suitable as contextual hints. On the other hand, students can learn how to properly use the presented word on the way if "sentence with a blank on the word" are used as contextual hints.
